@@ -1,0 +1,11 @@
+C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon.Domain\bin\Debug\net8.0\BeautySalon.Domain.deps.json
+C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon.Domain\bin\Debug\net8.0\BeautySalon.Domain.dll
+C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon.Domain\bin\Debug\net8.0\BeautySalon.Domain.pdb
+C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon.Domain\obj\Debug\net8.0\BeautySalon.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon.Domain\obj\Debug\net8.0\BeautySalon.Domain.AssemblyInfoInputs.cache
+C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon.Domain\obj\Debug\net8.0\BeautySalon.Domain.AssemblyInfo.cs
+C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon.Domain\obj\Debug\net8.0\BeautySalon.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon.Domain\obj\Debug\net8.0\BeautySalon.Domain.dll
+C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon.Domain\obj\Debug\net8.0\refint\BeautySalon.Domain.dll
+C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon.Domain\obj\Debug\net8.0\BeautySalon.Domain.pdb
+C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon.Domain\obj\Debug\net8.0\ref\BeautySalon.Domain.dll

@@ -1,0 +1,951 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA58942-6349-4D5F-93E1-60A2E8B9C902}|BeautySalon\\BeautySalon.csproj|c:\\users\\artur\\onedrive\\pulpit\\studia\\3\\projekt\\beautysalon\\beautysalon\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA58942-6349-4D5F-93E1-60A2E8B9C902}|BeautySalon\\BeautySalon.csproj|solutionrelative:beautysalon\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA58942-6349-4D5F-93E1-60A2E8B9C902}|BeautySalon\\BeautySalon.csproj|c:\\users\\artur\\onedrive\\pulpit\\studia\\3\\projekt\\beautysalon\\beautysalon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA58942-6349-4D5F-93E1-60A2E8B9C902}|BeautySalon\\BeautySalon.csproj|solutionrelative:beautysalon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA58942-6349-4D5F-93E1-60A2E8B9C902}|BeautySalon\\BeautySalon.csproj|c:\\users\\artur\\onedrive\\pulpit\\studia\\3\\projekt\\beautysalon\\beautysalon\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6DA58942-6349-4D5F-93E1-60A2E8B9C902}|BeautySalon\\BeautySalon.csproj|solutionrelative:beautysalon\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA58942-6349-4D5F-93E1-60A2E8B9C902}|BeautySalon\\BeautySalon.csproj|c:\\users\\artur\\onedrive\\pulpit\\studia\\3\\projekt\\beautysalon\\beautysalon\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA58942-6349-4D5F-93E1-60A2E8B9C902}|BeautySalon\\BeautySalon.csproj|solutionrelative:beautysalon\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB463186-93A9-4ED4-AE49-1033E7A28B47}|BeautySalon.Application\\BeautySalon.Application.csproj|c:\\users\\artur\\onedrive\\pulpit\\studia\\3\\projekt\\beautysalon\\beautysalon.application\\services\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB463186-93A9-4ED4-AE49-1033E7A28B47}|BeautySalon.Application\\BeautySalon.Application.csproj|solutionrelative:beautysalon.application\\services\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB463186-93A9-4ED4-AE49-1033E7A28B47}|BeautySalon.Application\\BeautySalon.Application.csproj|c:\\users\\artur\\onedrive\\pulpit\\studia\\3\\projekt\\beautysalon\\beautysalon.application\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB463186-93A9-4ED4-AE49-1033E7A28B47}|BeautySalon.Application\\BeautySalon.Application.csproj|solutionrelative:beautysalon.application\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB463186-93A9-4ED4-AE49-1033E7A28B47}|BeautySalon.Application\\BeautySalon.Application.csproj|c:\\users\\artur\\onedrive\\pulpit\\studia\\3\\projekt\\beautysalon\\beautysalon.application\\services\\serviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB463186-93A9-4ED4-AE49-1033E7A28B47}|BeautySalon.Application\\BeautySalon.Application.csproj|solutionrelative:beautysalon.application\\services\\serviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA58942-6349-4D5F-93E1-60A2E8B9C902}|BeautySalon\\BeautySalon.csproj|c:\\users\\artur\\onedrive\\pulpit\\studia\\3\\projekt\\beautysalon\\beautysalon\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA58942-6349-4D5F-93E1-60A2E8B9C902}|BeautySalon\\BeautySalon.csproj|solutionrelative:beautysalon\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA58942-6349-4D5F-93E1-60A2E8B9C902}|BeautySalon\\BeautySalon.csproj|c:\\users\\artur\\onedrive\\pulpit\\studia\\3\\projekt\\beautysalon\\beautysalon\\controllers\\customerscontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA58942-6349-4D5F-93E1-60A2E8B9C902}|BeautySalon\\BeautySalon.csproj|solutionrelative:beautysalon\\controllers\\customerscontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA58942-6349-4D5F-93E1-60A2E8B9C902}|BeautySalon\\BeautySalon.csproj|c:\\users\\artur\\onedrive\\pulpit\\studia\\3\\projekt\\beautysalon\\beautysalon\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA58942-6349-4D5F-93E1-60A2E8B9C902}|BeautySalon\\BeautySalon.csproj|solutionrelative:beautysalon\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA58942-6349-4D5F-93E1-60A2E8B9C902}|BeautySalon\\BeautySalon.csproj|c:\\users\\artur\\onedrive\\pulpit\\studia\\3\\projekt\\beautysalon\\beautysalon\\logs\\log-20241221.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6DA58942-6349-4D5F-93E1-60A2E8B9C902}|BeautySalon\\BeautySalon.csproj|solutionrelative:beautysalon\\logs\\log-20241221.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAB8CFF-52E6-4C15-A8FD-FB1812760C33}|BeautySalon.Infrastructure\\BeautySalon.Infrastructure.csproj|c:\\users\\artur\\onedrive\\pulpit\\studia\\3\\projekt\\beautysalon\\beautysalon.infrastructure\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAB8CFF-52E6-4C15-A8FD-FB1812760C33}|BeautySalon.Infrastructure\\BeautySalon.Infrastructure.csproj|solutionrelative:beautysalon.infrastructure\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAB8CFF-52E6-4C15-A8FD-FB1812760C33}|BeautySalon.Infrastructure\\BeautySalon.Infrastructure.csproj|c:\\users\\artur\\onedrive\\pulpit\\studia\\3\\projekt\\beautysalon\\beautysalon.infrastructure\\migrations\\20241230193130_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAB8CFF-52E6-4C15-A8FD-FB1812760C33}|BeautySalon.Infrastructure\\BeautySalon.Infrastructure.csproj|solutionrelative:beautysalon.infrastructure\\migrations\\20241230193130_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAB8CFF-52E6-4C15-A8FD-FB1812760C33}|BeautySalon.Infrastructure\\BeautySalon.Infrastructure.csproj|c:\\users\\artur\\onedrive\\pulpit\\studia\\3\\projekt\\beautysalon\\beautysalon.infrastructure\\migrations\\20241230193130_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAB8CFF-52E6-4C15-A8FD-FB1812760C33}|BeautySalon.Infrastructure\\BeautySalon.Infrastructure.csproj|solutionrelative:beautysalon.infrastructure\\migrations\\20241230193130_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA58942-6349-4D5F-93E1-60A2E8B9C902}|BeautySalon\\BeautySalon.csproj|c:\\users\\artur\\onedrive\\pulpit\\studia\\3\\projekt\\beautysalon\\beautysalon\\beautysalon.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{6DA58942-6349-4D5F-93E1-60A2E8B9C902}|BeautySalon\\BeautySalon.csproj|solutionrelative:beautysalon\\beautysalon.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA58942-6349-4D5F-93E1-60A2E8B9C902}|BeautySalon\\BeautySalon.csproj|c:\\users\\artur\\onedrive\\pulpit\\studia\\3\\projekt\\beautysalon\\beautysalon\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6DA58942-6349-4D5F-93E1-60A2E8B9C902}|BeautySalon\\BeautySalon.csproj|solutionrelative:beautysalon\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Infrastructure\\Migrations\\20241230130303_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BeautySalon.Infrastructure\\Migrations\\20241230130303_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Infrastructure\\Migrations\\20241230135256_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BeautySalon.Infrastructure\\Migrations\\20241230135256_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Infrastructure\\Migrations\\20241230160738_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BeautySalon.Infrastructure\\Migrations\\20241230160738_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAB8CFF-52E6-4C15-A8FD-FB1812760C33}|BeautySalon.Infrastructure\\BeautySalon.Infrastructure.csproj|c:\\users\\artur\\onedrive\\pulpit\\studia\\3\\projekt\\beautysalon\\beautysalon.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAB8CFF-52E6-4C15-A8FD-FB1812760C33}|BeautySalon.Infrastructure\\BeautySalon.Infrastructure.csproj|solutionrelative:beautysalon.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA58942-6349-4D5F-93E1-60A2E8B9C902}|BeautySalon\\BeautySalon.csproj|c:\\users\\artur\\onedrive\\pulpit\\studia\\3\\projekt\\beautysalon\\beautysalon\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA58942-6349-4D5F-93E1-60A2E8B9C902}|BeautySalon\\BeautySalon.csproj|solutionrelative:beautysalon\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA58942-6349-4D5F-93E1-60A2E8B9C902}|BeautySalon\\BeautySalon.csproj|c:\\users\\artur\\onedrive\\pulpit\\studia\\3\\projekt\\beautysalon\\beautysalon\\controllers\\pricelistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA58942-6349-4D5F-93E1-60A2E8B9C902}|BeautySalon\\BeautySalon.csproj|solutionrelative:beautysalon\\controllers\\pricelistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA58942-6349-4D5F-93E1-60A2E8B9C902}|BeautySalon\\BeautySalon.csproj|c:\\users\\artur\\onedrive\\pulpit\\studia\\3\\projekt\\beautysalon\\beautysalon\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA58942-6349-4D5F-93E1-60A2E8B9C902}|BeautySalon\\BeautySalon.csproj|solutionrelative:beautysalon\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB463186-93A9-4ED4-AE49-1033E7A28B47}|BeautySalon.Application\\BeautySalon.Application.csproj|c:\\users\\artur\\onedrive\\pulpit\\studia\\3\\projekt\\beautysalon\\beautysalon.application\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB463186-93A9-4ED4-AE49-1033E7A28B47}|BeautySalon.Application\\BeautySalon.Application.csproj|solutionrelative:beautysalon.application\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAB8CFF-52E6-4C15-A8FD-FB1812760C33}|BeautySalon.Infrastructure\\BeautySalon.Infrastructure.csproj|c:\\users\\artur\\onedrive\\pulpit\\studia\\3\\projekt\\beautysalon\\beautysalon.infrastructure\\repositories\\pricelist\\pricelistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAB8CFF-52E6-4C15-A8FD-FB1812760C33}|BeautySalon.Infrastructure\\BeautySalon.Infrastructure.csproj|solutionrelative:beautysalon.infrastructure\\repositories\\pricelist\\pricelistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB463186-93A9-4ED4-AE49-1033E7A28B47}|BeautySalon.Application\\BeautySalon.Application.csproj|c:\\users\\artur\\onedrive\\pulpit\\studia\\3\\projekt\\beautysalon\\beautysalon.application\\services\\interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB463186-93A9-4ED4-AE49-1033E7A28B47}|BeautySalon.Application\\BeautySalon.Application.csproj|solutionrelative:beautysalon.application\\services\\interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAB8CFF-52E6-4C15-A8FD-FB1812760C33}|BeautySalon.Infrastructure\\BeautySalon.Infrastructure.csproj|c:\\users\\artur\\onedrive\\pulpit\\studia\\3\\projekt\\beautysalon\\beautysalon.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAB8CFF-52E6-4C15-A8FD-FB1812760C33}|BeautySalon.Infrastructure\\BeautySalon.Infrastructure.csproj|solutionrelative:beautysalon.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAB8CFF-52E6-4C15-A8FD-FB1812760C33}|BeautySalon.Infrastructure\\BeautySalon.Infrastructure.csproj|c:\\users\\artur\\onedrive\\pulpit\\studia\\3\\projekt\\beautysalon\\beautysalon.infrastructure\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAB8CFF-52E6-4C15-A8FD-FB1812760C33}|BeautySalon.Infrastructure\\BeautySalon.Infrastructure.csproj|solutionrelative:beautysalon.infrastructure\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAB8CFF-52E6-4C15-A8FD-FB1812760C33}|BeautySalon.Infrastructure\\BeautySalon.Infrastructure.csproj|c:\\users\\artur\\onedrive\\pulpit\\studia\\3\\projekt\\beautysalon\\beautysalon.infrastructure\\repositories\\user\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAB8CFF-52E6-4C15-A8FD-FB1812760C33}|BeautySalon.Infrastructure\\BeautySalon.Infrastructure.csproj|solutionrelative:beautysalon.infrastructure\\repositories\\user\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1351DE3-24BC-4B9D-9041-BD9B098EC4BC}|BeautySalon.Domain\\BeautySalon.Domain.csproj|c:\\users\\artur\\onedrive\\pulpit\\studia\\3\\projekt\\beautysalon\\beautysalon.domain\\models\\employeeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1351DE3-24BC-4B9D-9041-BD9B098EC4BC}|BeautySalon.Domain\\BeautySalon.Domain.csproj|solutionrelative:beautysalon.domain\\models\\employeeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1351DE3-24BC-4B9D-9041-BD9B098EC4BC}|BeautySalon.Domain\\BeautySalon.Domain.csproj|c:\\users\\artur\\onedrive\\pulpit\\studia\\3\\projekt\\beautysalon\\beautysalon.domain\\models\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1351DE3-24BC-4B9D-9041-BD9B098EC4BC}|BeautySalon.Domain\\BeautySalon.Domain.csproj|solutionrelative:beautysalon.domain\\models\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1351DE3-24BC-4B9D-9041-BD9B098EC4BC}|BeautySalon.Domain\\BeautySalon.Domain.csproj|c:\\users\\artur\\onedrive\\pulpit\\studia\\3\\projekt\\beautysalon\\beautysalon.domain\\models\\dtos\\employeebookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1351DE3-24BC-4B9D-9041-BD9B098EC4BC}|BeautySalon.Domain\\BeautySalon.Domain.csproj|solutionrelative:beautysalon.domain\\models\\dtos\\employeebookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1351DE3-24BC-4B9D-9041-BD9B098EC4BC}|BeautySalon.Domain\\BeautySalon.Domain.csproj|c:\\users\\artur\\onedrive\\pulpit\\studia\\3\\projekt\\beautysalon\\beautysalon.domain\\models\\requests\\createemployeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1351DE3-24BC-4B9D-9041-BD9B098EC4BC}|BeautySalon.Domain\\BeautySalon.Domain.csproj|solutionrelative:beautysalon.domain\\models\\requests\\createemployeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1351DE3-24BC-4B9D-9041-BD9B098EC4BC}|BeautySalon.Domain\\BeautySalon.Domain.csproj|c:\\users\\artur\\onedrive\\pulpit\\studia\\3\\projekt\\beautysalon\\beautysalon.domain\\models\\bookingentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1351DE3-24BC-4B9D-9041-BD9B098EC4BC}|BeautySalon.Domain\\BeautySalon.Domain.csproj|solutionrelative:beautysalon.domain\\models\\bookingentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1351DE3-24BC-4B9D-9041-BD9B098EC4BC}|BeautySalon.Domain\\BeautySalon.Domain.csproj|c:\\users\\artur\\onedrive\\pulpit\\studia\\3\\projekt\\beautysalon\\beautysalon.domain\\models\\requests\\updatebookingstatusrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1351DE3-24BC-4B9D-9041-BD9B098EC4BC}|BeautySalon.Domain\\BeautySalon.Domain.csproj|solutionrelative:beautysalon.domain\\models\\requests\\updatebookingstatusrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1351DE3-24BC-4B9D-9041-BD9B098EC4BC}|BeautySalon.Domain\\BeautySalon.Domain.csproj|c:\\users\\artur\\onedrive\\pulpit\\studia\\3\\projekt\\beautysalon\\beautysalon.domain\\enums\\bookingstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1351DE3-24BC-4B9D-9041-BD9B098EC4BC}|BeautySalon.Domain\\BeautySalon.Domain.csproj|solutionrelative:beautysalon.domain\\enums\\bookingstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAB8CFF-52E6-4C15-A8FD-FB1812760C33}|BeautySalon.Infrastructure\\BeautySalon.Infrastructure.csproj|c:\\users\\artur\\onedrive\\pulpit\\studia\\3\\projekt\\beautysalon\\beautysalon.infrastructure\\repositories\\booking\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAB8CFF-52E6-4C15-A8FD-FB1812760C33}|BeautySalon.Infrastructure\\BeautySalon.Infrastructure.csproj|solutionrelative:beautysalon.infrastructure\\repositories\\booking\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB463186-93A9-4ED4-AE49-1033E7A28B47}|BeautySalon.Application\\BeautySalon.Application.csproj|c:\\users\\artur\\onedrive\\pulpit\\studia\\3\\projekt\\beautysalon\\beautysalon.application\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB463186-93A9-4ED4-AE49-1033E7A28B47}|BeautySalon.Application\\BeautySalon.Application.csproj|solutionrelative:beautysalon.application\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1351DE3-24BC-4B9D-9041-BD9B098EC4BC}|BeautySalon.Domain\\BeautySalon.Domain.csproj|c:\\users\\artur\\onedrive\\pulpit\\studia\\3\\projekt\\beautysalon\\beautysalon.domain\\models\\requests\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1351DE3-24BC-4B9D-9041-BD9B098EC4BC}|BeautySalon.Domain\\BeautySalon.Domain.csproj|solutionrelative:beautysalon.domain\\models\\requests\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1351DE3-24BC-4B9D-9041-BD9B098EC4BC}|BeautySalon.Domain\\BeautySalon.Domain.csproj|c:\\users\\artur\\onedrive\\pulpit\\studia\\3\\projekt\\beautysalon\\beautysalon.domain\\models\\requests\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1351DE3-24BC-4B9D-9041-BD9B098EC4BC}|BeautySalon.Domain\\BeautySalon.Domain.csproj|solutionrelative:beautysalon.domain\\models\\requests\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1351DE3-24BC-4B9D-9041-BD9B098EC4BC}|BeautySalon.Domain\\BeautySalon.Domain.csproj|c:\\users\\artur\\onedrive\\pulpit\\studia\\3\\projekt\\beautysalon\\beautysalon.domain\\models\\requests\\customerregisterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1351DE3-24BC-4B9D-9041-BD9B098EC4BC}|BeautySalon.Domain\\BeautySalon.Domain.csproj|solutionrelative:beautysalon.domain\\models\\requests\\customerregisterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1351DE3-24BC-4B9D-9041-BD9B098EC4BC}|BeautySalon.Domain\\BeautySalon.Domain.csproj|c:\\users\\artur\\onedrive\\pulpit\\studia\\3\\projekt\\beautysalon\\beautysalon.domain\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1351DE3-24BC-4B9D-9041-BD9B098EC4BC}|BeautySalon.Domain\\BeautySalon.Domain.csproj|solutionrelative:beautysalon.domain\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1351DE3-24BC-4B9D-9041-BD9B098EC4BC}|BeautySalon.Domain\\BeautySalon.Domain.csproj|c:\\users\\artur\\onedrive\\pulpit\\studia\\3\\projekt\\beautysalon\\beautysalon.domain\\models\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1351DE3-24BC-4B9D-9041-BD9B098EC4BC}|BeautySalon.Domain\\BeautySalon.Domain.csproj|solutionrelative:beautysalon.domain\\models\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB463186-93A9-4ED4-AE49-1033E7A28B47}|BeautySalon.Application\\BeautySalon.Application.csproj|c:\\users\\artur\\onedrive\\pulpit\\studia\\3\\projekt\\beautysalon\\beautysalon.application\\services\\pricelistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB463186-93A9-4ED4-AE49-1033E7A28B47}|BeautySalon.Application\\BeautySalon.Application.csproj|solutionrelative:beautysalon.application\\services\\pricelistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAB8CFF-52E6-4C15-A8FD-FB1812760C33}|BeautySalon.Infrastructure\\BeautySalon.Infrastructure.csproj|c:\\users\\artur\\onedrive\\pulpit\\studia\\3\\projekt\\beautysalon\\beautysalon.infrastructure\\repositories\\pricelist\\ipricelistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAB8CFF-52E6-4C15-A8FD-FB1812760C33}|BeautySalon.Infrastructure\\BeautySalon.Infrastructure.csproj|solutionrelative:beautysalon.infrastructure\\repositories\\pricelist\\ipricelistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB463186-93A9-4ED4-AE49-1033E7A28B47}|BeautySalon.Application\\BeautySalon.Application.csproj|c:\\users\\artur\\onedrive\\pulpit\\studia\\3\\projekt\\beautysalon\\beautysalon.application\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB463186-93A9-4ED4-AE49-1033E7A28B47}|BeautySalon.Application\\BeautySalon.Application.csproj|solutionrelative:beautysalon.application\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB463186-93A9-4ED4-AE49-1033E7A28B47}|BeautySalon.Application\\BeautySalon.Application.csproj|c:\\users\\artur\\onedrive\\pulpit\\studia\\3\\projekt\\beautysalon\\beautysalon.application\\services\\interfaces\\ipricelistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB463186-93A9-4ED4-AE49-1033E7A28B47}|BeautySalon.Application\\BeautySalon.Application.csproj|solutionrelative:beautysalon.application\\services\\interfaces\\ipricelistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB463186-93A9-4ED4-AE49-1033E7A28B47}|BeautySalon.Application\\BeautySalon.Application.csproj|c:\\users\\artur\\onedrive\\pulpit\\studia\\3\\projekt\\beautysalon\\beautysalon.application\\services\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB463186-93A9-4ED4-AE49-1033E7A28B47}|BeautySalon.Application\\BeautySalon.Application.csproj|solutionrelative:beautysalon.application\\services\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAB8CFF-52E6-4C15-A8FD-FB1812760C33}|BeautySalon.Infrastructure\\BeautySalon.Infrastructure.csproj|c:\\users\\artur\\onedrive\\pulpit\\studia\\3\\projekt\\beautysalon\\beautysalon.infrastructure\\repositories\\user\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAB8CFF-52E6-4C15-A8FD-FB1812760C33}|BeautySalon.Infrastructure\\BeautySalon.Infrastructure.csproj|solutionrelative:beautysalon.infrastructure\\repositories\\user\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Infrastructure\\Migrations\\20241227150939_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BeautySalon.Infrastructure\\Migrations\\20241227150939_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA58942-6349-4D5F-93E1-60A2E8B9C902}|BeautySalon\\BeautySalon.csproj|c:\\users\\artur\\onedrive\\pulpit\\studia\\3\\projekt\\beautysalon\\beautysalon\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6DA58942-6349-4D5F-93E1-60A2E8B9C902}|BeautySalon\\BeautySalon.csproj|solutionrelative:beautysalon\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Infrastructure\\Migrations\\20241227150418_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BeautySalon.Infrastructure\\Migrations\\20241227150418_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Infrastructure\\Migrations\\20241227150337_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BeautySalon.Infrastructure\\Migrations\\20241227150337_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Infrastructure\\Migrations\\20241221121635_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BeautySalon.Infrastructure\\Migrations\\20241221121635_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Infrastructure\\Migrations\\20241221121328_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BeautySalon.Infrastructure\\Migrations\\20241221121328_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA58942-6349-4D5F-93E1-60A2E8B9C902}|BeautySalon\\BeautySalon.csproj|c:\\users\\artur\\onedrive\\pulpit\\studia\\3\\projekt\\beautysalon\\beautysalon\\beautysalon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6DA58942-6349-4D5F-93E1-60A2E8B9C902}|BeautySalon\\BeautySalon.csproj|solutionrelative:beautysalon\\beautysalon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA58942-6349-4D5F-93E1-60A2E8B9C902}|BeautySalon\\BeautySalon.csproj|c:\\users\\artur\\onedrive\\pulpit\\studia\\3\\projekt\\beautysalon\\beautysalon\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6DA58942-6349-4D5F-93E1-60A2E8B9C902}|BeautySalon\\BeautySalon.csproj|solutionrelative:beautysalon\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Infrastructure\\Migrations\\20241221113632_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BeautySalon.Infrastructure\\Migrations\\20241221113632_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BeautySalon.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BeautySalon.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAKkAAAAAAAAAAAAlwLcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T13:37:42.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "BeautySalon\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "BeautySalon\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T23:23:18.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomersController .cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon\\Controllers\\CustomersController .cs",
+              "RelativeDocumentMoniker": "BeautySalon\\Controllers\\CustomersController .cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon\\Controllers\\CustomersController .cs",
+              "RelativeToolTip": "BeautySalon\\Controllers\\CustomersController .cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBgAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T23:21:59.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "BeautySalon\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "BeautySalon\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T00:03:16.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "BeautySalon\\Controllers\\BookingsController.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "BeautySalon\\Controllers\\BookingsController.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAcwFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T14:29:26.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceService.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Application\\Services\\ServiceService.cs",
+              "RelativeDocumentMoniker": "BeautySalon.Application\\Services\\ServiceService.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Application\\Services\\ServiceService.cs",
+              "RelativeToolTip": "BeautySalon.Application\\Services\\ServiceService.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAmwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T01:30:49.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Application\\Services\\Interfaces\\IAccountService.cs",
+              "RelativeDocumentMoniker": "BeautySalon.Application\\Services\\Interfaces\\IAccountService.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Application\\Services\\Interfaces\\IAccountService.cs",
+              "RelativeToolTip": "BeautySalon.Application\\Services\\Interfaces\\IAccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T15:44:09.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon\\Startup.cs",
+              "RelativeDocumentMoniker": "BeautySalon\\Startup.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon\\Startup.cs",
+              "RelativeToolTip": "BeautySalon\\Startup.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAvwHsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T02:11:26.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon\\Dockerfile",
+              "RelativeDocumentMoniker": "BeautySalon\\Dockerfile",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon\\Dockerfile",
+              "RelativeToolTip": "BeautySalon\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-13T22:37:42.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon\\Program.cs",
+              "RelativeDocumentMoniker": "BeautySalon\\Program.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon\\Program.cs",
+              "RelativeToolTip": "BeautySalon\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAlwBUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T22:37:55.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Application\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "BeautySalon.Application\\Services\\AccountService.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Application\\Services\\AccountService.cs",
+              "RelativeToolTip": "BeautySalon.Application\\Services\\AccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:26:28.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20241230160738_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Infrastructure\\Migrations\\20241230160738_InitialCreate.cs",
+              "RelativeDocumentMoniker": "BeautySalon.Infrastructure\\Migrations\\20241230160738_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Infrastructure\\Migrations\\20241230160738_InitialCreate.cs",
+              "RelativeToolTip": "BeautySalon.Infrastructure\\Migrations\\20241230160738_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T16:07:38.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241230193130_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Infrastructure\\Migrations\\20241230193130_InitialCreate.cs",
+              "RelativeDocumentMoniker": "BeautySalon.Infrastructure\\Migrations\\20241230193130_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Infrastructure\\Migrations\\20241230193130_InitialCreate.cs",
+              "RelativeToolTip": "BeautySalon.Infrastructure\\Migrations\\20241230193130_InitialCreate.cs",
+              "ViewState": "AQIAALcAAAAAAAAAAAAlwMUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T02:46:40.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241230193130_InitialCreate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Infrastructure\\Migrations\\20241230193130_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "BeautySalon.Infrastructure\\Migrations\\20241230193130_InitialCreate.Designer.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Infrastructure\\Migrations\\20241230193130_InitialCreate.Designer.cs",
+              "RelativeToolTip": "BeautySalon.Infrastructure\\Migrations\\20241230193130_InitialCreate.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T02:46:44.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "BeautySalon.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "BeautySalon.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T02:46:46.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "log-20241221.txt",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon\\logs\\log-20241221.txt",
+              "RelativeDocumentMoniker": "BeautySalon\\logs\\log-20241221.txt",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon\\logs\\log-20241221.txt",
+              "RelativeToolTip": "BeautySalon\\logs\\log-20241221.txt",
+              "ViewState": "AQIAAMkAAAAAAAAAAAAQwOUAAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-31T02:46:47.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241230135256_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Infrastructure\\Migrations\\20241230135256_InitialCreate.cs",
+              "RelativeDocumentMoniker": "BeautySalon.Infrastructure\\Migrations\\20241230135256_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Infrastructure\\Migrations\\20241230135256_InitialCreate.cs",
+              "RelativeToolTip": "BeautySalon.Infrastructure\\Migrations\\20241230135256_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T13:52:56.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241230130303_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Infrastructure\\Migrations\\20241230130303_InitialCreate.cs",
+              "RelativeDocumentMoniker": "BeautySalon.Infrastructure\\Migrations\\20241230130303_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Infrastructure\\Migrations\\20241230130303_InitialCreate.cs",
+              "RelativeToolTip": "BeautySalon.Infrastructure\\Migrations\\20241230130303_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T13:03:04.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BeautySalon\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BeautySalon\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABwAAAAAAAAAAAAjwC8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-13T22:39:18.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BeautySalon.http",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon\\BeautySalon.http",
+              "RelativeDocumentMoniker": "BeautySalon\\BeautySalon.http",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon\\BeautySalon.http",
+              "RelativeToolTip": "BeautySalon\\BeautySalon.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-13T22:37:49.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "BeautySalon\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "BeautySalon\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T02:09:23.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PriceListsController.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon\\Controllers\\PriceListsController.cs",
+              "RelativeDocumentMoniker": "BeautySalon\\Controllers\\PriceListsController.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon\\Controllers\\PriceListsController.cs",
+              "RelativeToolTip": "BeautySalon\\Controllers\\PriceListsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T23:45:37.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ServicesController.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon\\Controllers\\ServicesController.cs",
+              "RelativeDocumentMoniker": "BeautySalon\\Controllers\\ServicesController.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon\\Controllers\\ServicesController.cs",
+              "RelativeToolTip": "BeautySalon\\Controllers\\ServicesController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAIBJwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T23:23:08.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Infrastructure\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "BeautySalon.Infrastructure\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Infrastructure\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "BeautySalon.Infrastructure\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T02:07:37.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "BeautySalon.Infrastructure\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "BeautySalon.Infrastructure\\Repositories\\Repository.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAcwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T02:07:47.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Application\\Services\\BookingService.cs",
+              "RelativeDocumentMoniker": "BeautySalon.Application\\Services\\BookingService.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Application\\Services\\BookingService.cs",
+              "RelativeToolTip": "BeautySalon.Application\\Services\\BookingService.cs",
+              "ViewState": "AQIAABYBAAAAAAAAAAAgwCMBAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T02:10:14.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IBookingService.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Application\\Services\\Interfaces\\IBookingService.cs",
+              "RelativeDocumentMoniker": "BeautySalon.Application\\Services\\Interfaces\\IBookingService.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Application\\Services\\Interfaces\\IBookingService.cs",
+              "RelativeToolTip": "BeautySalon.Application\\Services\\Interfaces\\IBookingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T02:11:55.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PriceListRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Infrastructure\\Repositories\\PriceList\\PriceListRepository.cs",
+              "RelativeDocumentMoniker": "BeautySalon.Infrastructure\\Repositories\\PriceList\\PriceListRepository.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Infrastructure\\Repositories\\PriceList\\PriceListRepository.cs",
+              "RelativeToolTip": "BeautySalon.Infrastructure\\Repositories\\PriceList\\PriceListRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T23:55:10.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EmployeeEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Domain\\Models\\EmployeeEntity.cs",
+              "RelativeDocumentMoniker": "BeautySalon.Domain\\Models\\EmployeeEntity.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Domain\\Models\\EmployeeEntity.cs",
+              "RelativeToolTip": "BeautySalon.Domain\\Models\\EmployeeEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T01:28:58.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EmployeeBookingDto.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Domain\\Models\\Dtos\\EmployeeBookingDto.cs",
+              "RelativeDocumentMoniker": "BeautySalon.Domain\\Models\\Dtos\\EmployeeBookingDto.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Domain\\Models\\Dtos\\EmployeeBookingDto.cs",
+              "RelativeToolTip": "BeautySalon.Domain\\Models\\Dtos\\EmployeeBookingDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T01:28:21.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Infrastructure\\Repositories\\User\\UserRepository.cs",
+              "RelativeDocumentMoniker": "BeautySalon.Infrastructure\\Repositories\\User\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Infrastructure\\Repositories\\User\\UserRepository.cs",
+              "RelativeToolTip": "BeautySalon.Infrastructure\\Repositories\\User\\UserRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T01:33:03.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Domain\\Models\\UserEntity.cs",
+              "RelativeDocumentMoniker": "BeautySalon.Domain\\Models\\UserEntity.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Domain\\Models\\UserEntity.cs",
+              "RelativeToolTip": "BeautySalon.Domain\\Models\\UserEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T23:35:32.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BookingStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Domain\\Enums\\BookingStatus.cs",
+              "RelativeDocumentMoniker": "BeautySalon.Domain\\Enums\\BookingStatus.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Domain\\Enums\\BookingStatus.cs",
+              "RelativeToolTip": "BeautySalon.Domain\\Enums\\BookingStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T23:17:39.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BookingEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Domain\\Models\\BookingEntity.cs",
+              "RelativeDocumentMoniker": "BeautySalon.Domain\\Models\\BookingEntity.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Domain\\Models\\BookingEntity.cs",
+              "RelativeToolTip": "BeautySalon.Domain\\Models\\BookingEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T13:07:39.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CreateEmployeeRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Domain\\Models\\Requests\\CreateEmployeeRequest.cs",
+              "RelativeDocumentMoniker": "BeautySalon.Domain\\Models\\Requests\\CreateEmployeeRequest.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Domain\\Models\\Requests\\CreateEmployeeRequest.cs",
+              "RelativeToolTip": "BeautySalon.Domain\\Models\\Requests\\CreateEmployeeRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T13:17:47.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UpdateBookingStatusRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Domain\\Models\\Requests\\UpdateBookingStatusRequest.cs",
+              "RelativeDocumentMoniker": "BeautySalon.Domain\\Models\\Requests\\UpdateBookingStatusRequest.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Domain\\Models\\Requests\\UpdateBookingStatusRequest.cs",
+              "RelativeToolTip": "BeautySalon.Domain\\Models\\Requests\\UpdateBookingStatusRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T21:17:46.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Infrastructure\\Repositories\\Booking\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "BeautySalon.Infrastructure\\Repositories\\Booking\\BookingRepository.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Infrastructure\\Repositories\\Booking\\BookingRepository.cs",
+              "RelativeToolTip": "BeautySalon.Infrastructure\\Repositories\\Booking\\BookingRepository.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwE8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T13:43:46.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Application\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "BeautySalon.Application\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Application\\Services\\CustomerService.cs",
+              "RelativeToolTip": "BeautySalon.Application\\Services\\CustomerService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAApwBsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T01:21:12.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CustomerRegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Domain\\Models\\Requests\\CustomerRegisterRequest.cs",
+              "RelativeDocumentMoniker": "BeautySalon.Domain\\Models\\Requests\\CustomerRegisterRequest.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Domain\\Models\\Requests\\CustomerRegisterRequest.cs",
+              "RelativeToolTip": "BeautySalon.Domain\\Models\\Requests\\CustomerRegisterRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T13:47:18.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Domain\\Models\\Requests\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "BeautySalon.Domain\\Models\\Requests\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Domain\\Models\\Requests\\LoginRequest.cs",
+              "RelativeToolTip": "BeautySalon.Domain\\Models\\Requests\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:37:10.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Domain\\Models\\Requests\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "BeautySalon.Domain\\Models\\Requests\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Domain\\Models\\Requests\\RegisterRequest.cs",
+              "RelativeToolTip": "BeautySalon.Domain\\Models\\Requests\\RegisterRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T00:05:21.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Domain\\Enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "BeautySalon.Domain\\Enums\\UserRole.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Domain\\Enums\\UserRole.cs",
+              "RelativeToolTip": "BeautySalon.Domain\\Enums\\UserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:25:00.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CurrentUser.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Domain\\Models\\CurrentUser.cs",
+              "RelativeDocumentMoniker": "BeautySalon.Domain\\Models\\CurrentUser.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Domain\\Models\\CurrentUser.cs",
+              "RelativeToolTip": "BeautySalon.Domain\\Models\\CurrentUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:36:57.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "PriceListService.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Application\\Services\\PriceListService.cs",
+              "RelativeDocumentMoniker": "BeautySalon.Application\\Services\\PriceListService.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Application\\Services\\PriceListService.cs",
+              "RelativeToolTip": "BeautySalon.Application\\Services\\PriceListService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T23:55:42.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IPriceListRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Infrastructure\\Repositories\\PriceList\\IPriceListRepository.cs",
+              "RelativeDocumentMoniker": "BeautySalon.Infrastructure\\Repositories\\PriceList\\IPriceListRepository.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Infrastructure\\Repositories\\PriceList\\IPriceListRepository.cs",
+              "RelativeToolTip": "BeautySalon.Infrastructure\\Repositories\\PriceList\\IPriceListRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T01:48:21.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Application\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "BeautySalon.Application\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Application\\Services\\JwtService.cs",
+              "RelativeToolTip": "BeautySalon.Application\\Services\\JwtService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T00:02:14.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IPriceListService.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Application\\Services\\Interfaces\\IPriceListService.cs",
+              "RelativeDocumentMoniker": "BeautySalon.Application\\Services\\Interfaces\\IPriceListService.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Application\\Services\\Interfaces\\IPriceListService.cs",
+              "RelativeToolTip": "BeautySalon.Application\\Services\\Interfaces\\IPriceListService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T15:47:36.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Application\\Services\\Interfaces\\IJwtService.cs",
+              "RelativeDocumentMoniker": "BeautySalon.Application\\Services\\Interfaces\\IJwtService.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Application\\Services\\Interfaces\\IJwtService.cs",
+              "RelativeToolTip": "BeautySalon.Application\\Services\\Interfaces\\IJwtService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T15:48:06.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Infrastructure\\Repositories\\User\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "BeautySalon.Infrastructure\\Repositories\\User\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Infrastructure\\Repositories\\User\\IUserRepository.cs",
+              "RelativeToolTip": "BeautySalon.Infrastructure\\Repositories\\User\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T01:33:00.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon\\appsettings.json",
+              "RelativeDocumentMoniker": "BeautySalon\\appsettings.json",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon\\appsettings.json",
+              "RelativeToolTip": "BeautySalon\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-27T15:06:18.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20241227150939_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Infrastructure\\Migrations\\20241227150939_InitialCreate.cs",
+              "RelativeDocumentMoniker": "BeautySalon.Infrastructure\\Migrations\\20241227150939_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Infrastructure\\Migrations\\20241227150939_InitialCreate.cs",
+              "RelativeToolTip": "BeautySalon.Infrastructure\\Migrations\\20241227150939_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T15:09:39.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20241227150418_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Infrastructure\\Migrations\\20241227150418_InitialCreate.cs",
+              "RelativeDocumentMoniker": "BeautySalon.Infrastructure\\Migrations\\20241227150418_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Infrastructure\\Migrations\\20241227150418_InitialCreate.cs",
+              "RelativeToolTip": "BeautySalon.Infrastructure\\Migrations\\20241227150418_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T15:04:18.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20241227150337_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Infrastructure\\Migrations\\20241227150337_InitialCreate.cs",
+              "RelativeDocumentMoniker": "BeautySalon.Infrastructure\\Migrations\\20241227150337_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Infrastructure\\Migrations\\20241227150337_InitialCreate.cs",
+              "RelativeToolTip": "BeautySalon.Infrastructure\\Migrations\\20241227150337_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T15:03:37.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "BeautySalon.csproj",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon\\BeautySalon.csproj",
+              "RelativeDocumentMoniker": "BeautySalon\\BeautySalon.csproj",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon\\BeautySalon.csproj",
+              "RelativeToolTip": "BeautySalon\\BeautySalon.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-13T22:47:14.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20241221121328_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Infrastructure\\Migrations\\20241221121328_InitialCreate.cs",
+              "RelativeDocumentMoniker": "BeautySalon.Infrastructure\\Migrations\\20241221121328_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Infrastructure\\Migrations\\20241221121328_InitialCreate.cs",
+              "RelativeToolTip": "BeautySalon.Infrastructure\\Migrations\\20241221121328_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T12:13:29.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20241221121635_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Infrastructure\\Migrations\\20241221121635_InitialCreate.cs",
+              "RelativeDocumentMoniker": "BeautySalon.Infrastructure\\Migrations\\20241221121635_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Infrastructure\\Migrations\\20241221121635_InitialCreate.cs",
+              "RelativeToolTip": "BeautySalon.Infrastructure\\Migrations\\20241221121635_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T12:16:35.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BeautySalon\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon\\appsettings.Development.json",
+              "RelativeToolTip": "BeautySalon\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-21T11:13:55.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20241221113632_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Infrastructure\\Migrations\\20241221113632_InitialCreate.cs",
+              "RelativeDocumentMoniker": "BeautySalon.Infrastructure\\Migrations\\20241221113632_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Artur\\OneDrive\\Pulpit\\Studia\\3\\Projekt\\BeautySalon\\BeautySalon.Infrastructure\\Migrations\\20241221113632_InitialCreate.cs",
+              "RelativeToolTip": "BeautySalon.Infrastructure\\Migrations\\20241221113632_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T11:36:32.712Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

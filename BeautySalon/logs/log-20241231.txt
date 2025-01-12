@@ -1,0 +1,1288 @@
+2024-12-31 01:23:08.450 +01:00 [INF] Fetching all services
+2024-12-31 01:23:08.639 +01:00 [INF] Fetching all services
+2024-12-31 01:23:12.849 +01:00 [INF] Fetching all services
+2024-12-31 01:23:12.859 +01:00 [INF] Fetching all services
+2024-12-31 01:23:19.666 +01:00 [INF] Attempting to log in user with email: employee@gmail.com
+2024-12-31 01:23:19.911 +01:00 [INF] Generating JWT for UserId: "b8bbbbf0-8ee2-4253-8fb9-f9135abe7138", Role: Employee
+2024-12-31 01:23:19.914 +01:00 [INF] JWT generated successfully for UserId: "b8bbbbf0-8ee2-4253-8fb9-f9135abe7138"
+2024-12-31 01:23:19.916 +01:00 [INF] Login successful for user: "b8bbbbf0-8ee2-4253-8fb9-f9135abe7138"
+2024-12-31 01:23:19.925 +01:00 [INF] Current user retrieved successfully: b8bbbbf0-8ee2-4253-8fb9-f9135abe7138
+2024-12-31 01:23:20.119 +01:00 [INF] Current user retrieved successfully: b8bbbbf0-8ee2-4253-8fb9-f9135abe7138
+2024-12-31 01:23:20.128 +01:00 [INF] Current user retrieved successfully: b8bbbbf0-8ee2-4253-8fb9-f9135abe7138
+2024-12-31 01:23:20.140 +01:00 [INF] Fetching employee with UserId: "b8bbbbf0-8ee2-4253-8fb9-f9135abe7138"
+2024-12-31 01:23:20.152 +01:00 [INF] Fetching employee with UserId: "b8bbbbf0-8ee2-4253-8fb9-f9135abe7138"
+2024-12-31 01:23:21.124 +01:00 [INF] Fetching all services
+2024-12-31 01:23:21.131 +01:00 [INF] Fetching all services
+2024-12-31 01:23:21.573 +01:00 [INF] Fetching employee with UserId: "b8bbbbf0-8ee2-4253-8fb9-f9135abe7138"
+2024-12-31 01:23:21.586 +01:00 [INF] Fetching employee with UserId: "b8bbbbf0-8ee2-4253-8fb9-f9135abe7138"
+2024-12-31 01:23:21.924 +01:00 [INF] Fetching employee with UserId: "b8bbbbf0-8ee2-4253-8fb9-f9135abe7138"
+2024-12-31 01:23:21.937 +01:00 [INF] Fetching employee with UserId: "b8bbbbf0-8ee2-4253-8fb9-f9135abe7138"
+2024-12-31 01:23:22.242 +01:00 [INF] Current user retrieved successfully: b8bbbbf0-8ee2-4253-8fb9-f9135abe7138
+2024-12-31 01:23:22.248 +01:00 [INF] Current user retrieved successfully: b8bbbbf0-8ee2-4253-8fb9-f9135abe7138
+2024-12-31 01:23:22.259 +01:00 [INF] Fetching employee with UserId: "b8bbbbf0-8ee2-4253-8fb9-f9135abe7138"
+2024-12-31 01:23:22.272 +01:00 [INF] Fetching employee with UserId: "b8bbbbf0-8ee2-4253-8fb9-f9135abe7138"
+2024-12-31 01:23:23.358 +01:00 [INF] Fetching employee with UserId: "b8bbbbf0-8ee2-4253-8fb9-f9135abe7138"
+2024-12-31 01:23:23.370 +01:00 [INF] Fetching employee with UserId: "b8bbbbf0-8ee2-4253-8fb9-f9135abe7138"
+2024-12-31 01:23:31.512 +01:00 [INF] Current user retrieved successfully: b8bbbbf0-8ee2-4253-8fb9-f9135abe7138
+2024-12-31 01:23:31.517 +01:00 [INF] Current user retrieved successfully: b8bbbbf0-8ee2-4253-8fb9-f9135abe7138
+2024-12-31 01:23:31.570 +01:00 [INF] Fetching employee with UserId: "b8bbbbf0-8ee2-4253-8fb9-f9135abe7138"
+2024-12-31 01:23:31.579 +01:00 [INF] Fetching employee with UserId: "b8bbbbf0-8ee2-4253-8fb9-f9135abe7138"
+2024-12-31 01:23:32.648 +01:00 [INF] Fetching employee with UserId: "b8bbbbf0-8ee2-4253-8fb9-f9135abe7138"
+2024-12-31 01:23:32.659 +01:00 [INF] Fetching employee with UserId: "b8bbbbf0-8ee2-4253-8fb9-f9135abe7138"
+2024-12-31 01:23:38.263 +01:00 [INF] Current user retrieved successfully: b8bbbbf0-8ee2-4253-8fb9-f9135abe7138
+2024-12-31 01:23:38.270 +01:00 [INF] Current user retrieved successfully: b8bbbbf0-8ee2-4253-8fb9-f9135abe7138
+2024-12-31 01:23:38.284 +01:00 [INF] Fetching employee with UserId: "b8bbbbf0-8ee2-4253-8fb9-f9135abe7138"
+2024-12-31 01:23:38.295 +01:00 [INF] Fetching employee with UserId: "b8bbbbf0-8ee2-4253-8fb9-f9135abe7138"
+2024-12-31 01:23:38.717 +01:00 [INF] Fetching all services
+2024-12-31 01:23:38.726 +01:00 [INF] Fetching all services
+2024-12-31 01:23:39.171 +01:00 [INF] Fetching employee with UserId: "b8bbbbf0-8ee2-4253-8fb9-f9135abe7138"
+2024-12-31 01:23:39.181 +01:00 [INF] Fetching employee with UserId: "b8bbbbf0-8ee2-4253-8fb9-f9135abe7138"
+2024-12-31 01:23:39.511 +01:00 [INF] Fetching employee with UserId: "b8bbbbf0-8ee2-4253-8fb9-f9135abe7138"
+2024-12-31 01:23:39.521 +01:00 [INF] Fetching employee with UserId: "b8bbbbf0-8ee2-4253-8fb9-f9135abe7138"
+2024-12-31 01:23:41.385 +01:00 [INF] Fetching employee with UserId: "b8bbbbf0-8ee2-4253-8fb9-f9135abe7138"
+2024-12-31 01:23:41.387 +01:00 [INF] Fetching employee with UserId: "b8bbbbf0-8ee2-4253-8fb9-f9135abe7138"
+2024-12-31 01:23:43.111 +01:00 [INF] Fetching employee with UserId: "b8bbbbf0-8ee2-4253-8fb9-f9135abe7138"
+2024-12-31 01:23:43.113 +01:00 [INF] Fetching employee with UserId: "b8bbbbf0-8ee2-4253-8fb9-f9135abe7138"
+2024-12-31 01:24:05.228 +01:00 [INF] Current user retrieved successfully: b8bbbbf0-8ee2-4253-8fb9-f9135abe7138
+2024-12-31 01:24:05.233 +01:00 [INF] Current user retrieved successfully: b8bbbbf0-8ee2-4253-8fb9-f9135abe7138
+2024-12-31 01:24:05.249 +01:00 [INF] Fetching employee with UserId: "b8bbbbf0-8ee2-4253-8fb9-f9135abe7138"
+2024-12-31 01:24:05.260 +01:00 [INF] Fetching employee with UserId: "b8bbbbf0-8ee2-4253-8fb9-f9135abe7138"
+2024-12-31 01:24:31.283 +01:00 [INF] Starting up the application
+2024-12-31 01:24:31.705 +01:00 [INF] Applying migrations
+2024-12-31 01:24:32.448 +01:00 [ERR] An error occurred using the connection to database 'BeautySalonDB' on server 'tcp://localhost:5432'.
+2024-12-31 01:24:33.547 +01:00 [INF] Migrations applied successfully
+2024-12-31 01:24:34.948 +01:00 [INF] Seeds applied successfully
+2024-12-31 01:24:54.997 +01:00 [INF] Attempting to log in user with email: employee@gmail.com
+2024-12-31 01:24:55.347 +01:00 [INF] Generating JWT for UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae", Role: Employee
+2024-12-31 01:24:55.375 +01:00 [INF] JWT generated successfully for UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:24:55.378 +01:00 [INF] Login successful for user: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:24:55.467 +01:00 [INF] Current user retrieved successfully: 32abc6a2-8169-45ab-b1fe-81259862f8ae
+2024-12-31 01:24:55.613 +01:00 [INF] Current user retrieved successfully: 32abc6a2-8169-45ab-b1fe-81259862f8ae
+2024-12-31 01:24:55.625 +01:00 [INF] Current user retrieved successfully: 32abc6a2-8169-45ab-b1fe-81259862f8ae
+2024-12-31 01:24:55.647 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:24:55.736 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:24:58.620 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:24:58.636 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:24:59.203 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:24:59.220 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:25:00.830 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:25:00.832 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:25:03.588 +01:00 [INF] Current user retrieved successfully: 32abc6a2-8169-45ab-b1fe-81259862f8ae
+2024-12-31 01:25:03.594 +01:00 [INF] Current user retrieved successfully: 32abc6a2-8169-45ab-b1fe-81259862f8ae
+2024-12-31 01:25:03.612 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:25:03.625 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:25:31.147 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:25:31.160 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:25:35.091 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:25:35.102 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:25:45.319 +01:00 [INF] Current user retrieved successfully: 32abc6a2-8169-45ab-b1fe-81259862f8ae
+2024-12-31 01:25:45.326 +01:00 [INF] Current user retrieved successfully: 32abc6a2-8169-45ab-b1fe-81259862f8ae
+2024-12-31 01:25:45.341 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:25:45.352 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:25:46.528 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:25:46.538 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:25:46.970 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:25:46.971 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:25:47.375 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:25:47.385 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:25:48.006 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:25:48.019 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:25:48.412 +01:00 [INF] Fetching all services
+2024-12-31 01:25:48.435 +01:00 [INF] Fetching all services
+2024-12-31 01:25:49.325 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:25:49.340 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:27:24.902 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:27:24.912 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:27:30.098 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:27:30.108 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:27:33.230 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:27:33.239 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:27:33.734 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:27:33.747 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:27:34.302 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:27:34.313 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:27:35.005 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:27:35.017 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:27:35.476 +01:00 [INF] Current user retrieved successfully: 32abc6a2-8169-45ab-b1fe-81259862f8ae
+2024-12-31 01:27:35.595 +01:00 [INF] Current user retrieved successfully: 32abc6a2-8169-45ab-b1fe-81259862f8ae
+2024-12-31 01:27:35.606 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:27:35.626 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:27:36.763 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:27:36.775 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:27:39.699 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:27:39.712 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:27:42.844 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:27:42.854 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:27:43.909 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:27:43.919 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:27:56.692 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:27:56.697 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:28:07.819 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:28:07.821 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:28:38.532 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:28:38.546 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:28:39.766 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:28:39.767 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:28:43.014 +01:00 [INF] Attempting to log in user with email: customer@gmail.com
+2024-12-31 01:28:43.134 +01:00 [INF] Generating JWT for UserId: "9b6a3747-1fb9-4897-a186-2cd879382324", Role: Customer
+2024-12-31 01:28:43.139 +01:00 [INF] JWT generated successfully for UserId: "9b6a3747-1fb9-4897-a186-2cd879382324"
+2024-12-31 01:28:43.141 +01:00 [INF] Login successful for user: "9b6a3747-1fb9-4897-a186-2cd879382324"
+2024-12-31 01:28:43.152 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 01:28:43.355 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 01:28:43.363 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 01:28:43.381 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 01:28:43.406 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 01:28:44.399 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 01:28:44.402 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 01:29:20.225 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 01:29:20.715 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 01:30:07.546 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 01:30:07.548 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 01:30:43.991 +01:00 [INF] Fetching all services
+2024-12-31 01:30:44.004 +01:00 [INF] Fetching all services
+2024-12-31 01:30:44.545 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 01:30:44.553 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 01:30:44.570 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 01:31:13.438 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 01:31:18.498 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 01:31:18.506 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 01:31:48.798 +01:00 [INF] Starting up the application
+2024-12-31 01:31:49.275 +01:00 [INF] Applying migrations
+2024-12-31 01:31:50.290 +01:00 [INF] Migrations applied successfully
+2024-12-31 01:31:50.457 +01:00 [INF] Seeds applied successfully
+2024-12-31 01:31:51.274 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 01:31:51.274 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 01:32:03.254 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 01:32:03.254 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 01:32:13.210 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 01:32:13.222 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 01:32:13.235 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 01:32:44.165 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 01:32:44.169 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 01:32:44.170 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 01:33:22.792 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 01:33:31.481 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 01:34:02.987 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 01:34:02.990 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 01:36:36.941 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 01:36:36.943 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 01:36:44.526 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 01:36:44.543 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 01:36:44.559 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 01:36:53.580 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 01:37:22.038 +01:00 [INF] Fetching all services
+2024-12-31 01:37:22.120 +01:00 [INF] Fetching all services
+2024-12-31 01:37:22.787 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 01:37:22.803 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 01:37:23.436 +01:00 [INF] Fetching all services
+2024-12-31 01:37:23.449 +01:00 [INF] Fetching all services
+2024-12-31 01:37:23.788 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 01:37:23.816 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 01:37:23.845 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 01:37:23.880 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 01:38:07.103 +01:00 [INF] Attempting to log in user with email: employee@gmail.com
+2024-12-31 01:38:07.393 +01:00 [INF] Generating JWT for UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae", Role: Employee
+2024-12-31 01:38:07.404 +01:00 [INF] JWT generated successfully for UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:38:07.407 +01:00 [INF] Login successful for user: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:38:07.419 +01:00 [INF] Current user retrieved successfully: 32abc6a2-8169-45ab-b1fe-81259862f8ae
+2024-12-31 01:38:07.578 +01:00 [INF] Current user retrieved successfully: 32abc6a2-8169-45ab-b1fe-81259862f8ae
+2024-12-31 01:38:07.586 +01:00 [INF] Current user retrieved successfully: 32abc6a2-8169-45ab-b1fe-81259862f8ae
+2024-12-31 01:38:07.604 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:38:07.630 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:38:08.934 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:38:08.949 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:38:15.729 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:38:15.731 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:38:16.919 +01:00 [INF] Fetching all services
+2024-12-31 01:38:16.930 +01:00 [INF] Fetching all services
+2024-12-31 01:38:17.247 +01:00 [INF] Current user retrieved successfully: 32abc6a2-8169-45ab-b1fe-81259862f8ae
+2024-12-31 01:38:17.257 +01:00 [INF] Current user retrieved successfully: 32abc6a2-8169-45ab-b1fe-81259862f8ae
+2024-12-31 01:38:17.271 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:38:17.283 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:38:17.565 +01:00 [INF] Fetching all services
+2024-12-31 01:38:17.574 +01:00 [INF] Fetching all services
+2024-12-31 01:38:18.040 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:38:18.054 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:38:18.357 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:38:18.373 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:38:19.152 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:38:19.154 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:38:20.137 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:38:20.148 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:38:31.687 +01:00 [INF] Current user retrieved successfully: 32abc6a2-8169-45ab-b1fe-81259862f8ae
+2024-12-31 01:38:31.693 +01:00 [INF] Current user retrieved successfully: 32abc6a2-8169-45ab-b1fe-81259862f8ae
+2024-12-31 01:38:31.709 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:38:31.720 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 01:44:12.289 +01:00 [INF] Attempting to log in user with email: admin@gmail.com
+2024-12-31 01:44:12.444 +01:00 [INF] Generating JWT for UserId: "c3dc5495-024c-4a5f-9324-c557cecf65e6", Role: Administrator
+2024-12-31 01:44:12.446 +01:00 [INF] JWT generated successfully for UserId: "c3dc5495-024c-4a5f-9324-c557cecf65e6"
+2024-12-31 01:44:12.448 +01:00 [INF] Login successful for user: "c3dc5495-024c-4a5f-9324-c557cecf65e6"
+2024-12-31 01:44:12.457 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 01:44:12.615 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 01:44:12.622 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 01:47:00.754 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 01:47:00.760 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 01:47:08.757 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 01:47:08.765 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 01:49:09.122 +01:00 [INF] Fetching all services
+2024-12-31 01:49:09.134 +01:00 [INF] Fetching all services
+2024-12-31 01:49:18.938 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 01:49:18.943 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 01:49:21.069 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 01:49:21.074 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 01:49:21.738 +01:00 [INF] Fetching all services
+2024-12-31 01:49:21.780 +01:00 [INF] Fetching all services
+2024-12-31 01:49:24.682 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 01:49:24.687 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 01:53:39.147 +01:00 [INF] Fetching all services
+2024-12-31 01:53:39.155 +01:00 [INF] Fetching all services
+2024-12-31 01:53:41.598 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 01:53:41.602 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 01:53:47.301 +01:00 [INF] Fetching all services
+2024-12-31 01:53:47.308 +01:00 [INF] Fetching all services
+2024-12-31 01:53:51.677 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 01:53:51.682 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 01:55:05.758 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 01:55:05.763 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 01:55:14.843 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 01:55:14.849 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 01:57:10.142 +01:00 [INF] Fetching all services
+2024-12-31 01:57:10.183 +01:00 [INF] Fetching all services
+2024-12-31 01:57:16.847 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 01:57:16.851 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 01:58:38.393 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 01:58:38.398 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 01:58:39.962 +01:00 [INF] Fetching all services
+2024-12-31 01:58:39.969 +01:00 [INF] Fetching all services
+2024-12-31 01:58:42.334 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 01:58:42.339 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 01:59:04.999 +01:00 [INF] Fetching all services
+2024-12-31 01:59:05.012 +01:00 [INF] Fetching all services
+2024-12-31 01:59:05.931 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 01:59:05.937 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 01:59:06.864 +01:00 [INF] Fetching all services
+2024-12-31 01:59:06.876 +01:00 [INF] Fetching all services
+2024-12-31 01:59:07.227 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 01:59:07.232 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 01:59:08.499 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 01:59:08.504 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 01:59:11.861 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 01:59:11.868 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:00:43.005 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:00:43.010 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:01:14.092 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:01:14.098 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:01:17.309 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:01:17.314 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:01:37.961 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:01:37.965 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:01:38.771 +01:00 [INF] Fetching all services
+2024-12-31 02:01:38.779 +01:00 [INF] Fetching all services
+2024-12-31 02:01:39.234 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:01:39.240 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:01:40.186 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:01:40.191 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:01:40.585 +01:00 [INF] Fetching all services
+2024-12-31 02:01:40.592 +01:00 [INF] Fetching all services
+2024-12-31 02:01:41.366 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:01:41.371 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:01:41.894 +01:00 [INF] Fetching all services
+2024-12-31 02:01:41.902 +01:00 [INF] Fetching all services
+2024-12-31 02:01:42.815 +01:00 [INF] Fetching all services
+2024-12-31 02:01:42.822 +01:00 [INF] Fetching all services
+2024-12-31 02:01:43.320 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:01:43.325 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:01:44.640 +01:00 [INF] Fetching all services
+2024-12-31 02:01:44.649 +01:00 [INF] Fetching all services
+2024-12-31 02:01:45.021 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:01:45.027 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:01:56.982 +01:00 [INF] Fetching all services
+2024-12-31 02:01:56.988 +01:00 [INF] Fetching all services
+2024-12-31 02:01:59.988 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:01:59.993 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:02:00.531 +01:00 [INF] Fetching all services
+2024-12-31 02:02:00.543 +01:00 [INF] Fetching all services
+2024-12-31 02:12:35.641 +01:00 [INF] Starting up the application
+2024-12-31 02:12:36.036 +01:00 [INF] Applying migrations
+2024-12-31 02:12:36.970 +01:00 [INF] Migrations applied successfully
+2024-12-31 02:12:37.123 +01:00 [INF] Seeds applied successfully
+2024-12-31 02:12:47.194 +01:00 [INF] Attempting to log in user with email: admin@gmail.com
+2024-12-31 02:12:47.601 +01:00 [INF] Generating JWT for UserId: "c3dc5495-024c-4a5f-9324-c557cecf65e6", Role: Administrator
+2024-12-31 02:12:47.629 +01:00 [INF] JWT generated successfully for UserId: "c3dc5495-024c-4a5f-9324-c557cecf65e6"
+2024-12-31 02:12:47.631 +01:00 [INF] Login successful for user: "c3dc5495-024c-4a5f-9324-c557cecf65e6"
+2024-12-31 02:12:47.728 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:12:48.001 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:12:48.009 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:12:50.956 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:12:50.964 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:12:51.637 +01:00 [INF] Fetching all services
+2024-12-31 02:12:51.704 +01:00 [INF] Fetching all services
+2024-12-31 02:14:33.610 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:14:33.616 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:14:35.182 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:14:35.202 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:14:35.822 +01:00 [INF] Fetching all services
+2024-12-31 02:14:35.832 +01:00 [INF] Fetching all services
+2024-12-31 02:14:37.133 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:14:37.140 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:14:42.106 +01:00 [INF] Fetching all services
+2024-12-31 02:14:42.122 +01:00 [INF] Fetching all services
+2024-12-31 02:14:44.962 +01:00 [INF] Fetching all services
+2024-12-31 02:14:44.973 +01:00 [INF] Fetching all services
+2024-12-31 02:14:48.504 +01:00 [INF] Updating booking status for Id: "05d02393-ef94-4bee-bbeb-833fbf777c01" to "Confirmed"
+2024-12-31 02:14:48.596 +01:00 [INF] Booking status updated successfully for Id: "05d02393-ef94-4bee-bbeb-833fbf777c01"
+2024-12-31 02:14:52.228 +01:00 [INF] Fetching all services
+2024-12-31 02:14:52.239 +01:00 [INF] Fetching all services
+2024-12-31 02:20:12.987 +01:00 [INF] Fetching all services
+2024-12-31 02:20:13.039 +01:00 [INF] Fetching all services
+2024-12-31 02:21:23.762 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:21:23.769 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:21:25.481 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:21:25.488 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:21:26.337 +01:00 [INF] Fetching all services
+2024-12-31 02:21:26.349 +01:00 [INF] Fetching all services
+2024-12-31 02:21:30.406 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:21:30.413 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:21:33.753 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:21:33.759 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:21:35.289 +01:00 [INF] Fetching all services
+2024-12-31 02:21:35.299 +01:00 [INF] Fetching all services
+2024-12-31 02:21:37.503 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:21:37.509 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:21:59.336 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:21:59.341 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:22:08.918 +01:00 [INF] Fetching all employees
+2024-12-31 02:22:08.943 +01:00 [INF] Fetching all employees
+2024-12-31 02:27:06.759 +01:00 [INF] Fetching all employees
+2024-12-31 02:27:06.823 +01:00 [INF] Fetching all employees
+2024-12-31 02:34:54.118 +01:00 [INF] Starting up the application
+2024-12-31 02:34:54.483 +01:00 [INF] Applying migrations
+2024-12-31 02:34:55.464 +01:00 [INF] Migrations applied successfully
+2024-12-31 02:34:55.633 +01:00 [INF] Seeds applied successfully
+2024-12-31 02:37:12.903 +01:00 [INF] Fetching all employees
+2024-12-31 02:37:36.378 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:37:36.392 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:37:37.314 +01:00 [INF] Fetching all employees
+2024-12-31 02:37:37.329 +01:00 [INF] Fetching all employees
+2024-12-31 02:37:37.778 +01:00 [INF] Fetching all services
+2024-12-31 02:37:37.871 +01:00 [INF] Fetching all services
+2024-12-31 02:37:39.721 +01:00 [INF] Fetching all employees
+2024-12-31 02:37:39.730 +01:00 [INF] Fetching all employees
+2024-12-31 02:37:42.393 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:37:42.400 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:37:42.878 +01:00 [INF] Fetching all employees
+2024-12-31 02:37:42.887 +01:00 [INF] Fetching all employees
+2024-12-31 02:37:44.541 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:37:44.548 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:37:45.016 +01:00 [INF] Fetching all employees
+2024-12-31 02:37:45.025 +01:00 [INF] Fetching all employees
+2024-12-31 02:39:58.345 +01:00 [INF] Fetching all services
+2024-12-31 02:39:58.398 +01:00 [INF] Fetching all services
+2024-12-31 02:39:59.437 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:39:59.443 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:40:00.154 +01:00 [INF] Fetching all employees
+2024-12-31 02:40:00.162 +01:00 [INF] Fetching all employees
+2024-12-31 02:40:23.099 +01:00 [INF] Attempting to log in user with email: customer@gmail.com
+2024-12-31 02:40:23.389 +01:00 [INF] Generating JWT for UserId: "9b6a3747-1fb9-4897-a186-2cd879382324", Role: Customer
+2024-12-31 02:40:23.400 +01:00 [INF] JWT generated successfully for UserId: "9b6a3747-1fb9-4897-a186-2cd879382324"
+2024-12-31 02:40:23.402 +01:00 [INF] Login successful for user: "9b6a3747-1fb9-4897-a186-2cd879382324"
+2024-12-31 02:40:23.413 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 02:40:23.589 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 02:40:23.595 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 02:40:23.617 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 02:40:23.641 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 02:40:24.980 +01:00 [INF] Fetching all services
+2024-12-31 02:40:24.988 +01:00 [INF] Fetching all services
+2024-12-31 02:40:25.494 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 02:40:25.508 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 02:40:26.527 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 02:40:26.533 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 02:40:26.536 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 02:40:26.547 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 02:40:26.953 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 02:40:26.963 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 02:40:27.411 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 02:40:27.416 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 02:40:27.419 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 02:40:27.432 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 02:40:29.212 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 02:40:29.223 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 02:40:32.976 +01:00 [INF] Attempting to log in user with email: employee@gmail.com
+2024-12-31 02:40:33.096 +01:00 [INF] Generating JWT for UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae", Role: Employee
+2024-12-31 02:40:33.098 +01:00 [INF] JWT generated successfully for UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 02:40:33.100 +01:00 [INF] Login successful for user: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 02:40:33.106 +01:00 [INF] Current user retrieved successfully: 32abc6a2-8169-45ab-b1fe-81259862f8ae
+2024-12-31 02:40:33.237 +01:00 [INF] Current user retrieved successfully: 32abc6a2-8169-45ab-b1fe-81259862f8ae
+2024-12-31 02:40:33.242 +01:00 [INF] Current user retrieved successfully: 32abc6a2-8169-45ab-b1fe-81259862f8ae
+2024-12-31 02:40:33.255 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 02:40:33.275 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 02:40:34.361 +01:00 [INF] Fetching all services
+2024-12-31 02:40:34.369 +01:00 [INF] Fetching all services
+2024-12-31 02:43:52.868 +01:00 [INF] Attempting to log in user with email: admin@gmail.com
+2024-12-31 02:43:52.986 +01:00 [INF] Generating JWT for UserId: "c3dc5495-024c-4a5f-9324-c557cecf65e6", Role: Administrator
+2024-12-31 02:43:52.989 +01:00 [INF] JWT generated successfully for UserId: "c3dc5495-024c-4a5f-9324-c557cecf65e6"
+2024-12-31 02:43:52.992 +01:00 [INF] Login successful for user: "c3dc5495-024c-4a5f-9324-c557cecf65e6"
+2024-12-31 02:43:53.000 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:43:53.140 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:43:53.147 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:43:54.772 +01:00 [INF] Fetching all services
+2024-12-31 02:43:54.781 +01:00 [INF] Fetching all services
+2024-12-31 02:43:55.655 +01:00 [INF] Fetching all employees
+2024-12-31 02:43:55.665 +01:00 [INF] Fetching all employees
+2024-12-31 02:46:16.766 +01:00 [INF] Fetching all employees
+2024-12-31 02:46:16.817 +01:00 [INF] Fetching all employees
+2024-12-31 02:46:58.158 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:46:58.162 +01:00 [INF] Admin "c3dc5495-024c-4a5f-9324-c557cecf65e6" is attempting to create a new employee with email: Artur12304@gmail.com
+2024-12-31 02:46:58.375 +01:00 [INF] UserEntity created with ID: "2378fa6f-4e0f-4bb5-ba54-ad0206c05d07"
+2024-12-31 02:46:58.400 +01:00 [INF] Employee profile created with ID: "a3856261-ddaa-4e43-a717-778b0c7ecb77"
+2024-12-31 02:47:06.905 +01:00 [INF] Fetching all employees
+2024-12-31 02:47:06.921 +01:00 [INF] Fetching all employees
+2024-12-31 02:47:10.680 +01:00 [INF] Fetching all employees
+2024-12-31 02:47:10.688 +01:00 [INF] Fetching all employees
+2024-12-31 02:47:23.049 +01:00 [INF] Attempting to delete employee with Id: "a3856261-ddaa-4e43-a717-778b0c7ecb77"
+2024-12-31 02:47:23.069 +01:00 [INF] Employee deleted successfully with Id: "a3856261-ddaa-4e43-a717-778b0c7ecb77"
+2024-12-31 02:47:24.914 +01:00 [INF] Fetching all employees
+2024-12-31 02:47:24.935 +01:00 [INF] Fetching all employees
+2024-12-31 02:48:22.258 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:48:22.260 +01:00 [INF] Admin "c3dc5495-024c-4a5f-9324-c557cecf65e6" is attempting to create a new employee with email: Artur12304@gmail.com
+2024-12-31 02:48:22.384 +01:00 [INF] UserEntity created with ID: "309cc138-4c60-4746-a412-733f7519b193"
+2024-12-31 02:48:22.389 +01:00 [INF] Employee profile created with ID: "5b42cca1-9aec-4d66-a794-c4debd28117e"
+2024-12-31 02:48:29.562 +01:00 [INF] Fetching all employees
+2024-12-31 02:48:29.572 +01:00 [INF] Fetching all employees
+2024-12-31 02:48:29.954 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:48:29.959 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:48:30.358 +01:00 [INF] Fetching all employees
+2024-12-31 02:48:30.367 +01:00 [INF] Fetching all employees
+2024-12-31 02:49:04.371 +01:00 [INF] Attempting to delete employee with Id: "5b42cca1-9aec-4d66-a794-c4debd28117e"
+2024-12-31 02:49:04.383 +01:00 [INF] Employee deleted successfully with Id: "5b42cca1-9aec-4d66-a794-c4debd28117e"
+2024-12-31 02:49:15.113 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:49:15.116 +01:00 [INF] Admin "c3dc5495-024c-4a5f-9324-c557cecf65e6" is attempting to create a new employee with email: Artur12304@gmail.com
+2024-12-31 02:49:15.239 +01:00 [INF] UserEntity created with ID: "d11c8463-ee63-475a-bb31-d81444daaf2b"
+2024-12-31 02:49:15.244 +01:00 [INF] Employee profile created with ID: "6bb0c9dc-e12f-4693-af48-f66b3c2e0adc"
+2024-12-31 02:49:20.728 +01:00 [INF] Fetching all employees
+2024-12-31 02:49:20.740 +01:00 [INF] Fetching all employees
+2024-12-31 02:49:26.219 +01:00 [INF] Attempting to delete employee with Id: "6bb0c9dc-e12f-4693-af48-f66b3c2e0adc"
+2024-12-31 02:49:26.226 +01:00 [INF] Employee deleted successfully with Id: "6bb0c9dc-e12f-4693-af48-f66b3c2e0adc"
+2024-12-31 02:51:02.758 +01:00 [INF] Fetching all employees
+2024-12-31 02:51:31.288 +01:00 [INF] Fetching all services
+2024-12-31 02:51:31.328 +01:00 [INF] Fetching all services
+2024-12-31 02:51:32.185 +01:00 [INF] Fetching all services
+2024-12-31 02:51:32.193 +01:00 [INF] Fetching all services
+2024-12-31 02:51:32.717 +01:00 [INF] Fetching all employees
+2024-12-31 02:51:32.724 +01:00 [INF] Fetching all employees
+2024-12-31 02:51:33.177 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:51:33.184 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:51:33.595 +01:00 [INF] Fetching all employees
+2024-12-31 02:51:33.602 +01:00 [INF] Fetching all employees
+2024-12-31 02:52:09.930 +01:00 [INF] Fetching all employees
+2024-12-31 02:53:06.364 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:53:06.366 +01:00 [INF] Admin "c3dc5495-024c-4a5f-9324-c557cecf65e6" is attempting to create a new employee with email: Artur12304@gmail.com
+2024-12-31 02:53:06.489 +01:00 [INF] UserEntity created with ID: "b8889e3f-7d94-48d4-b006-2b66be8fd148"
+2024-12-31 02:53:06.493 +01:00 [INF] Employee profile created with ID: "4e0e5b9e-73a8-42ca-a3bb-37fb416b74f3"
+2024-12-31 02:53:06.647 +01:00 [INF] Fetching all employees
+2024-12-31 02:53:06.656 +01:00 [INF] Fetching all employees
+2024-12-31 02:53:17.195 +01:00 [INF] Attempting to delete employee with Id: "4e0e5b9e-73a8-42ca-a3bb-37fb416b74f3"
+2024-12-31 02:53:17.202 +01:00 [INF] Employee deleted successfully with Id: "4e0e5b9e-73a8-42ca-a3bb-37fb416b74f3"
+2024-12-31 02:54:34.756 +01:00 [INF] Fetching all employees
+2024-12-31 02:55:23.660 +01:00 [INF] Fetching all employees
+2024-12-31 02:55:25.711 +01:00 [INF] Fetching all employees
+2024-12-31 02:55:33.057 +01:00 [INF] Fetching all employees
+2024-12-31 02:55:40.836 +01:00 [INF] Fetching all employees
+2024-12-31 02:55:58.544 +01:00 [INF] Fetching all employees
+2024-12-31 02:57:09.755 +01:00 [INF] Fetching all employees
+2024-12-31 02:57:25.499 +01:00 [INF] Fetching all employees
+2024-12-31 02:57:28.755 +01:00 [INF] Fetching all employees
+2024-12-31 02:58:07.646 +01:00 [INF] Fetching all services
+2024-12-31 02:58:07.654 +01:00 [INF] Fetching all services
+2024-12-31 02:58:08.572 +01:00 [INF] Fetching all services
+2024-12-31 02:58:08.580 +01:00 [INF] Fetching all services
+2024-12-31 02:58:08.894 +01:00 [INF] Fetching all employees
+2024-12-31 02:58:08.902 +01:00 [INF] Fetching all employees
+2024-12-31 02:58:09.227 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 02:58:09.232 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 03:01:41.768 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 03:12:08.787 +01:00 [INF] Starting up the application
+2024-12-31 03:12:09.357 +01:00 [INF] Applying migrations
+2024-12-31 03:12:10.756 +01:00 [INF] Migrations applied successfully
+2024-12-31 03:12:11.029 +01:00 [INF] Seeds applied successfully
+2024-12-31 03:12:55.894 +01:00 [INF] Fetching employee count
+2024-12-31 03:12:55.947 +01:00 [INF] Employee count fetched: 1
+2024-12-31 03:12:55.953 +01:00 [INF] Fetching employee count
+2024-12-31 03:12:55.961 +01:00 [INF] Employee count fetched: 3
+2024-12-31 03:12:55.964 +01:00 [INF] Fetching employee count
+2024-12-31 03:12:55.972 +01:00 [INF] Employee count fetched: 9
+2024-12-31 03:13:15.798 +01:00 [INF] Fetching employee count
+2024-12-31 03:13:15.805 +01:00 [INF] Employee count fetched: 1
+2024-12-31 03:13:15.808 +01:00 [INF] Fetching employee count
+2024-12-31 03:13:15.813 +01:00 [INF] Employee count fetched: 3
+2024-12-31 03:13:15.815 +01:00 [INF] Fetching employee count
+2024-12-31 03:13:15.820 +01:00 [INF] Employee count fetched: 9
+2024-12-31 03:13:15.832 +01:00 [INF] Fetching employee count
+2024-12-31 03:13:15.838 +01:00 [INF] Employee count fetched: 1
+2024-12-31 03:13:15.840 +01:00 [INF] Fetching employee count
+2024-12-31 03:13:15.845 +01:00 [INF] Employee count fetched: 3
+2024-12-31 03:13:15.847 +01:00 [INF] Fetching employee count
+2024-12-31 03:13:15.852 +01:00 [INF] Employee count fetched: 9
+2024-12-31 03:13:26.748 +01:00 [INF] Fetching employee count
+2024-12-31 03:13:26.754 +01:00 [INF] Employee count fetched: 1
+2024-12-31 03:13:26.757 +01:00 [INF] Fetching employee count
+2024-12-31 03:13:26.761 +01:00 [INF] Employee count fetched: 3
+2024-12-31 03:13:26.763 +01:00 [INF] Fetching employee count
+2024-12-31 03:13:26.768 +01:00 [INF] Employee count fetched: 9
+2024-12-31 03:13:28.988 +01:00 [INF] Fetching all employees
+2024-12-31 03:13:29.064 +01:00 [INF] Fetching all employees
+2024-12-31 03:13:29.570 +01:00 [INF] Fetching all services
+2024-12-31 03:13:29.660 +01:00 [INF] Fetching all services
+2024-12-31 03:13:30.958 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 03:13:30.964 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 03:13:30.974 +01:00 [INF] Fetching employee count
+2024-12-31 03:13:30.980 +01:00 [INF] Employee count fetched: 1
+2024-12-31 03:13:30.982 +01:00 [INF] Fetching employee count
+2024-12-31 03:13:30.986 +01:00 [INF] Employee count fetched: 3
+2024-12-31 03:13:30.988 +01:00 [INF] Fetching employee count
+2024-12-31 03:13:30.992 +01:00 [INF] Employee count fetched: 9
+2024-12-31 03:13:30.997 +01:00 [INF] Fetching employee count
+2024-12-31 03:13:31.002 +01:00 [INF] Employee count fetched: 1
+2024-12-31 03:13:31.004 +01:00 [INF] Fetching employee count
+2024-12-31 03:13:31.008 +01:00 [INF] Employee count fetched: 3
+2024-12-31 03:13:31.010 +01:00 [INF] Fetching employee count
+2024-12-31 03:13:31.014 +01:00 [INF] Employee count fetched: 9
+2024-12-31 03:15:00.831 +01:00 [INF] Fetching employee count
+2024-12-31 03:15:00.836 +01:00 [INF] Employee count fetched: 1
+2024-12-31 03:15:00.838 +01:00 [INF] Fetching employee count
+2024-12-31 03:15:00.842 +01:00 [INF] Employee count fetched: 3
+2024-12-31 03:15:00.844 +01:00 [INF] Fetching employee count
+2024-12-31 03:15:00.847 +01:00 [INF] Employee count fetched: 9
+2024-12-31 03:15:01.866 +01:00 [INF] Fetching employee count
+2024-12-31 03:15:01.871 +01:00 [INF] Employee count fetched: 1
+2024-12-31 03:15:01.873 +01:00 [INF] Fetching employee count
+2024-12-31 03:15:01.878 +01:00 [INF] Employee count fetched: 3
+2024-12-31 03:15:01.881 +01:00 [INF] Fetching employee count
+2024-12-31 03:15:01.885 +01:00 [INF] Employee count fetched: 9
+2024-12-31 03:15:14.324 +01:00 [INF] Fetching employee count
+2024-12-31 03:15:14.330 +01:00 [INF] Employee count fetched: 1
+2024-12-31 03:15:14.333 +01:00 [INF] Fetching employee count
+2024-12-31 03:15:14.339 +01:00 [INF] Employee count fetched: 3
+2024-12-31 03:15:14.342 +01:00 [INF] Fetching employee count
+2024-12-31 03:15:14.348 +01:00 [INF] Employee count fetched: 9
+2024-12-31 03:15:14.999 +01:00 [INF] Fetching all employees
+2024-12-31 03:15:15.015 +01:00 [INF] Fetching all employees
+2024-12-31 03:15:15.308 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 03:15:15.314 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 03:15:15.319 +01:00 [INF] Fetching employee count
+2024-12-31 03:15:15.326 +01:00 [INF] Employee count fetched: 1
+2024-12-31 03:15:15.329 +01:00 [INF] Fetching employee count
+2024-12-31 03:15:15.333 +01:00 [INF] Employee count fetched: 3
+2024-12-31 03:15:15.335 +01:00 [INF] Fetching employee count
+2024-12-31 03:15:15.342 +01:00 [INF] Employee count fetched: 9
+2024-12-31 03:15:15.348 +01:00 [INF] Fetching employee count
+2024-12-31 03:15:15.352 +01:00 [INF] Employee count fetched: 1
+2024-12-31 03:15:15.354 +01:00 [INF] Fetching employee count
+2024-12-31 03:15:15.358 +01:00 [INF] Employee count fetched: 3
+2024-12-31 03:15:15.360 +01:00 [INF] Fetching employee count
+2024-12-31 03:15:15.364 +01:00 [INF] Employee count fetched: 9
+2024-12-31 03:15:16.597 +01:00 [INF] Fetching all services
+2024-12-31 03:15:16.606 +01:00 [INF] Fetching all services
+2024-12-31 03:15:16.978 +01:00 [INF] Fetching all employees
+2024-12-31 03:15:16.989 +01:00 [INF] Fetching all employees
+2024-12-31 03:15:17.373 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 03:15:17.379 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 03:15:17.384 +01:00 [INF] Fetching employee count
+2024-12-31 03:15:17.390 +01:00 [INF] Employee count fetched: 1
+2024-12-31 03:15:17.392 +01:00 [INF] Fetching employee count
+2024-12-31 03:15:17.396 +01:00 [INF] Employee count fetched: 3
+2024-12-31 03:15:17.397 +01:00 [INF] Fetching employee count
+2024-12-31 03:15:17.401 +01:00 [INF] Employee count fetched: 9
+2024-12-31 03:15:17.407 +01:00 [INF] Fetching employee count
+2024-12-31 03:15:17.411 +01:00 [INF] Employee count fetched: 1
+2024-12-31 03:15:17.413 +01:00 [INF] Fetching employee count
+2024-12-31 03:15:17.417 +01:00 [INF] Employee count fetched: 3
+2024-12-31 03:15:17.418 +01:00 [INF] Fetching employee count
+2024-12-31 03:15:17.422 +01:00 [INF] Employee count fetched: 9
+2024-12-31 03:15:19.213 +01:00 [INF] Fetching all employees
+2024-12-31 03:15:19.223 +01:00 [INF] Fetching all employees
+2024-12-31 03:15:24.171 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 03:15:24.175 +01:00 [INF] Admin "c3dc5495-024c-4a5f-9324-c557cecf65e6" is attempting to create a new employee with email: Artur12304@gmail.com
+2024-12-31 03:15:24.558 +01:00 [INF] UserEntity created with ID: "c3932d6b-a381-439f-837f-21e3bb2f2cec"
+2024-12-31 03:15:24.589 +01:00 [INF] Employee profile created with ID: "27a3d1e1-1fa1-41b4-8260-529769377621"
+2024-12-31 03:15:24.786 +01:00 [INF] Fetching all employees
+2024-12-31 03:15:24.801 +01:00 [INF] Fetching all employees
+2024-12-31 03:15:27.023 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 03:15:27.029 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 03:15:27.046 +01:00 [INF] Fetching employee count
+2024-12-31 03:15:27.051 +01:00 [INF] Employee count fetched: 2
+2024-12-31 03:15:27.053 +01:00 [INF] Fetching employee count
+2024-12-31 03:15:27.057 +01:00 [INF] Employee count fetched: 3
+2024-12-31 03:15:27.059 +01:00 [INF] Fetching employee count
+2024-12-31 03:15:27.063 +01:00 [INF] Employee count fetched: 9
+2024-12-31 03:15:27.068 +01:00 [INF] Fetching employee count
+2024-12-31 03:15:27.072 +01:00 [INF] Employee count fetched: 2
+2024-12-31 03:15:27.075 +01:00 [INF] Fetching employee count
+2024-12-31 03:15:27.078 +01:00 [INF] Employee count fetched: 3
+2024-12-31 03:15:27.081 +01:00 [INF] Fetching employee count
+2024-12-31 03:15:27.084 +01:00 [INF] Employee count fetched: 9
+2024-12-31 03:15:28.879 +01:00 [INF] Fetching all employees
+2024-12-31 03:15:28.888 +01:00 [INF] Fetching all employees
+2024-12-31 03:15:31.590 +01:00 [INF] Attempting to delete employee with Id: "27a3d1e1-1fa1-41b4-8260-529769377621"
+2024-12-31 03:15:31.612 +01:00 [INF] Employee deleted successfully with Id: "27a3d1e1-1fa1-41b4-8260-529769377621"
+2024-12-31 03:15:32.397 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 03:15:32.402 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 03:15:32.417 +01:00 [INF] Fetching employee count
+2024-12-31 03:15:32.421 +01:00 [INF] Employee count fetched: 1
+2024-12-31 03:15:32.424 +01:00 [INF] Fetching employee count
+2024-12-31 03:15:32.428 +01:00 [INF] Employee count fetched: 3
+2024-12-31 03:15:32.430 +01:00 [INF] Fetching employee count
+2024-12-31 03:15:32.434 +01:00 [INF] Employee count fetched: 9
+2024-12-31 03:15:32.440 +01:00 [INF] Fetching employee count
+2024-12-31 03:15:32.444 +01:00 [INF] Employee count fetched: 1
+2024-12-31 03:15:32.447 +01:00 [INF] Fetching employee count
+2024-12-31 03:15:32.450 +01:00 [INF] Employee count fetched: 3
+2024-12-31 03:15:32.452 +01:00 [INF] Fetching employee count
+2024-12-31 03:15:32.455 +01:00 [INF] Employee count fetched: 9
+2024-12-31 03:20:24.095 +01:00 [INF] Attempting to log in user with email: customer@gmail.com
+2024-12-31 03:20:24.373 +01:00 [INF] Generating JWT for UserId: "9b6a3747-1fb9-4897-a186-2cd879382324", Role: Customer
+2024-12-31 03:20:24.382 +01:00 [INF] JWT generated successfully for UserId: "9b6a3747-1fb9-4897-a186-2cd879382324"
+2024-12-31 03:20:24.384 +01:00 [INF] Login successful for user: "9b6a3747-1fb9-4897-a186-2cd879382324"
+2024-12-31 03:20:24.393 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:20:24.525 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:20:24.535 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:20:24.552 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:20:24.582 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:21:00.468 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:21:00.482 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:21:21.515 +01:00 [INF] Fetching all services
+2024-12-31 03:21:21.521 +01:00 [INF] Fetching all services
+2024-12-31 03:22:10.358 +01:00 [INF] Fetching all services
+2024-12-31 03:22:10.365 +01:00 [INF] Fetching all services
+2024-12-31 03:22:26.767 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:22:26.781 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:22:57.485 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:23:02.062 +01:00 [INF] Searching for available employee for serviceId: "64562f38-89e5-4112-b37e-f04b46057ac2" on "2024-12-31T09:00:00.0000000+01:00"
+2024-12-31 03:23:02.084 +01:00 [INF] Creating booking for ServiceId: "64562f38-89e5-4112-b37e-f04b46057ac2" on "2024-12-31T09:00:00.0000000+01:00"
+2024-12-31 03:23:02.099 +01:00 [INF] Calculating dynamic price for ServiceId: "64562f38-89e5-4112-b37e-f04b46057ac2" on "2024-12-31T08:00:00.0000000Z"
+2024-12-31 03:23:02.111 +01:00 [INF] No dynamic price found. Using default price: 70
+2024-12-31 03:23:02.150 +01:00 [INF] Booking created successfully for ServiceId: "64562f38-89e5-4112-b37e-f04b46057ac2" on "2024-12-31T08:00:00.0000000Z"
+2024-12-31 03:23:06.296 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:23:06.301 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:23:06.317 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:23:06.327 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:23:11.341 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:23:11.347 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:23:11.358 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:23:11.368 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:23:13.526 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:23:13.535 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:23:16.154 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:23:16.159 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:23:16.163 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:23:16.175 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:23:31.645 +01:00 [INF] Fetching all services
+2024-12-31 03:23:31.654 +01:00 [INF] Fetching all services
+2024-12-31 03:23:34.714 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:23:34.724 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:23:36.499 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:23:36.504 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:23:36.510 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:23:36.520 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:23:45.374 +01:00 [INF] Attempting to log in user with email: employee@gmail.com
+2024-12-31 03:23:45.492 +01:00 [INF] Generating JWT for UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae", Role: Employee
+2024-12-31 03:23:45.495 +01:00 [INF] JWT generated successfully for UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 03:23:45.497 +01:00 [INF] Login successful for user: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 03:23:45.504 +01:00 [INF] Current user retrieved successfully: 32abc6a2-8169-45ab-b1fe-81259862f8ae
+2024-12-31 03:23:45.631 +01:00 [INF] Current user retrieved successfully: 32abc6a2-8169-45ab-b1fe-81259862f8ae
+2024-12-31 03:23:45.640 +01:00 [INF] Current user retrieved successfully: 32abc6a2-8169-45ab-b1fe-81259862f8ae
+2024-12-31 03:23:45.655 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 03:23:45.676 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 03:24:22.318 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 03:24:22.333 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 03:24:31.109 +01:00 [INF] Updating booking status for Id: "01941a86-13e8-7937-b7cf-985441a2da3c" to "Confirmed"
+2024-12-31 03:24:31.120 +01:00 [INF] Booking status updated successfully for Id: "01941a86-13e8-7937-b7cf-985441a2da3c"
+2024-12-31 03:24:33.496 +01:00 [INF] Current user retrieved successfully: 32abc6a2-8169-45ab-b1fe-81259862f8ae
+2024-12-31 03:24:33.500 +01:00 [INF] Current user retrieved successfully: 32abc6a2-8169-45ab-b1fe-81259862f8ae
+2024-12-31 03:24:33.510 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 03:24:33.520 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 03:24:43.489 +01:00 [INF] Fetching all services
+2024-12-31 03:24:43.498 +01:00 [INF] Fetching all services
+2024-12-31 03:24:58.787 +01:00 [INF] Service updated successfully with Id: "64562f38-89e5-4112-b37e-f04b46057ac2"
+2024-12-31 03:25:20.685 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 03:25:20.697 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 03:25:27.031 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 03:25:27.076 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 03:25:53.493 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 03:25:53.502 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 03:25:55.267 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 03:25:55.269 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 03:25:56.027 +01:00 [INF] Current user retrieved successfully: 32abc6a2-8169-45ab-b1fe-81259862f8ae
+2024-12-31 03:25:56.031 +01:00 [INF] Current user retrieved successfully: 32abc6a2-8169-45ab-b1fe-81259862f8ae
+2024-12-31 03:25:56.037 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 03:25:56.046 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 03:25:56.784 +01:00 [INF] Fetching all services
+2024-12-31 03:25:56.792 +01:00 [INF] Fetching all services
+2024-12-31 03:25:57.286 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 03:25:57.295 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 03:25:58.566 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 03:25:58.575 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 03:25:58.935 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 03:25:58.936 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 03:26:07.839 +01:00 [INF] Attempting to log in user with email: admin@gmail.com
+2024-12-31 03:26:07.959 +01:00 [INF] Generating JWT for UserId: "c3dc5495-024c-4a5f-9324-c557cecf65e6", Role: Administrator
+2024-12-31 03:26:07.962 +01:00 [INF] JWT generated successfully for UserId: "c3dc5495-024c-4a5f-9324-c557cecf65e6"
+2024-12-31 03:26:07.964 +01:00 [INF] Login successful for user: "c3dc5495-024c-4a5f-9324-c557cecf65e6"
+2024-12-31 03:26:07.971 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 03:26:08.131 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 03:26:08.139 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 03:26:08.155 +01:00 [INF] Fetching employee count
+2024-12-31 03:26:08.162 +01:00 [INF] Employee count fetched: 1
+2024-12-31 03:26:08.163 +01:00 [INF] Fetching employee count
+2024-12-31 03:26:08.167 +01:00 [INF] Employee count fetched: 3
+2024-12-31 03:26:08.169 +01:00 [INF] Fetching employee count
+2024-12-31 03:26:08.172 +01:00 [INF] Employee count fetched: 10
+2024-12-31 03:26:08.177 +01:00 [INF] Fetching employee count
+2024-12-31 03:26:08.181 +01:00 [INF] Employee count fetched: 1
+2024-12-31 03:26:08.183 +01:00 [INF] Fetching employee count
+2024-12-31 03:26:08.187 +01:00 [INF] Employee count fetched: 3
+2024-12-31 03:26:08.188 +01:00 [INF] Fetching employee count
+2024-12-31 03:26:08.192 +01:00 [INF] Employee count fetched: 10
+2024-12-31 03:26:13.728 +01:00 [INF] Fetching all employees
+2024-12-31 03:26:13.735 +01:00 [INF] Fetching all employees
+2024-12-31 03:26:30.704 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 03:26:30.706 +01:00 [INF] Admin "c3dc5495-024c-4a5f-9324-c557cecf65e6" is attempting to create a new employee with email: Artur12304@gmail.com
+2024-12-31 03:26:30.828 +01:00 [INF] UserEntity created with ID: "2f754147-64ca-4449-9088-2adb07fbba18"
+2024-12-31 03:26:30.833 +01:00 [INF] Employee profile created with ID: "fb0750c6-bb7d-4754-8360-20995a667382"
+2024-12-31 03:26:30.934 +01:00 [INF] Fetching all employees
+2024-12-31 03:26:30.943 +01:00 [INF] Fetching all employees
+2024-12-31 03:26:41.731 +01:00 [INF] Fetching all services
+2024-12-31 03:26:41.742 +01:00 [INF] Fetching all services
+2024-12-31 03:26:46.531 +01:00 [INF] Fetching all employees
+2024-12-31 03:26:46.540 +01:00 [INF] Fetching all employees
+2024-12-31 03:26:56.122 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 03:26:56.127 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 03:26:56.142 +01:00 [INF] Fetching employee count
+2024-12-31 03:26:56.146 +01:00 [INF] Employee count fetched: 2
+2024-12-31 03:26:56.148 +01:00 [INF] Fetching employee count
+2024-12-31 03:26:56.152 +01:00 [INF] Employee count fetched: 3
+2024-12-31 03:26:56.153 +01:00 [INF] Fetching employee count
+2024-12-31 03:26:56.157 +01:00 [INF] Employee count fetched: 10
+2024-12-31 03:26:56.163 +01:00 [INF] Fetching employee count
+2024-12-31 03:26:56.168 +01:00 [INF] Employee count fetched: 2
+2024-12-31 03:26:56.170 +01:00 [INF] Fetching employee count
+2024-12-31 03:26:56.173 +01:00 [INF] Employee count fetched: 3
+2024-12-31 03:26:56.174 +01:00 [INF] Fetching employee count
+2024-12-31 03:26:56.178 +01:00 [INF] Employee count fetched: 10
+2024-12-31 03:26:58.884 +01:00 [INF] Fetching all services
+2024-12-31 03:26:58.891 +01:00 [INF] Fetching all services
+2024-12-31 03:27:01.306 +01:00 [INF] Fetching all employees
+2024-12-31 03:27:01.314 +01:00 [INF] Fetching all employees
+2024-12-31 03:27:02.132 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 03:27:02.136 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 03:27:02.151 +01:00 [INF] Fetching employee count
+2024-12-31 03:27:02.156 +01:00 [INF] Employee count fetched: 2
+2024-12-31 03:27:02.158 +01:00 [INF] Fetching employee count
+2024-12-31 03:27:02.162 +01:00 [INF] Employee count fetched: 3
+2024-12-31 03:27:02.164 +01:00 [INF] Fetching employee count
+2024-12-31 03:27:02.168 +01:00 [INF] Employee count fetched: 10
+2024-12-31 03:27:02.172 +01:00 [INF] Fetching employee count
+2024-12-31 03:27:02.176 +01:00 [INF] Employee count fetched: 2
+2024-12-31 03:27:02.177 +01:00 [INF] Fetching employee count
+2024-12-31 03:27:02.181 +01:00 [INF] Employee count fetched: 3
+2024-12-31 03:27:02.182 +01:00 [INF] Fetching employee count
+2024-12-31 03:27:02.186 +01:00 [INF] Employee count fetched: 10
+2024-12-31 03:27:08.686 +01:00 [INF] Fetching all services
+2024-12-31 03:27:08.694 +01:00 [INF] Fetching all services
+2024-12-31 03:27:10.483 +01:00 [INF] Fetching all employees
+2024-12-31 03:27:10.493 +01:00 [INF] Fetching all employees
+2024-12-31 03:27:13.657 +01:00 [INF] Attempting to delete employee with Id: "fb0750c6-bb7d-4754-8360-20995a667382"
+2024-12-31 03:27:13.664 +01:00 [INF] Employee deleted successfully with Id: "fb0750c6-bb7d-4754-8360-20995a667382"
+2024-12-31 03:27:20.656 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 03:27:20.661 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 03:27:20.676 +01:00 [INF] Fetching employee count
+2024-12-31 03:27:20.680 +01:00 [INF] Employee count fetched: 1
+2024-12-31 03:27:20.682 +01:00 [INF] Fetching employee count
+2024-12-31 03:27:20.686 +01:00 [INF] Employee count fetched: 3
+2024-12-31 03:27:20.688 +01:00 [INF] Fetching employee count
+2024-12-31 03:27:20.692 +01:00 [INF] Employee count fetched: 10
+2024-12-31 03:27:20.696 +01:00 [INF] Fetching employee count
+2024-12-31 03:27:20.700 +01:00 [INF] Employee count fetched: 1
+2024-12-31 03:27:20.702 +01:00 [INF] Fetching employee count
+2024-12-31 03:27:20.706 +01:00 [INF] Employee count fetched: 3
+2024-12-31 03:27:20.708 +01:00 [INF] Fetching employee count
+2024-12-31 03:27:20.712 +01:00 [INF] Employee count fetched: 10
+2024-12-31 03:27:21.793 +01:00 [INF] Fetching all employees
+2024-12-31 03:27:21.802 +01:00 [INF] Fetching all employees
+2024-12-31 03:27:22.182 +01:00 [INF] Fetching all services
+2024-12-31 03:27:22.190 +01:00 [INF] Fetching all services
+2024-12-31 03:27:24.229 +01:00 [INF] Fetching all services
+2024-12-31 03:27:24.237 +01:00 [INF] Fetching all services
+2024-12-31 03:27:24.534 +01:00 [INF] Fetching all employees
+2024-12-31 03:27:24.542 +01:00 [INF] Fetching all employees
+2024-12-31 03:27:24.840 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 03:27:24.846 +01:00 [INF] Current user retrieved successfully: c3dc5495-024c-4a5f-9324-c557cecf65e6
+2024-12-31 03:27:24.849 +01:00 [INF] Fetching employee count
+2024-12-31 03:27:24.853 +01:00 [INF] Employee count fetched: 1
+2024-12-31 03:27:24.856 +01:00 [INF] Fetching employee count
+2024-12-31 03:27:24.861 +01:00 [INF] Employee count fetched: 3
+2024-12-31 03:27:24.863 +01:00 [INF] Fetching employee count
+2024-12-31 03:27:24.867 +01:00 [INF] Employee count fetched: 10
+2024-12-31 03:27:24.872 +01:00 [INF] Fetching employee count
+2024-12-31 03:27:24.876 +01:00 [INF] Employee count fetched: 1
+2024-12-31 03:27:24.878 +01:00 [INF] Fetching employee count
+2024-12-31 03:27:24.881 +01:00 [INF] Employee count fetched: 3
+2024-12-31 03:27:24.883 +01:00 [INF] Fetching employee count
+2024-12-31 03:27:24.886 +01:00 [INF] Employee count fetched: 10
+2024-12-31 03:27:25.523 +01:00 [INF] Fetching all services
+2024-12-31 03:27:25.531 +01:00 [INF] Fetching all services
+2024-12-31 03:27:25.999 +01:00 [INF] Fetching all employees
+2024-12-31 03:27:26.007 +01:00 [INF] Fetching all employees
+2024-12-31 03:27:26.286 +01:00 [INF] Fetching all services
+2024-12-31 03:27:26.293 +01:00 [INF] Fetching all services
+2024-12-31 03:27:27.785 +01:00 [INF] Fetching all employees
+2024-12-31 03:27:27.792 +01:00 [INF] Fetching all employees
+2024-12-31 03:27:28.314 +01:00 [INF] Fetching all services
+2024-12-31 03:27:28.322 +01:00 [INF] Fetching all services
+2024-12-31 03:27:29.202 +01:00 [INF] Fetching all employees
+2024-12-31 03:27:29.210 +01:00 [INF] Fetching all employees
+2024-12-31 03:27:30.182 +01:00 [INF] Fetching all services
+2024-12-31 03:27:30.191 +01:00 [INF] Fetching all services
+2024-12-31 03:27:55.794 +01:00 [INF] Attempting to log in user with email: customer@gmail.com
+2024-12-31 03:27:55.919 +01:00 [INF] Generating JWT for UserId: "9b6a3747-1fb9-4897-a186-2cd879382324", Role: Customer
+2024-12-31 03:27:55.921 +01:00 [INF] JWT generated successfully for UserId: "9b6a3747-1fb9-4897-a186-2cd879382324"
+2024-12-31 03:27:55.923 +01:00 [INF] Login successful for user: "9b6a3747-1fb9-4897-a186-2cd879382324"
+2024-12-31 03:27:55.929 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:27:56.087 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:27:56.095 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:27:56.109 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:27:56.119 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:28:01.781 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:28:01.790 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:28:02.223 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:28:02.230 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:28:02.235 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:28:02.245 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:28:16.741 +01:00 [INF] Fetching all services
+2024-12-31 03:28:16.747 +01:00 [INF] Fetching all services
+2024-12-31 03:28:45.623 +01:00 [INF] Fetching all services
+2024-12-31 03:28:45.630 +01:00 [INF] Fetching all services
+2024-12-31 03:29:00.888 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:29:00.892 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:29:00.909 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:29:00.918 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:29:02.658 +01:00 [INF] Fetching all services
+2024-12-31 03:29:02.666 +01:00 [INF] Fetching all services
+2024-12-31 03:29:03.168 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:29:03.169 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:29:03.674 +01:00 [INF] Fetching all services
+2024-12-31 03:29:03.681 +01:00 [INF] Fetching all services
+2024-12-31 03:34:22.930 +01:00 [INF] Fetching all services
+2024-12-31 03:34:22.977 +01:00 [INF] Fetching all services
+2024-12-31 03:34:24.877 +01:00 [INF] Fetching all services
+2024-12-31 03:34:24.884 +01:00 [INF] Fetching all services
+2024-12-31 03:34:27.099 +01:00 [INF] Fetching all services
+2024-12-31 03:34:27.107 +01:00 [INF] Fetching all services
+2024-12-31 03:34:31.191 +01:00 [INF] Fetching all services
+2024-12-31 03:34:31.200 +01:00 [INF] Fetching all services
+2024-12-31 03:34:31.677 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:34:31.683 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:34:31.697 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:34:31.707 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:34:32.065 +01:00 [INF] Fetching all services
+2024-12-31 03:34:32.073 +01:00 [INF] Fetching all services
+2024-12-31 03:34:32.948 +01:00 [INF] Fetching all services
+2024-12-31 03:34:32.956 +01:00 [INF] Fetching all services
+2024-12-31 03:34:33.767 +01:00 [INF] Fetching all services
+2024-12-31 03:34:33.774 +01:00 [INF] Fetching all services
+2024-12-31 03:34:36.795 +01:00 [INF] Fetching all services
+2024-12-31 03:34:36.802 +01:00 [INF] Fetching all services
+2024-12-31 03:34:37.153 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:34:37.154 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:34:37.487 +01:00 [INF] Fetching all services
+2024-12-31 03:34:37.497 +01:00 [INF] Fetching all services
+2024-12-31 03:34:37.820 +01:00 [INF] Fetching all services
+2024-12-31 03:34:37.828 +01:00 [INF] Fetching all services
+2024-12-31 03:34:38.175 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:34:38.181 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:34:38.187 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:34:38.199 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:34:38.626 +01:00 [INF] Fetching all services
+2024-12-31 03:34:38.635 +01:00 [INF] Fetching all services
+2024-12-31 03:34:39.056 +01:00 [INF] Fetching all services
+2024-12-31 03:34:39.065 +01:00 [INF] Fetching all services
+2024-12-31 03:34:39.484 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:34:39.485 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:34:42.599 +01:00 [INF] Fetching all services
+2024-12-31 03:34:42.607 +01:00 [INF] Fetching all services
+2024-12-31 03:34:48.084 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:34:48.088 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:34:48.095 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:34:48.105 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:34:48.498 +01:00 [INF] Fetching all services
+2024-12-31 03:34:48.505 +01:00 [INF] Fetching all services
+2024-12-31 03:34:50.123 +01:00 [INF] Fetching all services
+2024-12-31 03:34:50.131 +01:00 [INF] Fetching all services
+2024-12-31 03:34:50.455 +01:00 [INF] Fetching all services
+2024-12-31 03:34:50.463 +01:00 [INF] Fetching all services
+2024-12-31 03:34:50.907 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:34:50.912 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:34:50.915 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:34:50.925 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:34:51.340 +01:00 [INF] Fetching all services
+2024-12-31 03:34:51.348 +01:00 [INF] Fetching all services
+2024-12-31 03:34:52.372 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:34:52.378 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:34:52.381 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:34:52.390 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:34:53.470 +01:00 [INF] Fetching all services
+2024-12-31 03:34:53.477 +01:00 [INF] Fetching all services
+2024-12-31 03:34:54.289 +01:00 [INF] Fetching all services
+2024-12-31 03:34:54.297 +01:00 [INF] Fetching all services
+2024-12-31 03:34:55.131 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:34:55.136 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:34:55.141 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:34:55.150 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:35:01.196 +01:00 [INF] Fetching all services
+2024-12-31 03:35:01.202 +01:00 [INF] Fetching all services
+2024-12-31 03:35:02.268 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:35:02.273 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:35:02.279 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:35:02.288 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:35:02.716 +01:00 [INF] Fetching all services
+2024-12-31 03:35:02.724 +01:00 [INF] Fetching all services
+2024-12-31 03:35:03.115 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:35:03.120 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:35:03.126 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:35:03.136 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:35:03.519 +01:00 [INF] Fetching all services
+2024-12-31 03:35:03.528 +01:00 [INF] Fetching all services
+2024-12-31 03:35:03.899 +01:00 [INF] Fetching all services
+2024-12-31 03:35:03.908 +01:00 [INF] Fetching all services
+2024-12-31 03:35:04.272 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:35:04.282 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:35:04.596 +01:00 [INF] Fetching all services
+2024-12-31 03:35:04.604 +01:00 [INF] Fetching all services
+2024-12-31 03:35:22.004 +01:00 [INF] Fetching all services
+2024-12-31 03:35:22.018 +01:00 [INF] Fetching all services
+2024-12-31 03:35:24.012 +01:00 [INF] Fetching all services
+2024-12-31 03:35:24.021 +01:00 [INF] Fetching all services
+2024-12-31 03:35:24.843 +01:00 [INF] Fetching all services
+2024-12-31 03:35:24.851 +01:00 [INF] Fetching all services
+2024-12-31 03:35:25.191 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:35:25.197 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:35:25.202 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:35:25.213 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:35:27.865 +01:00 [INF] Fetching all services
+2024-12-31 03:35:27.872 +01:00 [INF] Fetching all services
+2024-12-31 03:36:57.994 +01:00 [INF] Fetching all services
+2024-12-31 03:36:58.004 +01:00 [INF] Fetching all services
+2024-12-31 03:36:58.388 +01:00 [INF] Fetching all services
+2024-12-31 03:36:58.397 +01:00 [INF] Fetching all services
+2024-12-31 03:36:59.603 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:36:59.609 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:36:59.625 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:36:59.634 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:37:25.425 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:37:25.430 +01:00 [INF] Current user retrieved successfully: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:40:15.235 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:40:18.011 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:40:21.340 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:41:05.751 +01:00 [INF] Fetching all services
+2024-12-31 03:41:05.766 +01:00 [INF] Fetching all services
+2024-12-31 03:41:06.467 +01:00 [INF] Fetching all services
+2024-12-31 03:41:06.478 +01:00 [INF] Fetching all services
+2024-12-31 03:41:10.462 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:41:10.474 +01:00 [INF] Fetching customer with UserId: 9b6a3747-1fb9-4897-a186-2cd879382324
+2024-12-31 03:41:17.983 +01:00 [INF] Attempting to log in user with email: employee@gmail.com
+2024-12-31 03:41:18.102 +01:00 [INF] Generating JWT for UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae", Role: Employee
+2024-12-31 03:41:18.104 +01:00 [INF] JWT generated successfully for UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 03:41:18.106 +01:00 [INF] Login successful for user: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 03:41:18.113 +01:00 [INF] Current user retrieved successfully: 32abc6a2-8169-45ab-b1fe-81259862f8ae
+2024-12-31 03:41:18.252 +01:00 [INF] Current user retrieved successfully: 32abc6a2-8169-45ab-b1fe-81259862f8ae
+2024-12-31 03:41:18.266 +01:00 [INF] Current user retrieved successfully: 32abc6a2-8169-45ab-b1fe-81259862f8ae
+2024-12-31 03:41:18.273 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 03:41:18.284 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 03:42:08.752 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 03:42:12.752 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 03:42:17.572 +01:00 [INF] Current user retrieved successfully: 32abc6a2-8169-45ab-b1fe-81259862f8ae
+2024-12-31 03:42:17.578 +01:00 [INF] Current user retrieved successfully: 32abc6a2-8169-45ab-b1fe-81259862f8ae
+2024-12-31 03:42:17.586 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 03:42:17.597 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 03:42:21.795 +01:00 [INF] Fetching all services
+2024-12-31 03:42:21.803 +01:00 [INF] Fetching all services
+2024-12-31 03:42:22.188 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 03:42:22.197 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 03:42:22.546 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 03:42:22.555 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 03:42:23.000 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 03:42:23.001 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 03:42:23.494 +01:00 [INF] Fetching all services
+2024-12-31 03:42:23.502 +01:00 [INF] Fetching all services
+2024-12-31 03:42:23.789 +01:00 [INF] Current user retrieved successfully: 32abc6a2-8169-45ab-b1fe-81259862f8ae
+2024-12-31 03:42:23.793 +01:00 [INF] Current user retrieved successfully: 32abc6a2-8169-45ab-b1fe-81259862f8ae
+2024-12-31 03:42:23.800 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 03:42:23.812 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 03:54:06.889 +01:00 [INF] Current user retrieved successfully: 32abc6a2-8169-45ab-b1fe-81259862f8ae
+2024-12-31 03:54:06.900 +01:00 [INF] Current user retrieved successfully: 32abc6a2-8169-45ab-b1fe-81259862f8ae
+2024-12-31 03:54:06.919 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 03:54:06.963 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 03:54:30.755 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 03:54:30.757 +01:00 [INF] Current user retrieved successfully: 32abc6a2-8169-45ab-b1fe-81259862f8ae
+2024-12-31 03:57:18.762 +01:00 [INF] Current user retrieved successfully: 32abc6a2-8169-45ab-b1fe-81259862f8ae
+2024-12-31 04:01:04.759 +01:00 [INF] Fetching employee with UserId: "32abc6a2-8169-45ab-b1fe-81259862f8ae"
+2024-12-31 15:14:42.629 +01:00 [INF] Starting up the application
+2024-12-31 15:15:16.303 +01:00 [INF] Starting up the application
+2024-12-31 15:15:16.824 +01:00 [INF] Applying migrations
+2024-12-31 15:15:17.619 +01:00 [ERR] An error occurred using the connection to database 'BeautySalonDB' on server 'tcp://localhost:5432'.
+2024-12-31 15:15:18.610 +01:00 [INF] Migrations applied successfully
+2024-12-31 15:15:19.774 +01:00 [INF] Seeds applied successfully
+2024-12-31 15:17:30.861 +01:00 [INF] Starting up the application
+2024-12-31 15:17:31.667 +01:00 [INF] Applying migrations
+2024-12-31 15:17:33.136 +01:00 [INF] Migrations applied successfully
+2024-12-31 15:17:33.338 +01:00 [INF] Seeds applied successfully
+2024-12-31 15:22:29.643 +01:00 [INF] Attempting to log in user with email: customer@gmail.com
+2024-12-31 15:22:30.047 +01:00 [INF] Generating JWT for UserId: "4cc4874d-cd27-412f-a495-b95a501babd1", Role: Customer
+2024-12-31 15:22:30.058 +01:00 [INF] JWT generated successfully for UserId: "4cc4874d-cd27-412f-a495-b95a501babd1"
+2024-12-31 15:22:30.061 +01:00 [INF] Login successful for user: "4cc4874d-cd27-412f-a495-b95a501babd1"
+2024-12-31 15:22:30.125 +01:00 [INF] Current user retrieved successfully: 4cc4874d-cd27-412f-a495-b95a501babd1
+2024-12-31 15:22:30.269 +01:00 [INF] Current user retrieved successfully: 4cc4874d-cd27-412f-a495-b95a501babd1
+2024-12-31 15:22:30.277 +01:00 [INF] Current user retrieved successfully: 4cc4874d-cd27-412f-a495-b95a501babd1
+2024-12-31 15:22:30.295 +01:00 [INF] Fetching customer with UserId: 4cc4874d-cd27-412f-a495-b95a501babd1
+2024-12-31 15:22:30.394 +01:00 [INF] Fetching customer with UserId: 4cc4874d-cd27-412f-a495-b95a501babd1
+2024-12-31 15:23:01.030 +01:00 [INF] Attempting to log in user with email: employee@gmail.com
+2024-12-31 15:23:01.322 +01:00 [INF] Generating JWT for UserId: "90e1b788-9e81-48d6-a3b6-5e098a264ca9", Role: Employee
+2024-12-31 15:23:01.328 +01:00 [INF] JWT generated successfully for UserId: "90e1b788-9e81-48d6-a3b6-5e098a264ca9"
+2024-12-31 15:23:01.330 +01:00 [INF] Login successful for user: "90e1b788-9e81-48d6-a3b6-5e098a264ca9"
+2024-12-31 15:23:01.339 +01:00 [INF] Current user retrieved successfully: 90e1b788-9e81-48d6-a3b6-5e098a264ca9
+2024-12-31 15:23:01.478 +01:00 [INF] Current user retrieved successfully: 90e1b788-9e81-48d6-a3b6-5e098a264ca9
+2024-12-31 15:23:01.485 +01:00 [INF] Current user retrieved successfully: 90e1b788-9e81-48d6-a3b6-5e098a264ca9
+2024-12-31 15:23:01.504 +01:00 [INF] Fetching employee with UserId: "90e1b788-9e81-48d6-a3b6-5e098a264ca9"
+2024-12-31 15:23:01.529 +01:00 [INF] Fetching employee with UserId: "90e1b788-9e81-48d6-a3b6-5e098a264ca9"
+2024-12-31 15:23:28.989 +01:00 [INF] Attempting to log in user with email: admin@gmail.com
+2024-12-31 15:23:29.109 +01:00 [INF] Generating JWT for UserId: "938ed48a-94e2-45b1-ada6-8a7bd98256e9", Role: Administrator
+2024-12-31 15:23:29.112 +01:00 [INF] JWT generated successfully for UserId: "938ed48a-94e2-45b1-ada6-8a7bd98256e9"
+2024-12-31 15:23:29.115 +01:00 [INF] Login successful for user: "938ed48a-94e2-45b1-ada6-8a7bd98256e9"
+2024-12-31 15:23:29.125 +01:00 [INF] Current user retrieved successfully: 938ed48a-94e2-45b1-ada6-8a7bd98256e9
+2024-12-31 15:23:29.257 +01:00 [INF] Current user retrieved successfully: 938ed48a-94e2-45b1-ada6-8a7bd98256e9
+2024-12-31 15:23:29.264 +01:00 [INF] Current user retrieved successfully: 938ed48a-94e2-45b1-ada6-8a7bd98256e9
+2024-12-31 15:23:29.279 +01:00 [INF] Fetching employee count
+2024-12-31 15:23:29.304 +01:00 [INF] Employee count fetched: 1
+2024-12-31 15:23:29.307 +01:00 [INF] Fetching employee count
+2024-12-31 15:23:29.313 +01:00 [INF] Employee count fetched: 3
+2024-12-31 15:23:29.315 +01:00 [INF] Fetching employee count
+2024-12-31 15:23:29.321 +01:00 [INF] Employee count fetched: 9
+2024-12-31 15:23:29.327 +01:00 [INF] Fetching employee count
+2024-12-31 15:23:29.332 +01:00 [INF] Employee count fetched: 1
+2024-12-31 15:23:29.334 +01:00 [INF] Fetching employee count
+2024-12-31 15:23:29.338 +01:00 [INF] Employee count fetched: 3
+2024-12-31 15:23:29.340 +01:00 [INF] Fetching employee count
+2024-12-31 15:23:29.343 +01:00 [INF] Employee count fetched: 9
+2024-12-31 15:23:50.667 +01:00 [INF] Attempting to log in user with email: employee@gmail.com
+2024-12-31 15:23:50.786 +01:00 [INF] Generating JWT for UserId: "90e1b788-9e81-48d6-a3b6-5e098a264ca9", Role: Employee
+2024-12-31 15:23:50.789 +01:00 [INF] JWT generated successfully for UserId: "90e1b788-9e81-48d6-a3b6-5e098a264ca9"
+2024-12-31 15:23:50.791 +01:00 [INF] Login successful for user: "90e1b788-9e81-48d6-a3b6-5e098a264ca9"
+2024-12-31 15:23:50.800 +01:00 [INF] Current user retrieved successfully: 90e1b788-9e81-48d6-a3b6-5e098a264ca9
+2024-12-31 15:23:50.944 +01:00 [INF] Current user retrieved successfully: 90e1b788-9e81-48d6-a3b6-5e098a264ca9
+2024-12-31 15:23:50.950 +01:00 [INF] Current user retrieved successfully: 90e1b788-9e81-48d6-a3b6-5e098a264ca9
+2024-12-31 15:23:50.957 +01:00 [INF] Fetching employee with UserId: "90e1b788-9e81-48d6-a3b6-5e098a264ca9"
+2024-12-31 15:23:50.968 +01:00 [INF] Fetching employee with UserId: "90e1b788-9e81-48d6-a3b6-5e098a264ca9"
+2024-12-31 15:23:52.244 +01:00 [INF] Fetching employee with UserId: "90e1b788-9e81-48d6-a3b6-5e098a264ca9"
+2024-12-31 15:23:52.262 +01:00 [INF] Fetching employee with UserId: "90e1b788-9e81-48d6-a3b6-5e098a264ca9"
+2024-12-31 16:03:28.825 +01:00 [INF] Starting up the application
+2024-12-31 16:03:29.177 +01:00 [INF] Applying migrations
+2024-12-31 16:03:30.609 +01:00 [INF] Migrations applied successfully
+2024-12-31 16:03:30.854 +01:00 [INF] Seeds applied successfully
+2024-12-31 16:04:34.670 +01:00 [INF] Attempting to log in user with email: customer@gmail.com
+2024-12-31 16:04:35.074 +01:00 [INF] Generating JWT for UserId: "4cc4874d-cd27-412f-a495-b95a501babd1", Role: Customer
+2024-12-31 16:04:35.086 +01:00 [INF] JWT generated successfully for UserId: "4cc4874d-cd27-412f-a495-b95a501babd1"
+2024-12-31 16:04:35.089 +01:00 [INF] Login successful for user: "4cc4874d-cd27-412f-a495-b95a501babd1"
+2024-12-31 16:04:35.150 +01:00 [INF] Current user retrieved successfully: 4cc4874d-cd27-412f-a495-b95a501babd1
+2024-12-31 16:04:35.321 +01:00 [INF] Current user retrieved successfully: 4cc4874d-cd27-412f-a495-b95a501babd1
+2024-12-31 16:04:35.330 +01:00 [INF] Current user retrieved successfully: 4cc4874d-cd27-412f-a495-b95a501babd1
+2024-12-31 16:04:35.355 +01:00 [INF] Fetching customer with UserId: 4cc4874d-cd27-412f-a495-b95a501babd1
+2024-12-31 16:04:35.454 +01:00 [INF] Fetching customer with UserId: 4cc4874d-cd27-412f-a495-b95a501babd1
+2024-12-31 16:04:47.268 +01:00 [INF] Fetching all services
+2024-12-31 16:04:47.307 +01:00 [INF] Fetching all services
+2024-12-31 16:04:48.531 +01:00 [INF] Current user retrieved successfully: 4cc4874d-cd27-412f-a495-b95a501babd1
+2024-12-31 16:04:48.540 +01:00 [INF] Current user retrieved successfully: 4cc4874d-cd27-412f-a495-b95a501babd1
+2024-12-31 16:04:48.557 +01:00 [INF] Fetching customer with UserId: 4cc4874d-cd27-412f-a495-b95a501babd1
+2024-12-31 16:04:48.569 +01:00 [INF] Fetching customer with UserId: 4cc4874d-cd27-412f-a495-b95a501babd1
+2024-12-31 16:04:52.910 +01:00 [INF] Fetching all services
+2024-12-31 16:04:52.920 +01:00 [INF] Fetching all services
+2024-12-31 16:04:57.347 +01:00 [INF] Fetching customer with UserId: 4cc4874d-cd27-412f-a495-b95a501babd1
+2024-12-31 16:04:57.365 +01:00 [INF] Fetching customer with UserId: 4cc4874d-cd27-412f-a495-b95a501babd1
+2024-12-31 16:04:58.298 +01:00 [INF] Fetching all services
+2024-12-31 16:04:58.309 +01:00 [INF] Fetching all services
+2024-12-31 16:05:16.675 +01:00 [INF] Fetching customer with UserId: 4cc4874d-cd27-412f-a495-b95a501babd1
+2024-12-31 16:05:16.687 +01:00 [INF] Fetching customer with UserId: 4cc4874d-cd27-412f-a495-b95a501babd1
+2024-12-31 16:05:45.664 +01:00 [INF] Searching for available employee for serviceId: "a404419d-15fc-4a0b-8642-59a7540282d0" on "2024-12-31T09:00:00.0000000+01:00"
+2024-12-31 16:05:45.685 +01:00 [INF] Creating booking for ServiceId: "a404419d-15fc-4a0b-8642-59a7540282d0" on "2024-12-31T09:00:00.0000000+01:00"
+2024-12-31 16:05:45.700 +01:00 [INF] Calculating dynamic price for ServiceId: "a404419d-15fc-4a0b-8642-59a7540282d0" on "2024-12-31T08:00:00.0000000Z"
+2024-12-31 16:05:45.712 +01:00 [INF] No dynamic price found. Using default price: 70
+2024-12-31 16:05:45.822 +01:00 [INF] Booking created successfully for ServiceId: "a404419d-15fc-4a0b-8642-59a7540282d0" on "2024-12-31T08:00:00.0000000Z"
+2024-12-31 16:05:48.481 +01:00 [INF] Current user retrieved successfully: 4cc4874d-cd27-412f-a495-b95a501babd1
+2024-12-31 16:05:48.488 +01:00 [INF] Current user retrieved successfully: 4cc4874d-cd27-412f-a495-b95a501babd1
+2024-12-31 16:05:48.505 +01:00 [INF] Fetching customer with UserId: 4cc4874d-cd27-412f-a495-b95a501babd1
+2024-12-31 16:05:48.516 +01:00 [INF] Fetching customer with UserId: 4cc4874d-cd27-412f-a495-b95a501babd1
+2024-12-31 16:06:00.762 +01:00 [INF] Attempting to log in user with email: employee@gmail.com
+2024-12-31 16:06:01.002 +01:00 [INF] Generating JWT for UserId: "90e1b788-9e81-48d6-a3b6-5e098a264ca9", Role: Employee
+2024-12-31 16:06:01.005 +01:00 [INF] JWT generated successfully for UserId: "90e1b788-9e81-48d6-a3b6-5e098a264ca9"
+2024-12-31 16:06:01.007 +01:00 [INF] Login successful for user: "90e1b788-9e81-48d6-a3b6-5e098a264ca9"
+2024-12-31 16:06:01.014 +01:00 [INF] Current user retrieved successfully: 90e1b788-9e81-48d6-a3b6-5e098a264ca9
+2024-12-31 16:06:01.180 +01:00 [INF] Current user retrieved successfully: 90e1b788-9e81-48d6-a3b6-5e098a264ca9
+2024-12-31 16:06:01.189 +01:00 [INF] Current user retrieved successfully: 90e1b788-9e81-48d6-a3b6-5e098a264ca9
+2024-12-31 16:06:01.204 +01:00 [INF] Fetching employee with UserId: "90e1b788-9e81-48d6-a3b6-5e098a264ca9"
+2024-12-31 16:06:01.228 +01:00 [INF] Fetching employee with UserId: "90e1b788-9e81-48d6-a3b6-5e098a264ca9"
+2024-12-31 16:06:14.560 +01:00 [INF] Fetching employee with UserId: "90e1b788-9e81-48d6-a3b6-5e098a264ca9"
+2024-12-31 16:06:14.575 +01:00 [INF] Fetching employee with UserId: "90e1b788-9e81-48d6-a3b6-5e098a264ca9"
+2024-12-31 16:06:27.813 +01:00 [INF] Updating booking status for Id: "01941d40-6004-7337-ae17-f54ef0ffc714" to "Confirmed"
+2024-12-31 16:06:27.828 +01:00 [INF] Booking status updated successfully for Id: "01941d40-6004-7337-ae17-f54ef0ffc714"
+2024-12-31 16:06:29.002 +01:00 [INF] Current user retrieved successfully: 90e1b788-9e81-48d6-a3b6-5e098a264ca9
+2024-12-31 16:06:29.009 +01:00 [INF] Current user retrieved successfully: 90e1b788-9e81-48d6-a3b6-5e098a264ca9
+2024-12-31 16:06:29.025 +01:00 [INF] Fetching employee with UserId: "90e1b788-9e81-48d6-a3b6-5e098a264ca9"
+2024-12-31 16:06:29.038 +01:00 [INF] Fetching employee with UserId: "90e1b788-9e81-48d6-a3b6-5e098a264ca9"
+2024-12-31 16:06:37.604 +01:00 [INF] Fetching all services
+2024-12-31 16:06:37.613 +01:00 [INF] Fetching all services
+2024-12-31 16:06:49.669 +01:00 [INF] Fetching employee with UserId: "90e1b788-9e81-48d6-a3b6-5e098a264ca9"
+2024-12-31 16:06:49.681 +01:00 [INF] Fetching employee with UserId: "90e1b788-9e81-48d6-a3b6-5e098a264ca9"
+2024-12-31 16:06:50.304 +01:00 [INF] Fetching employee with UserId: "90e1b788-9e81-48d6-a3b6-5e098a264ca9"
+2024-12-31 16:06:50.320 +01:00 [INF] Fetching employee with UserId: "90e1b788-9e81-48d6-a3b6-5e098a264ca9"
+2024-12-31 16:06:51.043 +01:00 [INF] Fetching employee with UserId: "90e1b788-9e81-48d6-a3b6-5e098a264ca9"
+2024-12-31 16:06:51.057 +01:00 [INF] Fetching employee with UserId: "90e1b788-9e81-48d6-a3b6-5e098a264ca9"
+2024-12-31 16:07:17.364 +01:00 [INF] Current user retrieved successfully: 90e1b788-9e81-48d6-a3b6-5e098a264ca9
+2024-12-31 16:07:17.371 +01:00 [INF] Current user retrieved successfully: 90e1b788-9e81-48d6-a3b6-5e098a264ca9
+2024-12-31 16:07:17.389 +01:00 [INF] Fetching employee with UserId: "90e1b788-9e81-48d6-a3b6-5e098a264ca9"
+2024-12-31 16:07:17.406 +01:00 [INF] Fetching employee with UserId: "90e1b788-9e81-48d6-a3b6-5e098a264ca9"
+2024-12-31 16:07:18.046 +01:00 [INF] Fetching all services
+2024-12-31 16:07:18.059 +01:00 [INF] Fetching all services
+2024-12-31 16:07:18.538 +01:00 [INF] Current user retrieved successfully: 90e1b788-9e81-48d6-a3b6-5e098a264ca9
+2024-12-31 16:07:18.545 +01:00 [INF] Current user retrieved successfully: 90e1b788-9e81-48d6-a3b6-5e098a264ca9
+2024-12-31 16:07:18.548 +01:00 [INF] Fetching employee with UserId: "90e1b788-9e81-48d6-a3b6-5e098a264ca9"
+2024-12-31 16:07:18.559 +01:00 [INF] Fetching employee with UserId: "90e1b788-9e81-48d6-a3b6-5e098a264ca9"
+2024-12-31 16:07:20.061 +01:00 [INF] Fetching employee with UserId: "90e1b788-9e81-48d6-a3b6-5e098a264ca9"
+2024-12-31 16:07:20.072 +01:00 [INF] Fetching employee with UserId: "90e1b788-9e81-48d6-a3b6-5e098a264ca9"
+2024-12-31 16:07:20.505 +01:00 [INF] Fetching employee with UserId: "90e1b788-9e81-48d6-a3b6-5e098a264ca9"
+2024-12-31 16:07:20.517 +01:00 [INF] Fetching employee with UserId: "90e1b788-9e81-48d6-a3b6-5e098a264ca9"
+2024-12-31 16:07:20.933 +01:00 [INF] Fetching employee with UserId: "90e1b788-9e81-48d6-a3b6-5e098a264ca9"
+2024-12-31 16:07:20.944 +01:00 [INF] Fetching employee with UserId: "90e1b788-9e81-48d6-a3b6-5e098a264ca9"
+2024-12-31 16:07:21.259 +01:00 [INF] Fetching all services
+2024-12-31 16:07:21.268 +01:00 [INF] Fetching all services
+2024-12-31 16:07:21.608 +01:00 [INF] Current user retrieved successfully: 90e1b788-9e81-48d6-a3b6-5e098a264ca9
+2024-12-31 16:07:21.614 +01:00 [INF] Current user retrieved successfully: 90e1b788-9e81-48d6-a3b6-5e098a264ca9
+2024-12-31 16:07:21.619 +01:00 [INF] Fetching employee with UserId: "90e1b788-9e81-48d6-a3b6-5e098a264ca9"
+2024-12-31 16:07:21.630 +01:00 [INF] Fetching employee with UserId: "90e1b788-9e81-48d6-a3b6-5e098a264ca9"
+2024-12-31 16:07:28.568 +01:00 [INF] Attempting to log in user with email: admin@gmail.com
+2024-12-31 16:07:28.689 +01:00 [INF] Generating JWT for UserId: "938ed48a-94e2-45b1-ada6-8a7bd98256e9", Role: Administrator
+2024-12-31 16:07:28.692 +01:00 [INF] JWT generated successfully for UserId: "938ed48a-94e2-45b1-ada6-8a7bd98256e9"
+2024-12-31 16:07:28.694 +01:00 [INF] Login successful for user: "938ed48a-94e2-45b1-ada6-8a7bd98256e9"
+2024-12-31 16:07:28.701 +01:00 [INF] Current user retrieved successfully: 938ed48a-94e2-45b1-ada6-8a7bd98256e9
+2024-12-31 16:07:28.871 +01:00 [INF] Current user retrieved successfully: 938ed48a-94e2-45b1-ada6-8a7bd98256e9
+2024-12-31 16:07:28.881 +01:00 [INF] Current user retrieved successfully: 938ed48a-94e2-45b1-ada6-8a7bd98256e9
+2024-12-31 16:07:28.894 +01:00 [INF] Fetching employee count
+2024-12-31 16:07:28.920 +01:00 [INF] Employee count fetched: 1
+2024-12-31 16:07:28.923 +01:00 [INF] Fetching employee count
+2024-12-31 16:07:28.929 +01:00 [INF] Employee count fetched: 3
+2024-12-31 16:07:28.931 +01:00 [INF] Fetching employee count
+2024-12-31 16:07:28.936 +01:00 [INF] Employee count fetched: 10
+2024-12-31 16:07:28.942 +01:00 [INF] Fetching employee count
+2024-12-31 16:07:28.946 +01:00 [INF] Employee count fetched: 1
+2024-12-31 16:07:28.948 +01:00 [INF] Fetching employee count
+2024-12-31 16:07:28.952 +01:00 [INF] Employee count fetched: 3
+2024-12-31 16:07:28.954 +01:00 [INF] Fetching employee count
+2024-12-31 16:07:28.957 +01:00 [INF] Employee count fetched: 10
+2024-12-31 16:07:30.420 +01:00 [INF] Fetching all employees
+2024-12-31 16:07:30.435 +01:00 [INF] Fetching all employees
+2024-12-31 16:07:40.818 +01:00 [INF] Current user retrieved successfully: 938ed48a-94e2-45b1-ada6-8a7bd98256e9
+2024-12-31 16:07:40.822 +01:00 [INF] Admin "938ed48a-94e2-45b1-ada6-8a7bd98256e9" is attempting to create a new employee with email: Artur12304@gmail.com
+2024-12-31 16:07:40.954 +01:00 [INF] UserEntity created with ID: "d291f7d2-dd8e-4a76-9cab-396dfebd3a6b"
+2024-12-31 16:07:40.962 +01:00 [INF] Employee profile created with ID: "83668715-6d40-4fa9-b5bf-9fe72ceedbc4"
+2024-12-31 16:07:41.083 +01:00 [INF] Fetching all employees
+2024-12-31 16:07:41.092 +01:00 [INF] Fetching all employees
+2024-12-31 16:07:45.223 +01:00 [INF] Current user retrieved successfully: 938ed48a-94e2-45b1-ada6-8a7bd98256e9
+2024-12-31 16:07:45.229 +01:00 [INF] Current user retrieved successfully: 938ed48a-94e2-45b1-ada6-8a7bd98256e9
+2024-12-31 16:07:45.235 +01:00 [INF] Fetching employee count
+2024-12-31 16:07:45.241 +01:00 [INF] Employee count fetched: 2
+2024-12-31 16:07:45.243 +01:00 [INF] Fetching employee count
+2024-12-31 16:07:45.247 +01:00 [INF] Employee count fetched: 3
+2024-12-31 16:07:45.249 +01:00 [INF] Fetching employee count
+2024-12-31 16:07:45.253 +01:00 [INF] Employee count fetched: 10
+2024-12-31 16:07:45.259 +01:00 [INF] Fetching employee count
+2024-12-31 16:07:45.264 +01:00 [INF] Employee count fetched: 2
+2024-12-31 16:07:45.266 +01:00 [INF] Fetching employee count
+2024-12-31 16:07:45.270 +01:00 [INF] Employee count fetched: 3
+2024-12-31 16:07:45.273 +01:00 [INF] Fetching employee count
+2024-12-31 16:07:45.277 +01:00 [INF] Employee count fetched: 10
+2024-12-31 16:07:47.342 +01:00 [INF] Fetching all services
+2024-12-31 16:07:47.352 +01:00 [INF] Fetching all services
+2024-12-31 16:07:47.737 +01:00 [INF] Fetching all employees
+2024-12-31 16:07:47.746 +01:00 [INF] Fetching all employees
+2024-12-31 16:07:48.743 +01:00 [INF] Fetching all services
+2024-12-31 16:07:48.752 +01:00 [INF] Fetching all services
+2024-12-31 16:07:51.042 +01:00 [INF] Fetching all services
+2024-12-31 16:07:51.052 +01:00 [INF] Fetching all services
+2024-12-31 16:07:51.339 +01:00 [INF] Fetching all employees
+2024-12-31 16:07:51.349 +01:00 [INF] Fetching all employees
+2024-12-31 16:07:51.932 +01:00 [INF] Current user retrieved successfully: 938ed48a-94e2-45b1-ada6-8a7bd98256e9
+2024-12-31 16:07:51.942 +01:00 [INF] Current user retrieved successfully: 938ed48a-94e2-45b1-ada6-8a7bd98256e9
+2024-12-31 16:07:51.948 +01:00 [INF] Fetching employee count
+2024-12-31 16:07:51.954 +01:00 [INF] Employee count fetched: 2
+2024-12-31 16:07:51.956 +01:00 [INF] Fetching employee count
+2024-12-31 16:07:51.960 +01:00 [INF] Employee count fetched: 3
+2024-12-31 16:07:51.963 +01:00 [INF] Fetching employee count
+2024-12-31 16:07:51.967 +01:00 [INF] Employee count fetched: 10
+2024-12-31 16:07:51.971 +01:00 [INF] Fetching employee count
+2024-12-31 16:07:51.976 +01:00 [INF] Employee count fetched: 2
+2024-12-31 16:07:51.979 +01:00 [INF] Fetching employee count
+2024-12-31 16:07:51.983 +01:00 [INF] Employee count fetched: 3
+2024-12-31 16:07:51.985 +01:00 [INF] Fetching employee count
+2024-12-31 16:07:51.989 +01:00 [INF] Employee count fetched: 10
+2024-12-31 16:07:58.795 +01:00 [INF] Fetching all employees
+2024-12-31 16:07:58.804 +01:00 [INF] Fetching all employees
+2024-12-31 16:08:00.087 +01:00 [INF] Fetching all services
+2024-12-31 16:08:00.095 +01:00 [INF] Fetching all services
+2024-12-31 16:08:02.048 +01:00 [INF] Fetching all services
+2024-12-31 16:08:02.057 +01:00 [INF] Fetching all services
+2024-12-31 16:08:02.739 +01:00 [INF] Fetching all employees
+2024-12-31 16:08:02.747 +01:00 [INF] Fetching all employees
+2024-12-31 16:08:03.544 +01:00 [INF] Current user retrieved successfully: 938ed48a-94e2-45b1-ada6-8a7bd98256e9
+2024-12-31 16:08:03.549 +01:00 [INF] Current user retrieved successfully: 938ed48a-94e2-45b1-ada6-8a7bd98256e9
+2024-12-31 16:08:03.556 +01:00 [INF] Fetching employee count
+2024-12-31 16:08:03.561 +01:00 [INF] Employee count fetched: 2
+2024-12-31 16:08:03.564 +01:00 [INF] Fetching employee count
+2024-12-31 16:08:03.568 +01:00 [INF] Employee count fetched: 3
+2024-12-31 16:08:03.571 +01:00 [INF] Fetching employee count
+2024-12-31 16:08:03.575 +01:00 [INF] Employee count fetched: 10
+2024-12-31 16:08:03.581 +01:00 [INF] Fetching employee count
+2024-12-31 16:08:03.585 +01:00 [INF] Employee count fetched: 2
+2024-12-31 16:08:03.587 +01:00 [INF] Fetching employee count
+2024-12-31 16:08:03.591 +01:00 [INF] Employee count fetched: 3
+2024-12-31 16:08:03.593 +01:00 [INF] Fetching employee count
+2024-12-31 16:08:03.597 +01:00 [INF] Employee count fetched: 10
+2024-12-31 16:08:04.420 +01:00 [INF] Fetching all employees
+2024-12-31 16:08:04.429 +01:00 [INF] Fetching all employees
+2024-12-31 16:08:05.365 +01:00 [INF] Fetching all services
+2024-12-31 16:08:05.375 +01:00 [INF] Fetching all services
+2024-12-31 16:08:06.988 +01:00 [INF] Fetching all services
+2024-12-31 16:08:06.996 +01:00 [INF] Fetching all services
+2024-12-31 16:08:07.478 +01:00 [INF] Fetching all employees
+2024-12-31 16:08:07.488 +01:00 [INF] Fetching all employees
+2024-12-31 16:08:08.442 +01:00 [INF] Current user retrieved successfully: 938ed48a-94e2-45b1-ada6-8a7bd98256e9
+2024-12-31 16:08:08.449 +01:00 [INF] Current user retrieved successfully: 938ed48a-94e2-45b1-ada6-8a7bd98256e9
+2024-12-31 16:08:08.454 +01:00 [INF] Fetching employee count
+2024-12-31 16:08:08.460 +01:00 [INF] Employee count fetched: 2
+2024-12-31 16:08:08.463 +01:00 [INF] Fetching employee count
+2024-12-31 16:08:08.467 +01:00 [INF] Employee count fetched: 3
+2024-12-31 16:08:08.469 +01:00 [INF] Fetching employee count
+2024-12-31 16:08:08.474 +01:00 [INF] Employee count fetched: 10
+2024-12-31 16:08:08.479 +01:00 [INF] Fetching employee count
+2024-12-31 16:08:08.484 +01:00 [INF] Employee count fetched: 2
+2024-12-31 16:08:08.486 +01:00 [INF] Fetching employee count
+2024-12-31 16:08:08.490 +01:00 [INF] Employee count fetched: 3
+2024-12-31 16:08:08.492 +01:00 [INF] Fetching employee count
+2024-12-31 16:08:08.496 +01:00 [INF] Employee count fetched: 10
+2024-12-31 16:08:09.260 +01:00 [INF] Fetching all employees
+2024-12-31 16:08:09.269 +01:00 [INF] Fetching all employees
+2024-12-31 16:08:09.578 +01:00 [INF] Fetching all services
+2024-12-31 16:08:09.586 +01:00 [INF] Fetching all services
+2024-12-31 16:08:12.135 +01:00 [INF] Fetching all services
+2024-12-31 16:08:12.144 +01:00 [INF] Fetching all services
+2024-12-31 16:08:12.524 +01:00 [INF] Fetching all employees
+2024-12-31 16:08:12.532 +01:00 [INF] Fetching all employees
+2024-12-31 16:08:16.896 +01:00 [INF] Attempting to delete employee with Id: "83668715-6d40-4fa9-b5bf-9fe72ceedbc4"
+2024-12-31 16:08:16.915 +01:00 [INF] Employee deleted successfully with Id: "83668715-6d40-4fa9-b5bf-9fe72ceedbc4"

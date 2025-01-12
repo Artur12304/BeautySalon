@@ -1,0 +1,17 @@
+C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon.Application\bin\Debug\net8.0\BeautySalon.Application.deps.json
+C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon.Application\bin\Debug\net8.0\BeautySalon.Application.dll
+C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon.Application\bin\Debug\net8.0\BeautySalon.Application.pdb
+C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon.Application\bin\Debug\net8.0\BeautySalon.Domain.dll
+C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon.Application\bin\Debug\net8.0\BeautySalon.Infrastructure.dll
+C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon.Application\bin\Debug\net8.0\BeautySalon.Domain.pdb
+C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon.Application\bin\Debug\net8.0\BeautySalon.Infrastructure.pdb
+C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon.Application\obj\Debug\net8.0\BeautySalon.Application.csproj.AssemblyReference.cache
+C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon.Application\obj\Debug\net8.0\BeautySalon.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon.Application\obj\Debug\net8.0\BeautySalon.Application.AssemblyInfoInputs.cache
+C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon.Application\obj\Debug\net8.0\BeautySalon.Application.AssemblyInfo.cs
+C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon.Application\obj\Debug\net8.0\BeautySalon.Application.csproj.CoreCompileInputs.cache
+C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon.Application\obj\Debug\net8.0\BeautySa.06C2169E.Up2Date
+C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon.Application\obj\Debug\net8.0\BeautySalon.Application.dll
+C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon.Application\obj\Debug\net8.0\refint\BeautySalon.Application.dll
+C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon.Application\obj\Debug\net8.0\BeautySalon.Application.pdb
+C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon.Application\obj\Debug\net8.0\ref\BeautySalon.Application.dll

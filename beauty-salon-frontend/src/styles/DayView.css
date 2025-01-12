@@ -1,0 +1,130 @@
+.day-view {
+  padding: 2rem;
+  background-color: #fdf2f4;
+  min-height: 100vh;
+  text-align: center;
+}
+
+.day-view h1 {
+  color: #d67291;
+  margin-bottom: 1.5rem;
+}
+
+.time-slots-container {
+  background-color: white;
+  border-radius: 10px;
+  padding: 2rem;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-top: 2rem;
+  margin-left: 15rem;
+  margin-right: 15rem;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 15px;
+  justify-items: center;
+}
+
+.time-slot {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  border-radius: 8px;
+  text-align: center;
+  font-size: 1rem;
+  cursor: pointer;
+  background-color: #d67291;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.2s, transform 0.2s;
+  width: 45%;
+  height: 80px;
+  max-width: 200px;
+}
+
+.time-slot.available {
+  background-color: #ffb1c0;
+}
+
+.time-slot:hover {
+  transform: scale(1.05);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+  background-color: #ff6281;
+}
+
+.time-slot p {
+  font-weight: bold;
+  margin: 0;
+  font-size: 1.2rem;
+}
+
+.no-slots-message {
+  font-size: 1.2rem;
+  color: #d67291;
+  text-align: center;
+  grid-column: span 3;
+}
+
+.service-details {
+  display: flex;
+  flex-direction: row;
+  gap: 1.5rem;
+  margin-top: 2rem;
+  max-width: 500px;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.service-detail {
+  padding: 1rem;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  font-size: 1.2rem;
+  color: #333;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 120px;
+}
+
+.service-detail span {
+  font-weight: bold;
+  color: #d67291;
+  margin-bottom: 0.5rem;
+}
+
+.service-detail p {
+  font-size: 1.1rem;
+  margin: 0;
+}
+
+.service-description {
+  padding: 1rem;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  font-size: 1.2rem;
+  color: #333;
+  max-width: 500px;
+  margin: 1.5rem auto;
+  word-wrap: break-word;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.service-description span {
+  font-weight: bold;
+  color: #d67291;
+  margin-bottom: 0.5rem;
+}
+
+.service-description p {
+  font-size: 1.1rem;
+  margin: 0;
+}

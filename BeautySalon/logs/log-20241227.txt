@@ -1,0 +1,316 @@
+2024-12-27 13:40:22.819 +01:00 [INF] Starting up the application
+2024-12-27 13:40:24.644 +01:00 [INF] Applying migrations
+2024-12-27 13:40:26.392 +01:00 [INF] Migrations applied successfully
+2024-12-27 13:40:54.947 +01:00 [INF] Attempting to log in user with email: Artur12304@gmail.com
+2024-12-27 13:40:55.504 +01:00 [INF] Generating JWT for UserId: "752bb3b7-b151-47a1-810d-375eaa32ad80", Role: CustomerEntity
+2024-12-27 13:40:55.516 +01:00 [INF] JWT generated successfully for UserId: "752bb3b7-b151-47a1-810d-375eaa32ad80"
+2024-12-27 13:40:55.519 +01:00 [INF] Login successful for user: "752bb3b7-b151-47a1-810d-375eaa32ad80"
+2024-12-27 13:40:55.585 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-27 13:40:55.711 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-27 13:40:55.719 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-27 13:40:55.732 +01:00 [INF] Fetching all services
+2024-12-27 13:40:55.792 +01:00 [INF] Fetching all services
+2024-12-27 13:41:12.855 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-27 13:41:12.863 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-27 13:41:12.877 +01:00 [INF] Fetching all services
+2024-12-27 13:41:12.892 +01:00 [INF] Fetching all services
+2024-12-27 13:41:19.749 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-27 13:41:19.756 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-27 13:41:19.772 +01:00 [INF] Fetching all services
+2024-12-27 13:41:19.808 +01:00 [INF] Fetching all services
+2024-12-27 13:41:47.070 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-27 13:41:47.078 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-27 13:41:47.091 +01:00 [INF] Fetching all services
+2024-12-27 13:41:47.107 +01:00 [INF] Fetching all services
+2024-12-27 13:44:50.909 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-27 13:44:50.916 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-27 13:44:50.983 +01:00 [INF] Fetching all services
+2024-12-27 13:44:50.998 +01:00 [INF] Fetching all services
+2024-12-27 15:35:09.651 +01:00 [INF] Starting up the application
+2024-12-27 15:35:58.863 +01:00 [INF] Starting up the application
+2024-12-27 15:36:08.734 +01:00 [INF] Starting up the application
+2024-12-27 15:36:09.251 +01:00 [INF] Applying migrations
+2024-12-27 15:36:09.879 +01:00 [FTL] Error during migration
+System.ArgumentException: Couldn't set userentity id (Parameter 'userentity id')
+ ---> System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at Npgsql.NpgsqlConnectionStringBuilder.GeneratedActions(GeneratedAction action, String keyword, Object& value)
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   --- End of inner exception stack trace ---
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   at System.Data.Common.DbConnectionStringBuilder.set_ConnectionString(String value)
+   at Npgsql.NpgsqlConnectionStringBuilder..ctor(String connectionString)
+   at Npgsql.NpgsqlConnection.SetupDataSource()
+   at Npgsql.NpgsqlConnection.set_ConnectionString(String value)
+   at Npgsql.NpgsqlConnection..ctor(String connectionString)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlRelationalConnection.CreateDbConnection()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.get_DbConnection()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Migrations.HistoryRepository.GetAppliedMigrations()
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Migrations.Internal.NpgsqlHistoryRepository.GetAppliedMigrations()
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Migrations.Internal.NpgsqlMigrator.Migrate(String targetMigration)
+   at Microsoft.EntityFrameworkCore.RelationalDatabaseFacadeExtensions.Migrate(DatabaseFacade databaseFacade)
+   at BeautySalon.Program.Main(String[] args) in C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon\Program.cs:line 35
+2024-12-27 15:36:09.903 +01:00 [FTL] Web host terminated unexpectedly
+System.ArgumentException: Couldn't set userentity id (Parameter 'userentity id')
+ ---> System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at Npgsql.NpgsqlConnectionStringBuilder.GeneratedActions(GeneratedAction action, String keyword, Object& value)
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   --- End of inner exception stack trace ---
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   at System.Data.Common.DbConnectionStringBuilder.set_ConnectionString(String value)
+   at Npgsql.NpgsqlConnectionStringBuilder..ctor(String connectionString)
+   at Npgsql.NpgsqlConnection.SetupDataSource()
+   at Npgsql.NpgsqlConnection.set_ConnectionString(String value)
+   at Npgsql.NpgsqlConnection..ctor(String connectionString)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlRelationalConnection.CreateDbConnection()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.get_DbConnection()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Migrations.HistoryRepository.GetAppliedMigrations()
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Migrations.Internal.NpgsqlHistoryRepository.GetAppliedMigrations()
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Migrations.Internal.NpgsqlMigrator.Migrate(String targetMigration)
+   at Microsoft.EntityFrameworkCore.RelationalDatabaseFacadeExtensions.Migrate(DatabaseFacade databaseFacade)
+   at BeautySalon.Program.Main(String[] args) in C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon\Program.cs:line 35
+2024-12-27 15:46:24.184 +01:00 [INF] Starting up the application
+2024-12-27 15:46:34.772 +01:00 [INF] Starting up the application
+2024-12-27 15:46:35.112 +01:00 [INF] Applying migrations
+2024-12-27 15:46:35.882 +01:00 [FTL] Error during migration
+System.ArgumentException: Couldn't set userentity id (Parameter 'userentity id')
+ ---> System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at Npgsql.NpgsqlConnectionStringBuilder.GeneratedActions(GeneratedAction action, String keyword, Object& value)
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   --- End of inner exception stack trace ---
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   at System.Data.Common.DbConnectionStringBuilder.set_ConnectionString(String value)
+   at Npgsql.NpgsqlConnectionStringBuilder..ctor(String connectionString)
+   at Npgsql.NpgsqlConnection.SetupDataSource()
+   at Npgsql.NpgsqlConnection.set_ConnectionString(String value)
+   at Npgsql.NpgsqlConnection..ctor(String connectionString)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlRelationalConnection.CreateDbConnection()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.get_DbConnection()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Migrations.HistoryRepository.GetAppliedMigrations()
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Migrations.Internal.NpgsqlHistoryRepository.GetAppliedMigrations()
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Migrations.Internal.NpgsqlMigrator.Migrate(String targetMigration)
+   at Microsoft.EntityFrameworkCore.RelationalDatabaseFacadeExtensions.Migrate(DatabaseFacade databaseFacade)
+   at BeautySalon.Program.Main(String[] args) in C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon\Program.cs:line 35
+2024-12-27 15:46:35.904 +01:00 [FTL] Web host terminated unexpectedly
+System.ArgumentException: Couldn't set userentity id (Parameter 'userentity id')
+ ---> System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at Npgsql.NpgsqlConnectionStringBuilder.GeneratedActions(GeneratedAction action, String keyword, Object& value)
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   --- End of inner exception stack trace ---
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   at System.Data.Common.DbConnectionStringBuilder.set_ConnectionString(String value)
+   at Npgsql.NpgsqlConnectionStringBuilder..ctor(String connectionString)
+   at Npgsql.NpgsqlConnection.SetupDataSource()
+   at Npgsql.NpgsqlConnection.set_ConnectionString(String value)
+   at Npgsql.NpgsqlConnection..ctor(String connectionString)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlRelationalConnection.CreateDbConnection()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.get_DbConnection()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Migrations.HistoryRepository.GetAppliedMigrations()
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Migrations.Internal.NpgsqlHistoryRepository.GetAppliedMigrations()
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Migrations.Internal.NpgsqlMigrator.Migrate(String targetMigration)
+   at Microsoft.EntityFrameworkCore.RelationalDatabaseFacadeExtensions.Migrate(DatabaseFacade databaseFacade)
+   at BeautySalon.Program.Main(String[] args) in C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon\Program.cs:line 35
+2024-12-27 15:46:43.882 +01:00 [INF] Starting up the application
+2024-12-27 15:46:44.685 +01:00 [INF] Applying migrations
+2024-12-27 15:46:45.344 +01:00 [FTL] Error during migration
+System.ArgumentException: Couldn't set userentity id (Parameter 'userentity id')
+ ---> System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at Npgsql.NpgsqlConnectionStringBuilder.GeneratedActions(GeneratedAction action, String keyword, Object& value)
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   --- End of inner exception stack trace ---
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   at System.Data.Common.DbConnectionStringBuilder.set_ConnectionString(String value)
+   at Npgsql.NpgsqlConnectionStringBuilder..ctor(String connectionString)
+   at Npgsql.NpgsqlConnection.SetupDataSource()
+   at Npgsql.NpgsqlConnection.set_ConnectionString(String value)
+   at Npgsql.NpgsqlConnection..ctor(String connectionString)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlRelationalConnection.CreateDbConnection()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.get_DbConnection()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Migrations.HistoryRepository.GetAppliedMigrations()
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Migrations.Internal.NpgsqlHistoryRepository.GetAppliedMigrations()
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Migrations.Internal.NpgsqlMigrator.Migrate(String targetMigration)
+   at Microsoft.EntityFrameworkCore.RelationalDatabaseFacadeExtensions.Migrate(DatabaseFacade databaseFacade)
+   at BeautySalon.Program.Main(String[] args) in C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon\Program.cs:line 35
+2024-12-27 15:46:45.369 +01:00 [FTL] Web host terminated unexpectedly
+System.ArgumentException: Couldn't set userentity id (Parameter 'userentity id')
+ ---> System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at Npgsql.NpgsqlConnectionStringBuilder.GeneratedActions(GeneratedAction action, String keyword, Object& value)
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   --- End of inner exception stack trace ---
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   at System.Data.Common.DbConnectionStringBuilder.set_ConnectionString(String value)
+   at Npgsql.NpgsqlConnectionStringBuilder..ctor(String connectionString)
+   at Npgsql.NpgsqlConnection.SetupDataSource()
+   at Npgsql.NpgsqlConnection.set_ConnectionString(String value)
+   at Npgsql.NpgsqlConnection..ctor(String connectionString)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlRelationalConnection.CreateDbConnection()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.get_DbConnection()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Migrations.HistoryRepository.GetAppliedMigrations()
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Migrations.Internal.NpgsqlHistoryRepository.GetAppliedMigrations()
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Migrations.Internal.NpgsqlMigrator.Migrate(String targetMigration)
+   at Microsoft.EntityFrameworkCore.RelationalDatabaseFacadeExtensions.Migrate(DatabaseFacade databaseFacade)
+   at BeautySalon.Program.Main(String[] args) in C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon\Program.cs:line 35
+2024-12-27 15:52:55.829 +01:00 [INF] Starting up the application
+2024-12-27 15:57:34.491 +01:00 [INF] Starting up the application
+2024-12-27 15:58:07.059 +01:00 [INF] Starting up the application
+2024-12-27 16:03:36.676 +01:00 [INF] Starting up the application
+2024-12-27 16:03:51.281 +01:00 [INF] Starting up the application
+2024-12-27 16:03:51.694 +01:00 [INF] Applying migrations
+2024-12-27 16:03:52.359 +01:00 [FTL] Error during migration
+System.ArgumentException: Couldn't set userentity id (Parameter 'userentity id')
+ ---> System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at Npgsql.NpgsqlConnectionStringBuilder.GeneratedActions(GeneratedAction action, String keyword, Object& value)
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   --- End of inner exception stack trace ---
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   at System.Data.Common.DbConnectionStringBuilder.set_ConnectionString(String value)
+   at Npgsql.NpgsqlConnectionStringBuilder..ctor(String connectionString)
+   at Npgsql.NpgsqlConnection.SetupDataSource()
+   at Npgsql.NpgsqlConnection.set_ConnectionString(String value)
+   at Npgsql.NpgsqlConnection..ctor(String connectionString)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlRelationalConnection.CreateDbConnection()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.get_DbConnection()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Migrations.HistoryRepository.GetAppliedMigrations()
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Migrations.Internal.NpgsqlHistoryRepository.GetAppliedMigrations()
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Migrations.Internal.NpgsqlMigrator.Migrate(String targetMigration)
+   at Microsoft.EntityFrameworkCore.RelationalDatabaseFacadeExtensions.Migrate(DatabaseFacade databaseFacade)
+   at BeautySalon.Program.Main(String[] args) in C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon\Program.cs:line 35
+2024-12-27 16:03:52.384 +01:00 [FTL] Web host terminated unexpectedly
+System.ArgumentException: Couldn't set userentity id (Parameter 'userentity id')
+ ---> System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at Npgsql.NpgsqlConnectionStringBuilder.GeneratedActions(GeneratedAction action, String keyword, Object& value)
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   --- End of inner exception stack trace ---
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   at System.Data.Common.DbConnectionStringBuilder.set_ConnectionString(String value)
+   at Npgsql.NpgsqlConnectionStringBuilder..ctor(String connectionString)
+   at Npgsql.NpgsqlConnection.SetupDataSource()
+   at Npgsql.NpgsqlConnection.set_ConnectionString(String value)
+   at Npgsql.NpgsqlConnection..ctor(String connectionString)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlRelationalConnection.CreateDbConnection()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.get_DbConnection()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Migrations.HistoryRepository.GetAppliedMigrations()
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Migrations.Internal.NpgsqlHistoryRepository.GetAppliedMigrations()
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Migrations.Internal.NpgsqlMigrator.Migrate(String targetMigration)
+   at Microsoft.EntityFrameworkCore.RelationalDatabaseFacadeExtensions.Migrate(DatabaseFacade databaseFacade)
+   at BeautySalon.Program.Main(String[] args) in C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon\Program.cs:line 35
+2024-12-27 16:04:17.909 +01:00 [INF] Starting up the application
+2024-12-27 16:04:24.999 +01:00 [INF] Starting up the application
+2024-12-27 16:04:25.393 +01:00 [INF] Applying migrations
+2024-12-27 16:04:26.088 +01:00 [FTL] Error during migration
+System.ArgumentException: Couldn't set userentity id (Parameter 'userentity id')
+ ---> System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at Npgsql.NpgsqlConnectionStringBuilder.GeneratedActions(GeneratedAction action, String keyword, Object& value)
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   --- End of inner exception stack trace ---
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   at System.Data.Common.DbConnectionStringBuilder.set_ConnectionString(String value)
+   at Npgsql.NpgsqlConnectionStringBuilder..ctor(String connectionString)
+   at Npgsql.NpgsqlConnection.SetupDataSource()
+   at Npgsql.NpgsqlConnection.set_ConnectionString(String value)
+   at Npgsql.NpgsqlConnection..ctor(String connectionString)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlRelationalConnection.CreateDbConnection()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.get_DbConnection()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Migrations.HistoryRepository.GetAppliedMigrations()
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Migrations.Internal.NpgsqlHistoryRepository.GetAppliedMigrations()
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Migrations.Internal.NpgsqlMigrator.Migrate(String targetMigration)
+   at Microsoft.EntityFrameworkCore.RelationalDatabaseFacadeExtensions.Migrate(DatabaseFacade databaseFacade)
+   at BeautySalon.Program.Main(String[] args) in C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon\Program.cs:line 35
+2024-12-27 16:04:26.123 +01:00 [FTL] Web host terminated unexpectedly
+System.ArgumentException: Couldn't set userentity id (Parameter 'userentity id')
+ ---> System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at Npgsql.NpgsqlConnectionStringBuilder.GeneratedActions(GeneratedAction action, String keyword, Object& value)
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   --- End of inner exception stack trace ---
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   at System.Data.Common.DbConnectionStringBuilder.set_ConnectionString(String value)
+   at Npgsql.NpgsqlConnectionStringBuilder..ctor(String connectionString)
+   at Npgsql.NpgsqlConnection.SetupDataSource()
+   at Npgsql.NpgsqlConnection.set_ConnectionString(String value)
+   at Npgsql.NpgsqlConnection..ctor(String connectionString)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlRelationalConnection.CreateDbConnection()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.get_DbConnection()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Migrations.HistoryRepository.GetAppliedMigrations()
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Migrations.Internal.NpgsqlHistoryRepository.GetAppliedMigrations()
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Migrations.Internal.NpgsqlMigrator.Migrate(String targetMigration)
+   at Microsoft.EntityFrameworkCore.RelationalDatabaseFacadeExtensions.Migrate(DatabaseFacade databaseFacade)
+   at BeautySalon.Program.Main(String[] args) in C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon\Program.cs:line 35
+2024-12-27 16:04:30.363 +01:00 [INF] Starting up the application
+2024-12-27 16:04:30.904 +01:00 [INF] Applying migrations
+2024-12-27 16:04:31.669 +01:00 [FTL] Error during migration
+System.ArgumentException: Couldn't set userentity id (Parameter 'userentity id')
+ ---> System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at Npgsql.NpgsqlConnectionStringBuilder.GeneratedActions(GeneratedAction action, String keyword, Object& value)
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   --- End of inner exception stack trace ---
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   at System.Data.Common.DbConnectionStringBuilder.set_ConnectionString(String value)
+   at Npgsql.NpgsqlConnectionStringBuilder..ctor(String connectionString)
+   at Npgsql.NpgsqlConnection.SetupDataSource()
+   at Npgsql.NpgsqlConnection.set_ConnectionString(String value)
+   at Npgsql.NpgsqlConnection..ctor(String connectionString)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlRelationalConnection.CreateDbConnection()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.get_DbConnection()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Migrations.HistoryRepository.GetAppliedMigrations()
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Migrations.Internal.NpgsqlHistoryRepository.GetAppliedMigrations()
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Migrations.Internal.NpgsqlMigrator.Migrate(String targetMigration)
+   at Microsoft.EntityFrameworkCore.RelationalDatabaseFacadeExtensions.Migrate(DatabaseFacade databaseFacade)
+   at BeautySalon.Program.Main(String[] args) in C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon\Program.cs:line 35
+2024-12-27 16:04:31.694 +01:00 [FTL] Web host terminated unexpectedly
+System.ArgumentException: Couldn't set userentity id (Parameter 'userentity id')
+ ---> System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at Npgsql.NpgsqlConnectionStringBuilder.GeneratedActions(GeneratedAction action, String keyword, Object& value)
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   --- End of inner exception stack trace ---
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   at System.Data.Common.DbConnectionStringBuilder.set_ConnectionString(String value)
+   at Npgsql.NpgsqlConnectionStringBuilder..ctor(String connectionString)
+   at Npgsql.NpgsqlConnection.SetupDataSource()
+   at Npgsql.NpgsqlConnection.set_ConnectionString(String value)
+   at Npgsql.NpgsqlConnection..ctor(String connectionString)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlRelationalConnection.CreateDbConnection()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.get_DbConnection()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Migrations.HistoryRepository.GetAppliedMigrations()
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Migrations.Internal.NpgsqlHistoryRepository.GetAppliedMigrations()
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Migrations.Internal.NpgsqlMigrator.Migrate(String targetMigration)
+   at Microsoft.EntityFrameworkCore.RelationalDatabaseFacadeExtensions.Migrate(DatabaseFacade databaseFacade)
+   at BeautySalon.Program.Main(String[] args) in C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon\Program.cs:line 35
+2024-12-27 16:09:38.655 +01:00 [INF] Starting up the application
+2024-12-27 16:09:51.606 +01:00 [INF] Starting up the application
+2024-12-27 16:09:52.245 +01:00 [INF] Applying migrations
+2024-12-27 16:09:53.352 +01:00 [ERR] An error occurred using the connection to database 'BeautySalonDB' on server 'tcp://localhost:5432'.
+2024-12-27 16:09:54.479 +01:00 [INF] Migrations applied successfully
+2024-12-27 16:09:55.622 +01:00 [INF] Seeds applied successfully
+2024-12-27 16:18:00.992 +01:00 [INF] Starting up the application
+2024-12-27 16:18:19.491 +01:00 [INF] Starting up the application
+2024-12-27 16:18:19.855 +01:00 [INF] Applying migrations
+2024-12-27 16:18:20.664 +01:00 [ERR] An error occurred using the connection to database 'BeautySalonDB' on server 'tcp://localhost:5432'.
+2024-12-27 16:18:21.723 +01:00 [INF] Migrations applied successfully
+2024-12-27 16:18:22.859 +01:00 [INF] Seeds applied successfully
+2024-12-27 16:27:35.204 +01:00 [INF] Starting up the application
+2024-12-27 16:27:35.539 +01:00 [INF] Applying migrations
+2024-12-27 16:27:36.685 +01:00 [INF] Migrations applied successfully
+2024-12-27 16:27:37.261 +01:00 [INF] Seeds applied successfully

@@ -1,0 +1,17 @@
+C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon.Infrastructure\bin\Debug\net8.0\BeautySalon.Infrastructure.deps.json
+C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon.Infrastructure\bin\Debug\net8.0\BeautySalon.Infrastructure.runtimeconfig.json
+C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon.Infrastructure\bin\Debug\net8.0\BeautySalon.Infrastructure.dll
+C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon.Infrastructure\bin\Debug\net8.0\BeautySalon.Infrastructure.pdb
+C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon.Infrastructure\bin\Debug\net8.0\BeautySalon.Domain.dll
+C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon.Infrastructure\bin\Debug\net8.0\BeautySalon.Domain.pdb
+C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon.Infrastructure\obj\Debug\net8.0\BeautySalon.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon.Infrastructure\obj\Debug\net8.0\BeautySalon.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon.Infrastructure\obj\Debug\net8.0\BeautySalon.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon.Infrastructure\obj\Debug\net8.0\BeautySalon.Infrastructure.AssemblyInfo.cs
+C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon.Infrastructure\obj\Debug\net8.0\BeautySalon.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon.Infrastructure\obj\Debug\net8.0\BeautySa.FF73A72D.Up2Date
+C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon.Infrastructure\obj\Debug\net8.0\BeautySalon.Infrastructure.dll
+C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon.Infrastructure\obj\Debug\net8.0\refint\BeautySalon.Infrastructure.dll
+C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon.Infrastructure\obj\Debug\net8.0\BeautySalon.Infrastructure.pdb
+C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon.Infrastructure\obj\Debug\net8.0\BeautySalon.Infrastructure.genruntimeconfig.cache
+C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon.Infrastructure\obj\Debug\net8.0\ref\BeautySalon.Infrastructure.dll

@@ -1,0 +1,466 @@
+2024-12-26 15:16:28.420 +01:00 [INF] Starting up the application
+2024-12-26 15:16:29.047 +01:00 [INF] Applying migrations
+2024-12-26 15:16:34.052 +01:00 [ERR] An error occurred using the connection to database 'BeautySalonDB' on server 'tcp://localhost:5432'.
+2024-12-26 15:16:34.075 +01:00 [FTL] Error during migration
+Npgsql.NpgsqlException (0x80004005): Failed to connect to 127.0.0.1:5432
+ ---> System.Net.Sockets.SocketException (10061): Nie można nawiązać połączenia, ponieważ komputer docelowy aktywnie go odmawia.
+   at Npgsql.Internal.NpgsqlConnector.Connect(NpgsqlTimeout timeout)
+   at Npgsql.Internal.NpgsqlConnector.Connect(NpgsqlTimeout timeout)
+   at Npgsql.Internal.NpgsqlConnector.RawOpen(SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.Internal.NpgsqlConnector.<Open>g__OpenCore|214_1(NpgsqlConnector conn, SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.Internal.NpgsqlConnector.Open(NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.OpenNewConnector(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.<Get>g__RentAsync|33_0(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.<Open>g__OpenAsync|42_0(Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Migrations.HistoryRepository.GetAppliedMigrations()
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Migrations.Internal.NpgsqlHistoryRepository.GetAppliedMigrations()
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Migrations.Internal.NpgsqlMigrator.Migrate(String targetMigration)
+   at Microsoft.EntityFrameworkCore.RelationalDatabaseFacadeExtensions.Migrate(DatabaseFacade databaseFacade)
+   at BeautySalon.Program.Main(String[] args) in C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon\Program.cs:line 35
+2024-12-26 15:16:34.103 +01:00 [FTL] Web host terminated unexpectedly
+Npgsql.NpgsqlException (0x80004005): Failed to connect to 127.0.0.1:5432
+ ---> System.Net.Sockets.SocketException (10061): Nie można nawiązać połączenia, ponieważ komputer docelowy aktywnie go odmawia.
+   at Npgsql.Internal.NpgsqlConnector.Connect(NpgsqlTimeout timeout)
+   at Npgsql.Internal.NpgsqlConnector.Connect(NpgsqlTimeout timeout)
+   at Npgsql.Internal.NpgsqlConnector.RawOpen(SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.Internal.NpgsqlConnector.<Open>g__OpenCore|214_1(NpgsqlConnector conn, SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.Internal.NpgsqlConnector.Open(NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.OpenNewConnector(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.<Get>g__RentAsync|33_0(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.<Open>g__OpenAsync|42_0(Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Migrations.HistoryRepository.GetAppliedMigrations()
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Migrations.Internal.NpgsqlHistoryRepository.GetAppliedMigrations()
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Migrations.Internal.NpgsqlMigrator.Migrate(String targetMigration)
+   at Microsoft.EntityFrameworkCore.RelationalDatabaseFacadeExtensions.Migrate(DatabaseFacade databaseFacade)
+   at BeautySalon.Program.Main(String[] args) in C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon\Program.cs:line 35
+2024-12-26 15:17:23.814 +01:00 [INF] Starting up the application
+2024-12-26 15:17:24.652 +01:00 [INF] Applying migrations
+2024-12-26 15:17:25.627 +01:00 [INF] Migrations applied successfully
+2024-12-26 15:20:19.457 +01:00 [INF] Attempting to log in user with email: Artur12304@gmail.com
+2024-12-26 15:20:20.009 +01:00 [INF] Generating JWT for UserId: "752bb3b7-b151-47a1-810d-375eaa32ad80", Role: CustomerEntity
+2024-12-26 15:20:20.041 +01:00 [INF] JWT generated successfully for UserId: "752bb3b7-b151-47a1-810d-375eaa32ad80"
+2024-12-26 15:20:20.044 +01:00 [INF] Login successful for user: "752bb3b7-b151-47a1-810d-375eaa32ad80"
+2024-12-26 15:20:20.242 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 15:20:20.266 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 15:20:20.270 +01:00 [INF] Fetching all services
+2024-12-26 15:20:20.325 +01:00 [INF] Fetching all services
+2024-12-26 15:23:18.146 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 15:23:18.153 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 15:23:18.202 +01:00 [INF] Fetching all services
+2024-12-26 15:23:18.248 +01:00 [INF] Fetching all services
+2024-12-26 15:24:33.190 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 15:24:33.197 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 15:24:33.214 +01:00 [INF] Fetching all services
+2024-12-26 15:24:33.230 +01:00 [INF] Fetching all services
+2024-12-26 15:24:44.239 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 15:24:44.247 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 15:24:44.260 +01:00 [INF] Fetching all services
+2024-12-26 15:24:44.273 +01:00 [INF] Fetching all services
+2024-12-26 15:30:53.336 +01:00 [INF] Fetching all services
+2024-12-26 15:30:53.392 +01:00 [INF] Fetching all services
+2024-12-26 15:30:59.989 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 15:30:59.996 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 15:31:00.011 +01:00 [INF] Fetching all services
+2024-12-26 15:31:00.025 +01:00 [INF] Fetching all services
+2024-12-26 15:32:58.044 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 15:32:58.056 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 15:32:58.066 +01:00 [INF] Fetching all services
+2024-12-26 15:32:58.078 +01:00 [INF] Fetching all services
+2024-12-26 15:33:04.755 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 15:33:04.761 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 15:33:04.775 +01:00 [INF] Fetching all services
+2024-12-26 15:33:04.787 +01:00 [INF] Fetching all services
+2024-12-26 15:33:11.331 +01:00 [INF] Fetching all services
+2024-12-26 15:33:41.859 +01:00 [INF] Attempting to log in user with email: Artur12304@gmail.com
+2024-12-26 15:33:42.103 +01:00 [INF] Generating JWT for UserId: "752bb3b7-b151-47a1-810d-375eaa32ad80", Role: CustomerEntity
+2024-12-26 15:33:42.106 +01:00 [INF] JWT generated successfully for UserId: "752bb3b7-b151-47a1-810d-375eaa32ad80"
+2024-12-26 15:33:42.108 +01:00 [INF] Login successful for user: "752bb3b7-b151-47a1-810d-375eaa32ad80"
+2024-12-26 15:33:42.233 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 15:33:42.238 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 15:33:42.252 +01:00 [INF] Fetching all services
+2024-12-26 15:33:42.266 +01:00 [INF] Fetching all services
+2024-12-26 15:33:54.332 +01:00 [INF] Fetching all services
+2024-12-26 15:33:54.346 +01:00 [INF] Fetching all services
+2024-12-26 15:34:58.354 +01:00 [INF] Fetching all services
+2024-12-26 15:35:39.009 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 15:35:39.016 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 15:35:39.041 +01:00 [INF] Fetching all services
+2024-12-26 15:35:39.054 +01:00 [INF] Fetching all services
+2024-12-26 15:36:00.491 +01:00 [INF] Fetching all services
+2024-12-26 15:38:32.347 +01:00 [INF] Fetching all services
+2024-12-26 15:38:41.464 +01:00 [INF] Fetching all services
+2024-12-26 15:38:44.144 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 15:38:44.152 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 15:38:44.162 +01:00 [INF] Fetching all services
+2024-12-26 15:38:44.172 +01:00 [INF] Fetching all services
+2024-12-26 15:39:05.270 +01:00 [INF] Fetching all services
+2024-12-26 15:42:09.348 +01:00 [INF] Fetching all services
+2024-12-26 15:42:12.311 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 15:42:12.317 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 15:42:12.323 +01:00 [INF] Fetching all services
+2024-12-26 15:42:12.340 +01:00 [INF] Fetching all services
+2024-12-26 15:44:38.393 +01:00 [INF] Fetching all services
+2024-12-26 15:45:09.249 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 15:45:09.255 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 15:45:09.268 +01:00 [INF] Fetching all services
+2024-12-26 15:45:09.292 +01:00 [INF] Fetching all services
+2024-12-26 15:45:13.121 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 15:45:13.128 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 15:45:13.163 +01:00 [INF] Fetching all services
+2024-12-26 15:45:13.178 +01:00 [INF] Fetching all services
+2024-12-26 15:45:27.262 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 15:45:27.270 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 15:45:27.288 +01:00 [INF] Fetching all services
+2024-12-26 15:45:27.300 +01:00 [INF] Fetching all services
+2024-12-26 15:45:42.056 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 15:45:42.063 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 15:45:42.111 +01:00 [INF] Fetching all services
+2024-12-26 15:45:42.123 +01:00 [INF] Fetching all services
+2024-12-26 15:45:54.460 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 15:45:54.467 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 15:45:54.484 +01:00 [INF] Fetching all services
+2024-12-26 15:45:54.494 +01:00 [INF] Fetching all services
+2024-12-26 15:47:02.345 +01:00 [INF] Fetching all services
+2024-12-26 15:47:08.670 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 15:47:08.676 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 15:47:08.694 +01:00 [INF] Fetching all services
+2024-12-26 15:47:08.711 +01:00 [INF] Fetching all services
+2024-12-26 15:47:34.217 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 15:47:34.224 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 15:47:34.247 +01:00 [INF] Fetching all services
+2024-12-26 15:47:34.294 +01:00 [INF] Fetching all services
+2024-12-26 15:58:59.931 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 15:58:59.938 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 15:59:00.011 +01:00 [INF] Fetching all services
+2024-12-26 15:59:00.061 +01:00 [INF] Fetching all services
+2024-12-26 15:59:08.641 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 15:59:08.647 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 15:59:08.693 +01:00 [INF] Fetching all services
+2024-12-26 15:59:08.704 +01:00 [INF] Fetching all services
+2024-12-26 15:59:29.617 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 15:59:29.623 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 15:59:29.677 +01:00 [INF] Fetching all services
+2024-12-26 15:59:29.694 +01:00 [INF] Fetching all services
+2024-12-26 16:00:34.352 +01:00 [INF] Fetching all services
+2024-12-26 16:00:37.554 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 16:00:37.560 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 16:00:37.613 +01:00 [INF] Fetching all services
+2024-12-26 16:00:37.630 +01:00 [INF] Fetching all services
+2024-12-26 16:02:04.352 +01:00 [INF] Fetching all services
+2024-12-26 16:02:52.346 +01:00 [INF] Fetching all services
+2024-12-26 16:02:52.361 +01:00 [INF] Fetching all services
+2024-12-26 16:03:04.353 +01:00 [INF] Fetching all services
+2024-12-26 16:03:54.332 +01:00 [INF] Fetching all services
+2024-12-26 16:04:03.558 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 16:04:03.575 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 16:04:03.584 +01:00 [INF] Fetching all services
+2024-12-26 16:04:03.637 +01:00 [INF] Fetching all services
+2024-12-26 16:05:30.585 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 16:05:30.590 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 16:05:30.669 +01:00 [INF] Fetching all services
+2024-12-26 16:05:30.678 +01:00 [INF] Fetching all services
+2024-12-26 16:06:18.353 +01:00 [INF] Fetching all services
+2024-12-26 16:06:18.371 +01:00 [INF] Fetching all services
+2024-12-26 16:06:21.761 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 16:06:21.767 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 16:06:21.829 +01:00 [INF] Fetching all services
+2024-12-26 16:06:21.847 +01:00 [INF] Fetching all services
+2024-12-26 16:06:50.753 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 16:06:50.759 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 16:06:50.833 +01:00 [INF] Fetching all services
+2024-12-26 16:06:50.844 +01:00 [INF] Fetching all services
+2024-12-26 16:07:13.640 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 16:07:13.654 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 16:07:13.720 +01:00 [INF] Fetching all services
+2024-12-26 16:07:13.736 +01:00 [INF] Fetching all services
+2024-12-26 16:07:58.360 +01:00 [INF] Fetching all services
+2024-12-26 16:08:02.043 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 16:08:02.049 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 16:08:02.113 +01:00 [INF] Fetching all services
+2024-12-26 16:08:02.125 +01:00 [INF] Fetching all services
+2024-12-26 16:08:12.317 +01:00 [INF] Attempting to log in user with email: Artur12304@gmail.com
+2024-12-26 16:08:12.435 +01:00 [INF] Generating JWT for UserId: "752bb3b7-b151-47a1-810d-375eaa32ad80", Role: CustomerEntity
+2024-12-26 16:08:12.439 +01:00 [INF] JWT generated successfully for UserId: "752bb3b7-b151-47a1-810d-375eaa32ad80"
+2024-12-26 16:08:12.441 +01:00 [INF] Login successful for user: "752bb3b7-b151-47a1-810d-375eaa32ad80"
+2024-12-26 16:08:12.549 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 16:08:12.557 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 16:08:12.569 +01:00 [INF] Fetching all services
+2024-12-26 16:08:12.582 +01:00 [INF] Fetching all services
+2024-12-26 16:08:29.303 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 16:08:29.308 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 16:08:29.369 +01:00 [INF] Fetching all services
+2024-12-26 16:08:29.380 +01:00 [INF] Fetching all services
+2024-12-26 16:08:43.237 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 16:08:43.244 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 16:08:43.289 +01:00 [INF] Fetching all services
+2024-12-26 16:08:43.300 +01:00 [INF] Fetching all services
+2024-12-26 16:09:48.350 +01:00 [INF] Fetching all services
+2024-12-26 16:09:48.404 +01:00 [INF] Fetching all services
+2024-12-26 16:10:57.708 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 16:10:57.714 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 16:10:57.780 +01:00 [INF] Fetching all services
+2024-12-26 16:10:57.793 +01:00 [INF] Fetching all services
+2024-12-26 16:15:24.343 +01:00 [INF] Fetching all services
+2024-12-26 16:15:31.465 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 16:15:31.471 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 16:15:31.516 +01:00 [INF] Fetching all services
+2024-12-26 16:15:31.528 +01:00 [INF] Fetching all services
+2024-12-26 17:10:16.992 +01:00 [INF] Starting up the application
+2024-12-26 17:10:17.373 +01:00 [INF] Applying migrations
+2024-12-26 17:10:18.370 +01:00 [INF] Migrations applied successfully
+2024-12-26 17:10:43.472 +01:00 [INF] Attempting to log in user with email: Artur12304@gmail.com
+2024-12-26 17:10:44.012 +01:00 [INF] Generating JWT for UserId: "752bb3b7-b151-47a1-810d-375eaa32ad80", Role: CustomerEntity
+2024-12-26 17:10:44.023 +01:00 [INF] JWT generated successfully for UserId: "752bb3b7-b151-47a1-810d-375eaa32ad80"
+2024-12-26 17:10:44.026 +01:00 [INF] Login successful for user: "752bb3b7-b151-47a1-810d-375eaa32ad80"
+2024-12-26 17:10:44.191 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 17:10:44.211 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 17:10:44.216 +01:00 [INF] Fetching all services
+2024-12-26 17:10:44.269 +01:00 [INF] Fetching all services
+2024-12-26 17:14:16.756 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 17:14:16.765 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 17:14:16.832 +01:00 [INF] Fetching all services
+2024-12-26 17:14:16.844 +01:00 [INF] Fetching all services
+2024-12-26 17:15:37.221 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 17:15:37.226 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 17:15:37.290 +01:00 [INF] Fetching all services
+2024-12-26 17:15:37.343 +01:00 [INF] Fetching all services
+2024-12-26 17:16:07.259 +01:00 [INF] Attempting to log in user with email: Artur12304@gmail.com
+2024-12-26 17:16:07.494 +01:00 [INF] Generating JWT for UserId: "752bb3b7-b151-47a1-810d-375eaa32ad80", Role: CustomerEntity
+2024-12-26 17:16:07.497 +01:00 [INF] JWT generated successfully for UserId: "752bb3b7-b151-47a1-810d-375eaa32ad80"
+2024-12-26 17:16:07.499 +01:00 [INF] Login successful for user: "752bb3b7-b151-47a1-810d-375eaa32ad80"
+2024-12-26 17:16:07.616 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 17:16:07.623 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 17:16:07.633 +01:00 [INF] Fetching all services
+2024-12-26 17:16:07.645 +01:00 [INF] Fetching all services
+2024-12-26 17:18:20.158 +01:00 [INF] Starting up the application
+2024-12-26 17:18:20.521 +01:00 [INF] Applying migrations
+2024-12-26 17:18:21.655 +01:00 [INF] Migrations applied successfully
+2024-12-26 17:18:36.548 +01:00 [INF] Attempting to log in user with email: Artur12304@gmail.com
+2024-12-26 17:18:37.096 +01:00 [INF] Generating JWT for UserId: "752bb3b7-b151-47a1-810d-375eaa32ad80", Role: CustomerEntity
+2024-12-26 17:18:37.107 +01:00 [INF] JWT generated successfully for UserId: "752bb3b7-b151-47a1-810d-375eaa32ad80"
+2024-12-26 17:18:37.111 +01:00 [INF] Login successful for user: "752bb3b7-b151-47a1-810d-375eaa32ad80"
+2024-12-26 17:18:37.275 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 17:18:37.297 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 17:18:37.302 +01:00 [INF] Fetching all services
+2024-12-26 17:18:37.370 +01:00 [INF] Fetching all services
+2024-12-26 17:18:55.190 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 17:18:55.197 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 17:18:55.262 +01:00 [INF] Fetching all services
+2024-12-26 17:18:55.277 +01:00 [INF] Fetching all services
+2024-12-26 17:19:39.342 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 17:19:39.351 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 17:19:39.437 +01:00 [INF] Fetching all services
+2024-12-26 17:19:39.460 +01:00 [INF] Fetching all services
+2024-12-26 17:23:17.912 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 17:23:17.919 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 17:23:18.010 +01:00 [INF] Fetching all services
+2024-12-26 17:23:18.023 +01:00 [INF] Fetching all services
+2024-12-26 17:29:25.689 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 17:29:25.694 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 17:29:25.782 +01:00 [INF] Fetching all services
+2024-12-26 17:29:25.833 +01:00 [INF] Fetching all services
+2024-12-26 17:29:44.301 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 17:29:44.317 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 17:29:44.395 +01:00 [INF] Fetching all services
+2024-12-26 17:29:44.411 +01:00 [INF] Fetching all services
+2024-12-26 17:30:38.555 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 17:30:38.564 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 17:30:38.652 +01:00 [INF] Fetching all services
+2024-12-26 17:30:38.674 +01:00 [INF] Fetching all services
+2024-12-26 17:30:42.134 +01:00 [INF] Attempting to log in user with email: Artur12304@gmail.com
+2024-12-26 17:30:42.372 +01:00 [INF] Generating JWT for UserId: "752bb3b7-b151-47a1-810d-375eaa32ad80", Role: CustomerEntity
+2024-12-26 17:30:42.375 +01:00 [INF] JWT generated successfully for UserId: "752bb3b7-b151-47a1-810d-375eaa32ad80"
+2024-12-26 17:30:42.377 +01:00 [INF] Login successful for user: "752bb3b7-b151-47a1-810d-375eaa32ad80"
+2024-12-26 17:30:42.618 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 17:30:42.629 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 17:30:42.642 +01:00 [INF] Fetching all services
+2024-12-26 17:30:42.655 +01:00 [INF] Fetching all services
+2024-12-26 17:31:55.722 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 17:31:55.731 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 17:31:55.800 +01:00 [INF] Fetching all services
+2024-12-26 17:31:55.817 +01:00 [INF] Fetching all services
+2024-12-26 17:32:00.348 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 17:32:00.356 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 17:32:00.413 +01:00 [INF] Fetching all services
+2024-12-26 17:32:00.433 +01:00 [INF] Fetching all services
+2024-12-26 17:35:45.281 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 17:35:45.288 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 17:35:45.348 +01:00 [INF] Fetching all services
+2024-12-26 17:35:45.398 +01:00 [INF] Fetching all services
+2024-12-26 17:43:14.688 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 17:43:14.694 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 17:43:14.767 +01:00 [INF] Fetching all services
+2024-12-26 17:43:14.829 +01:00 [INF] Fetching all services
+2024-12-26 17:43:18.685 +01:00 [INF] Attempting to log in user with email: Artur12304@gmail.com
+2024-12-26 17:43:18.805 +01:00 [INF] Generating JWT for UserId: "752bb3b7-b151-47a1-810d-375eaa32ad80", Role: CustomerEntity
+2024-12-26 17:43:18.808 +01:00 [INF] JWT generated successfully for UserId: "752bb3b7-b151-47a1-810d-375eaa32ad80"
+2024-12-26 17:43:18.810 +01:00 [INF] Login successful for user: "752bb3b7-b151-47a1-810d-375eaa32ad80"
+2024-12-26 17:43:18.818 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 17:43:19.028 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 17:43:19.036 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 17:43:19.047 +01:00 [INF] Fetching all services
+2024-12-26 17:43:19.062 +01:00 [INF] Fetching all services
+2024-12-26 17:43:44.159 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - BeautySalon.Controllers.EmployeesController.GetEmployees (BeautySalon). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-12-26 18:04:46.292 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:04:46.299 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:04:46.401 +01:00 [INF] Fetching all services
+2024-12-26 18:04:46.448 +01:00 [INF] Fetching all services
+2024-12-26 18:10:29.062 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:10:29.069 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:10:29.130 +01:00 [INF] Fetching all services
+2024-12-26 18:10:29.145 +01:00 [INF] Fetching all services
+2024-12-26 18:10:31.632 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:10:31.638 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:10:31.689 +01:00 [INF] Fetching all services
+2024-12-26 18:10:31.739 +01:00 [INF] Fetching all services
+2024-12-26 18:11:21.991 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:11:22.000 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:11:22.080 +01:00 [INF] Fetching all services
+2024-12-26 18:11:22.097 +01:00 [INF] Fetching all services
+2024-12-26 18:13:32.162 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:13:32.167 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:13:32.240 +01:00 [INF] Fetching all services
+2024-12-26 18:13:32.265 +01:00 [INF] Fetching all services
+2024-12-26 18:16:47.175 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:16:47.181 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:16:47.246 +01:00 [INF] Fetching all services
+2024-12-26 18:16:47.261 +01:00 [INF] Fetching all services
+2024-12-26 18:19:41.565 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:19:41.572 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:19:41.633 +01:00 [INF] Fetching all services
+2024-12-26 18:19:41.644 +01:00 [INF] Fetching all services
+2024-12-26 18:20:22.225 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:20:22.232 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:20:22.292 +01:00 [INF] Fetching all services
+2024-12-26 18:20:22.349 +01:00 [INF] Fetching all services
+2024-12-26 18:20:23.535 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:20:23.541 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:20:23.618 +01:00 [INF] Fetching all services
+2024-12-26 18:20:23.632 +01:00 [INF] Fetching all services
+2024-12-26 18:21:20.449 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:21:20.456 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:21:20.534 +01:00 [INF] Fetching all services
+2024-12-26 18:21:20.548 +01:00 [INF] Fetching all services
+2024-12-26 18:21:52.905 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:21:52.912 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:21:52.987 +01:00 [INF] Fetching all services
+2024-12-26 18:21:53.006 +01:00 [INF] Fetching all services
+2024-12-26 18:24:28.846 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:24:28.853 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:24:28.933 +01:00 [INF] Fetching all services
+2024-12-26 18:24:28.944 +01:00 [INF] Fetching all services
+2024-12-26 18:24:37.138 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:24:37.143 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:24:37.210 +01:00 [INF] Fetching all services
+2024-12-26 18:24:37.221 +01:00 [INF] Fetching all services
+2024-12-26 18:24:38.204 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:24:38.212 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:24:38.294 +01:00 [INF] Fetching all services
+2024-12-26 18:24:38.304 +01:00 [INF] Fetching all services
+2024-12-26 18:24:42.969 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:24:42.976 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:24:43.029 +01:00 [INF] Fetching all services
+2024-12-26 18:24:43.040 +01:00 [INF] Fetching all services
+2024-12-26 18:24:53.450 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:24:53.456 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:24:53.508 +01:00 [INF] Fetching all services
+2024-12-26 18:24:53.520 +01:00 [INF] Fetching all services
+2024-12-26 18:24:54.864 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:24:54.869 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:24:54.918 +01:00 [INF] Fetching all services
+2024-12-26 18:24:54.932 +01:00 [INF] Fetching all services
+2024-12-26 18:29:25.265 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:29:25.271 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:29:25.299 +01:00 [INF] Fetching all services
+2024-12-26 18:29:25.307 +01:00 [INF] Fetching all services
+2024-12-26 18:33:13.029 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:33:13.035 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:33:13.060 +01:00 [INF] Fetching all services
+2024-12-26 18:33:13.073 +01:00 [INF] Fetching all services
+2024-12-26 18:37:46.138 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:37:46.143 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:37:46.160 +01:00 [INF] Fetching all services
+2024-12-26 18:37:46.172 +01:00 [INF] Fetching all services
+2024-12-26 18:38:04.276 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:38:04.281 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:38:04.290 +01:00 [INF] Fetching all services
+2024-12-26 18:38:04.309 +01:00 [INF] Fetching all services
+2024-12-26 18:38:04.555 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:38:04.569 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:38:04.577 +01:00 [INF] Fetching all services
+2024-12-26 18:38:04.590 +01:00 [INF] Fetching all services
+2024-12-26 18:38:10.836 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:38:10.844 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:38:10.849 +01:00 [INF] Fetching all services
+2024-12-26 18:38:10.861 +01:00 [INF] Fetching all services
+2024-12-26 18:38:16.563 +01:00 [INF] Attempting to log in user with email: Artur12304@gmail.com
+2024-12-26 18:38:16.715 +01:00 [INF] Generating JWT for UserId: "752bb3b7-b151-47a1-810d-375eaa32ad80", Role: CustomerEntity
+2024-12-26 18:38:16.718 +01:00 [INF] JWT generated successfully for UserId: "752bb3b7-b151-47a1-810d-375eaa32ad80"
+2024-12-26 18:38:16.721 +01:00 [INF] Login successful for user: "752bb3b7-b151-47a1-810d-375eaa32ad80"
+2024-12-26 18:38:16.729 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:38:16.836 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:38:16.844 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:38:16.855 +01:00 [INF] Fetching all services
+2024-12-26 18:38:16.867 +01:00 [INF] Fetching all services
+2024-12-26 18:38:25.755 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:38:25.761 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:38:25.780 +01:00 [INF] Fetching all services
+2024-12-26 18:38:25.788 +01:00 [INF] Fetching all services
+2024-12-26 18:42:39.624 +01:00 [INF] Attempting to log in user with email: Artur12304@gmail.com
+2024-12-26 18:42:39.743 +01:00 [INF] Generating JWT for UserId: "752bb3b7-b151-47a1-810d-375eaa32ad80", Role: CustomerEntity
+2024-12-26 18:42:39.746 +01:00 [INF] JWT generated successfully for UserId: "752bb3b7-b151-47a1-810d-375eaa32ad80"
+2024-12-26 18:42:39.748 +01:00 [INF] Login successful for user: "752bb3b7-b151-47a1-810d-375eaa32ad80"
+2024-12-26 18:42:39.757 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:42:39.864 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:42:39.870 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:42:39.886 +01:00 [INF] Fetching all services
+2024-12-26 18:42:39.903 +01:00 [INF] Fetching all services
+2024-12-26 18:44:03.537 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:44:03.543 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:44:03.562 +01:00 [INF] Fetching all services
+2024-12-26 18:44:03.572 +01:00 [INF] Fetching all services
+2024-12-26 18:44:08.163 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:44:08.171 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:44:08.176 +01:00 [INF] Fetching all services
+2024-12-26 18:44:08.191 +01:00 [INF] Fetching all services
+2024-12-26 18:59:15.880 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:59:15.888 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 18:59:15.923 +01:00 [INF] Fetching all services
+2024-12-26 18:59:15.940 +01:00 [INF] Fetching all services
+2024-12-26 19:04:47.995 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 19:04:48.001 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 19:04:48.023 +01:00 [INF] Fetching all services
+2024-12-26 19:04:48.047 +01:00 [INF] Fetching all services
+2024-12-26 19:08:09.264 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 19:08:09.271 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 19:08:09.285 +01:00 [INF] Fetching all services
+2024-12-26 19:08:09.339 +01:00 [INF] Fetching all services
+2024-12-26 19:12:15.086 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 19:12:15.093 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 19:12:15.112 +01:00 [INF] Fetching all services
+2024-12-26 19:12:15.142 +01:00 [INF] Fetching all services
+2024-12-26 19:13:19.107 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 19:13:19.112 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 19:13:19.130 +01:00 [INF] Fetching all services
+2024-12-26 19:13:19.204 +01:00 [INF] Fetching all services
+2024-12-26 19:13:27.309 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 19:13:27.314 +01:00 [INF] Current user retrieved successfully: 752bb3b7-b151-47a1-810d-375eaa32ad80
+2024-12-26 19:13:27.331 +01:00 [INF] Fetching all services
+2024-12-26 19:13:27.342 +01:00 [INF] Fetching all services

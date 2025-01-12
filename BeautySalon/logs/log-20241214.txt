@@ -1,0 +1,58 @@
+2024-12-14 03:11:54.923 +01:00 [INF] Starting up the application
+2024-12-14 03:11:55.144 +01:00 [FTL] Application terminated unexpectedly
+System.AggregateException: Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: BeautySalon.Application.Services.AccountService Lifetime: Scoped ImplementationType: BeautySalon.Application.Services.AccountService': Unable to resolve service for type 'BeautySalon.Application.Services.JwtService' while attempting to activate 'BeautySalon.Application.Services.AccountService'.)
+ ---> System.InvalidOperationException: Error while validating the service descriptor 'ServiceType: BeautySalon.Application.Services.AccountService Lifetime: Scoped ImplementationType: BeautySalon.Application.Services.AccountService': Unable to resolve service for type 'BeautySalon.Application.Services.JwtService' while attempting to activate 'BeautySalon.Application.Services.AccountService'.
+ ---> System.InvalidOperationException: Unable to resolve service for type 'BeautySalon.Application.Services.JwtService' while attempting to activate 'BeautySalon.Application.Services.AccountService'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(ServiceIdentifier serviceIdentifier, Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, ServiceIdentifier serviceIdentifier, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(ServiceDescriptor descriptor, ServiceIdentifier serviceIdentifier, CallSiteChain callSiteChain, Int32 slot)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(ServiceDescriptor serviceDescriptor, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.ServiceCollectionContainerBuilderExtensions.BuildServiceProvider(IServiceCollection services, ServiceProviderOptions options)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at BeautySalon.Program.Main(String[] args) in C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon\Program.cs:line 24
+2024-12-14 03:12:18.335 +01:00 [INF] Starting up the application
+2024-12-14 03:12:18.543 +01:00 [FTL] Application terminated unexpectedly
+System.AggregateException: Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: BeautySalon.Application.Services.AccountService Lifetime: Scoped ImplementationType: BeautySalon.Application.Services.AccountService': Unable to resolve service for type 'BeautySalon.Application.Services.JwtService' while attempting to activate 'BeautySalon.Application.Services.AccountService'.)
+ ---> System.InvalidOperationException: Error while validating the service descriptor 'ServiceType: BeautySalon.Application.Services.AccountService Lifetime: Scoped ImplementationType: BeautySalon.Application.Services.AccountService': Unable to resolve service for type 'BeautySalon.Application.Services.JwtService' while attempting to activate 'BeautySalon.Application.Services.AccountService'.
+ ---> System.InvalidOperationException: Unable to resolve service for type 'BeautySalon.Application.Services.JwtService' while attempting to activate 'BeautySalon.Application.Services.AccountService'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(ServiceIdentifier serviceIdentifier, Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, ServiceIdentifier serviceIdentifier, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(ServiceDescriptor descriptor, ServiceIdentifier serviceIdentifier, CallSiteChain callSiteChain, Int32 slot)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(ServiceDescriptor serviceDescriptor, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.ServiceCollectionContainerBuilderExtensions.BuildServiceProvider(IServiceCollection services, ServiceProviderOptions options)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at BeautySalon.Program.Main(String[] args) in C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon\Program.cs:line 24
+2024-12-14 03:12:32.470 +01:00 [INF] Starting up the application
+2024-12-14 03:12:32.680 +01:00 [FTL] Application terminated unexpectedly
+System.AggregateException: Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: BeautySalon.Application.Services.AccountService Lifetime: Scoped ImplementationType: BeautySalon.Application.Services.AccountService': Unable to resolve service for type 'BeautySalon.Application.Services.JwtService' while attempting to activate 'BeautySalon.Application.Services.AccountService'.)
+ ---> System.InvalidOperationException: Error while validating the service descriptor 'ServiceType: BeautySalon.Application.Services.AccountService Lifetime: Scoped ImplementationType: BeautySalon.Application.Services.AccountService': Unable to resolve service for type 'BeautySalon.Application.Services.JwtService' while attempting to activate 'BeautySalon.Application.Services.AccountService'.
+ ---> System.InvalidOperationException: Unable to resolve service for type 'BeautySalon.Application.Services.JwtService' while attempting to activate 'BeautySalon.Application.Services.AccountService'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(ServiceIdentifier serviceIdentifier, Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, ServiceIdentifier serviceIdentifier, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(ServiceDescriptor descriptor, ServiceIdentifier serviceIdentifier, CallSiteChain callSiteChain, Int32 slot)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(ServiceDescriptor serviceDescriptor, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.ServiceCollectionContainerBuilderExtensions.BuildServiceProvider(IServiceCollection services, ServiceProviderOptions options)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at BeautySalon.Program.Main(String[] args) in C:\Users\Artur\OneDrive\Pulpit\Studia\3\Projekt\BeautySalon\BeautySalon\Program.cs:line 24
+2024-12-14 03:13:58.098 +01:00 [INF] Starting up the application
