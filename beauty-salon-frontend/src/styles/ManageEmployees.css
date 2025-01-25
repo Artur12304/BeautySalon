@@ -1,0 +1,126 @@
+.manage-employees {
+  background-color: #fdf2f4;
+  padding: 2rem;
+  max-width: 60%;
+  margin: 0 auto;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-top: 3rem;
+  position: relative;
+}
+
+.manage-employees-content {
+  display: flex;
+  flex-direction: column;
+}
+
+h2 {
+  color: #d67291;
+  font-size: 1.5rem;
+}
+
+h3 {
+  color: #d67291;
+  font-size: 2rem;
+}
+
+.add-employee-btn {
+  background-color: #d67291;
+  color: white;
+  padding: 0.6rem 1rem;
+  border-radius: 50%;
+  font-size: 1.5rem;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  cursor: pointer;
+  z-index: 10;
+}
+
+.add-employee-btn:hover {
+  background-color: #c06081;
+}
+
+.employee-form {
+  background-color: #fff;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.employee-form input {
+  width: 100%;
+  padding: 0.5rem;
+  margin: 0.5rem 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.employee-form button {
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.employee-form button:hover {
+  opacity: 0.8;
+}
+
+.employee-list {
+  margin-top: 2rem;
+}
+
+.employee-item {
+  display: flex;
+  justify-content: space-between;
+  background-color: #f9f9f9;
+  padding: 1rem;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  margin-bottom: 1rem;
+}
+
+.employee-details {
+  width: 70%;
+}
+
+.employee-actions {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.employee-item button {
+  background-color: #ff6459;
+  color: white;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.employee-item button:hover {
+  background-color: #ff4037;
+}
+
+.delete-confirmation {
+  background-color: #f9f9f9;
+  border-radius: 5px;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.delete-confirmation button {
+  margin-top: 10px;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.delete-confirmation button:hover {
+  opacity: 0.8;
+}

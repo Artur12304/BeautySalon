@@ -1,0 +1,61 @@
+.calendar-container {
+  background-color: #ffffff;
+  border: 3px solid #d67291;
+  padding: 2rem;
+  max-width: 60%;
+  margin: 0 auto;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+h2 {
+  margin-bottom: 1.5rem;
+  color: #d67291;
+}
+
+button {
+  background-color: #d67291;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #c06081;
+}
+
+/* Style for calendar */
+.fc-daygrid-day.fc-day-today {
+  background-color: #fdf7f8;
+}
+
+.fc-daygrid-day.fc-day-other {
+  background-color: #fff;
+}
+
+.fc-daygrid-day.fc-day-past {
+  background-color: #e8e8e8;
+  color: #bbb;
+}
+.fc-event {
+  color: rgb(0, 0, 0);
+  font-size: 0.8rem;
+}
+
+.fc-timegrid-slot {
+  font-size: 0.9rem;
+}
+
+.fc-event:hover {
+  background-color: #c06081;
+}
+
+.fc-timegrid-event {
+  background-color: #6f9f6d;
+}

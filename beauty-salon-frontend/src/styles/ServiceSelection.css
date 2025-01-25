@@ -1,0 +1,27 @@
+.service-selection {
+    padding: 2rem;
+    text-align: center;
+    background-color: #fdf2f4;
+    min-height: 100vh;
+}
+
+.service-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1.5rem;
+    margin-top: 2rem;
+}
+
+.service-item {
+    padding: 1rem;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    transition: transform 0.2s ease;
+}
+
+.service-item:hover {
+    transform: scale(1.05);
+    background-color: #fdf7f8;
+}

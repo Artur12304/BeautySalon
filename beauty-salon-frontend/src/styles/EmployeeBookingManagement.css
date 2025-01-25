@@ -1,0 +1,152 @@
+.employee-booking-management {
+  background-color: #fdf2f4;
+  padding: 2rem;
+  max-width: 60%;
+  margin: 0 auto;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-top: 3rem;
+}
+
+.employee-booking-management-content {
+  width: 100%;
+  padding: 2rem;
+}
+
+h2 {
+  color: #d67291;
+  font-size: 1.5rem;
+}
+
+.pending-appointments {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.appointment-card {
+  background-color: #f9f9f9;
+  margin: 10px 0;
+  padding: 15px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.appointment-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.booking-status {
+  font-weight: bold;
+  padding: 0.2rem 0.5rem;
+  border-radius: 5px;
+  color: white;
+}
+
+.booking-status.pending {
+  background-color: #8dbfff;
+  color: white;
+}
+
+.booking-status.confirmed {
+  background-color: #4caf50;
+}
+
+.appointment-body {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1rem;
+}
+
+.booking-details,
+.employee-details {
+  width: 48%;
+}
+
+.action-buttons {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1rem;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.approve-button {
+  background-color: #4bd07c;
+  color: white;
+}
+
+.approve-button:hover {
+  background-color: #2cdb44;
+  color: white;
+}
+
+.cancel-button {
+  background-color: #ff9790;
+  color: white;
+}
+
+.cancel-button:hover {
+  background-color: #ff6459;
+  color: white;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+.confirmation-popup {
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 10;
+  width: 300px;
+  text-align: center;
+}
+
+.confirmation-popup button {
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.confirm-approve {
+  background-color: #4caf50;
+  color: white;
+}
+
+.confirm-approve:hover {
+  background-color: #2cdb44;
+}
+
+.confirm-cancel {
+  background-color: #4caf50;
+  color: white;
+}
+
+.confirm-cancel:hover {
+  background-color: #2cdb44;
+}
+
+.cancel-button {
+  background-color: #f44336;
+  color: white;
+}
+
+.cancel-button:hover {
+  background-color: #ff6459;
+}

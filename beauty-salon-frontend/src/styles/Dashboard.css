@@ -1,0 +1,31 @@
+.dashboard-container {
+  background-color: #fdf2f4;
+  padding: 2rem;
+  max-width: 60%;
+  margin: 0 auto;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-top: 3rem;
+}
+
+h1,
+h2,
+h3 {
+  margin: 0;
+  color: #d67291;
+}
+
+button {
+  background-color: #d67291;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #c06081;
+}

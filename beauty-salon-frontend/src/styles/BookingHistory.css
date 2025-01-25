@@ -1,0 +1,71 @@
+.booking-history {
+  background-color: #fdf2f4;
+  padding: 2rem;
+  max-width: 60%;
+  margin: 0 auto;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-top: 3rem;
+}
+
+.booking-history h2 {
+  color: #d67291;
+}
+
+.booking-history-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.appointment-card {
+  background-color: #f9f9f9;
+  margin: 10px 0;
+  padding: 15px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.appointment-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.appointment-header h4 {
+  margin: 0;
+}
+
+.booking-status {
+  padding: 5px 10px;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+.booking-status.pending {
+  background-color: #8dbfff;
+  color: white;
+}
+
+.booking-status.confirmed {
+  background-color: #6f9f6d;
+}
+
+.booking-status.cancelled {
+  background-color: #f44336;
+  color: white;
+}
+
+.appointment-body {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1rem;
+}
+
+.booking-details,
+.employee-details {
+  width: 48%;
+}
+
+.error-message {
+  color: red;
+}

@@ -1,0 +1,132 @@
+.register-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #fdf2f4;
+  padding: 1rem;
+  box-sizing: border-box;
+}
+
+.register-form {
+  background: #ffffff;
+  padding: 2rem;
+  border-radius: 16px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 400px;
+  margin: auto;
+}
+
+h2 {
+  text-align: center;
+  color: #d67291;
+  font-size: 1.8rem;
+  margin-bottom: 1.5rem;
+}
+
+.form-group {
+  margin-bottom: 1.2rem;
+}
+
+label {
+  display: block;
+  font-weight: bold;
+  color: #7a7a7a;
+  margin-bottom: 0.5rem;
+}
+
+input {
+  width: calc(100% - 2px);
+  padding: 0.8rem;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  background-color: #fdf7f8;
+  outline: none;
+  font-size: 1rem;
+  transition: border-color 0.3s;
+  box-sizing: border-box;
+}
+
+input:focus {
+  border-color: #d67291;
+  box-shadow: 0 0 4px rgba(214, 114, 145, 0.5);
+}
+
+.register-button {
+  width: 100%;
+  padding: 0.8rem;
+  background-color: #d67291;
+  color: #ffffff;
+  font-size: 1rem;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.2s;
+}
+
+.register-button:disabled {
+  background-color: #e0e0e0;
+  cursor: not-allowed;
+}
+
+.register-button:hover:not(:disabled) {
+  background-color: #c06081;
+  transform: translateY(-2px);
+}
+
+.error-message {
+  color: #ff6b6b;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.success-message {
+  color: #5db075;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.redirect-text {
+  text-align: center;
+  margin-top: 1rem;
+  font-size: 0.9rem;
+  color: #7a7a7a;
+}
+
+.redirect-link {
+  color: #d67291;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.redirect-link:hover {
+  text-decoration: underline;
+}
+
+.success-container {
+  text-align: center;
+  margin-top: 0rem;
+  background-color: #ffffff;
+  padding: 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.success-login-button {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.8rem 1.2rem;
+  background-color: #d67291;
+  color: white;
+  font-size: 1rem;
+  text-decoration: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.success-login-button:hover {
+  background-color: #c06081;
+}

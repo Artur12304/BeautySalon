@@ -1,0 +1,19 @@
+.upcoming-bookings {
+  background-color: #fff;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.booking-item {
+  margin-bottom: 1rem;
+}
+
+.booking-item p {
+  margin: 0.5rem 0;
+}
+
+h3 {
+  color: #d67291;
+  margin-bottom: 1rem;
+}
